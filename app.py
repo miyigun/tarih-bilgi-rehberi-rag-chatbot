@@ -480,7 +480,7 @@ def main():
         with col1:
             user_question_from_box = st.text_input(
                 "Sorunuzu yazın:",
-                placeholder="Örn: İstanbul'un Fethi'nin sonuçları nelerdir?",
+                placeholder="Örn: İstanbul'un Fethi'nin dünya tarihi açısından sonuçları nelerdir?",
                 label_visibility="collapsed",
                 value="" 
             )
