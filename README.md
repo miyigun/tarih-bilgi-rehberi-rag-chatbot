@@ -237,24 +237,34 @@ streamlit run app.py
 Chatbot'u test etmek için şu soruları deneyebilirsiniz:
 
 **İslamiyet Öncesi:**
-- "Göktürk Devleti'nin kuruluşu ve önemi nedir?"
-- "Orhun Yazıtları ne anlatır?"
+- "Göktürk Kağanlığı'nın kuruluşu hakkında bilgi ver"
+- "Orhun Yazıtları'nın Türk tarihi için önemi nedir?"
+- "Uygur Kağanlığı'nın yerleşik hayata geçişi nasıl oldu?"
 
 **Türk-İslam Devletleri:**
-- "Büyük Selçuklu Devleti'nin sınırları nerelereydi?"
-- "İkta sistemi nasıl işlerdi?"
+- "Karahanlı Devleti'nin İslamiyet'i kabulü nasıl oldu?"
+- "Gazneli Mahmud'un Hindistan seferlerinin amaçları nelerdi?"
+- "Büyük Selçuklu Devleti'nin en parlak dönemi ne zamandı?"
+
+**Anadolu Beylikleri:**
+- "Anadolu Selçuklu Devleti'nin başkenti neresiydi?"
+- "Kösedağ Savaşı'nın Anadolu'daki siyasi etkileri nelerdir?"
+- "Karamanoğulları Beyliği'nin Türkçeye verdiği önem nedir?"
 
 **Osmanlı:**
-- "İstanbul'un fethi nasıl gerçekleşti?"
-- "Tanzimat Fermanı nedir ve etkileri neler?"
+- "İstanbul'un Fethi'nin dünya tarihi açısından sonuçları nelerdir?"
+- "Kanuni Sultan Süleyman dönemi neden 'Muhteşem Yüzyıl' olarak adlandırılır?"
+- "Tanzimat Fermanı'nın amacı neydi?"
 
 **Millî Mücadele:**
-- "Amasya Genelgesi'nin önemi nedir?"
-- "Sakarya Meydan Muharebesi nasıl kazanıldı?"
+- "Amasya Genelgesi'nin Millî Mücadele'deki yeri nedir?"
+- "Erzurum Kongresi'nde alınan temel kararlar nelerdir?"
+- "Sakarya Meydan Muharebesi'nin sonuçları nelerdir?"
 
 **Cumhuriyet:**
-- "Atatürk inkılapları nelerdir?"
-- "Çok partili hayata geçiş süreci nasıl oldu?"
+- "Cumhuriyet'in ilanı ne zaman ve nasıl gerçekleşti?"
+- "Harf İnkılabı'nın amacı ve sonuçları nedir?"
+- "Çok partili hayata geçiş denemeleri nelerdir?"
 
 ---
 
