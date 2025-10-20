@@ -1,0 +1,3402 @@
+[
+  {
+    "id": "islam_kabul_001",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Türklerin İslamiyet'i Kabulü",
+    "kategori": {
+      "ana": "İlk Temaslar",
+      "alt": "Askeri ve Siyasi Olaylar"
+    },
+    "konu": "Talas Savaşı (751) ve Etkileri",
+    "icerik": "751 yılındaki Talas Savaşı, Abbasiler ile Çin arasında gerçekleşmiş ve Karluk Türklerinin Abbasiler safında yer almasıyla sonuçlanmıştır. Bu savaş, Türkler ile Müslüman Araplar arasındaki ilişkilerin gelişmesine ve Türklerin İslamiyet'i daha yakından tanımasına önemli bir kapı aralamıştır.",
+    "yil": 751,
+    "anahtar_kelimeler": ["Talas Savaşı", "Abbasiler", "Çin", "Karluklar", "İslamiyet", "İlk Temas"],
+    "etiketler": ["savaş", "siyasi tarih", "dönüm noktası", "kültürel etkileşim"],
+    "kaynak": "Vikipedi: Talas Muharebesi",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/Talas_Muharebesi"
+  },
+  {
+    "id": "islam_kabul_002",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Türklerin İslamiyet'i Kabulü",
+    "kategori": {
+      "ana": "İnanç Sistemleri",
+      "alt": "Karşılaştırmalı İnanç"
+    },
+    "konu": "Gök Tanrı İnancı ve İslamiyet Arasındaki Benzerlikler",
+    "icerik": "Türklerin İslamiyet'i kabulünü kolaylaştıran etkenlerden biri, eski Gök Tanrı inancındaki tek tanrı anlayışının İslam'daki Tevhid inancıyla benzerlik göstermesidir. Ayrıca, ahiret inancı, kurban kesme gibi bazı uygulamaların varlığı da geçiş sürecinde etkili olmuştur.",
+    "yil": 700,
+    "anahtar_kelimeler": ["Gök Tanrı İnancı", "Tengricilik", "İslamiyet", "Tevhid", "Tek Tanrı", "Benzerlikler"],
+    "etiketler": ["din", "inanç", "karşılaştırmalı din", "kültürel yakınlık"],
+    "kaynak": "Genel Dinler Tarihi Bilgisi (Derlenmiş)",
+    "kaynak_turu": "Derleme",
+    "referans_link": null
+  },
+  {
+    "id": "islam_kabul_003",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Türklerin İslamiyet'i Kabulü",
+    "kategori": {
+      "ana": "İlk Müslüman Türk Boyları",
+      "alt": "Kitlesel Kabul"
+    },
+    "konu": "Karlukların İslamiyet'i Kabulü",
+    "icerik": "Talas Savaşı'nda Abbasilerin yanında yer alan Karluklar, İslamiyet'i toplu olarak kabul eden ilk Türk boylarından biri olarak kabul edilir. Karlukların bu tercihi, diğer Türk boylarının da İslamiyet'e yönelmesinde etkili olmuştur.",
+    "yil": 760,
+    "anahtar_kelimeler": ["Karluklar", "İslamiyet'i Kabul", "İlk Müslüman Türk Boyu", "Talas Savaşı", "Kitlesel Din Değişimi"],
+    "etiketler": ["etnik grup", "din tarihi", "siyasi tarih"],
+    "kaynak": "Vikipedi: Karluklar",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/Karluklar"
+  },
+  {
+    "id": "islam_kabul_004",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Türklerin İslamiyet'i Kabulü",
+    "kategori": {
+      "ana": "Siyasi İlişkiler",
+      "alt": "Abbasi Halifeliği ve Türkler"
+    },
+    "konu": "Abbasilerin Türklere Yönelik Politikası",
+    "icerik": "Abbasiler, Emevilerin aksine Arap olmayan Müslümanlara (mevali) karşı daha eşitlikçi bir politika izlemiştir. Bu durum ve Abbasilerin Türkleri askeri ve idari alanlarda görevlendirmesi, Türklerin İslamiyet'e ısınmasını ve devlet kademelerinde yükselmesini sağlamıştır.",
+    "yil": 750,
+    "anahtar_kelimeler": ["Abbasiler", "Türkler", "Mevali Politikası", "Askeri Görev", "İdari Görev", "İslamlaşma"],
+    "etiketler": ["siyasi tarih", "devlet politikası", "sosyal tarih"],
+    "kaynak": "Genel İslam Tarihi Bilgisi (Derlenmiş)",
+    "kaynak_turu": "Derleme",
+    "referans_link": null
+  },
+  {
+    "id": "islam_kabul_005",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Türklerin İslamiyet'i Kabulü",
+    "kategori": {
+      "ana": "İlk Müslüman Türk Devletleri",
+      "alt": "Devlet Dini Olarak İslamiyet"
+    },
+    "konu": "İtil (Volga) Bulgar Hanlığı'nın İslamiyet'i Kabulü",
+    "icerik": "İslamiyet'i devlet dini olarak kabul eden ilk Türk devleti İtil (Volga) Bulgar Hanlığı'dır. Hanları Almış Han, 922 yılında Abbasi Halifesi'ne elçi göndererek İslamiyet'i resmen kabul etmiş ve halifeden din alimleri ve ustalar talep etmiştir.",
+    "yil": 922,
+    "anahtar_kelimeler": ["İtil Bulgar Hanlığı", "Volga Bulgarları", "Almış Han", "İslamiyet'i Kabul", "Devlet Dini", "Abbasiler"],
+    "etiketler": ["devlet", "din tarihi", "siyasi tarih", "ilkler"],
+    "kaynak": "Vikipedi: İdil Bulgarları",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/%C4%B0dil_Bulgarlar%C4%B1"
+  },
+  {
+    "id": "islam_kabul_006",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Türklerin İslamiyet'i Kabulü",
+    "kategori": {
+      "ana": "İlk Müslüman Türk Devletleri",
+      "alt": "Orta Asya'da İslamiyet"
+    },
+    "konu": "Karahanlı Devleti ve Satuk Buğra Han",
+    "icerik": "Orta Asya'da İslamiyet'i kabul eden ilk büyük Türk devleti Karahanlılardır. Karahanlı hükümdarı Satuk Buğra Han'ın 10. yüzyılın ortalarında İslamiyet'i kabul etmesi, devletin ve halkın büyük çoğunluğunun Müslüman olmasında bir dönüm noktası olmuştur.",
+    "yil": 940,
+    "anahtar_kelimeler": ["Karahanlı Devleti", "Satuk Buğra Han", "İslamiyet'i Kabul", "Orta Asya", "Türk-İslam Devleti"],
+    "etiketler": ["devlet", "din tarihi", "hükümdar", "dönüm noktası"],
+    "kaynak": "Vikipedi: Satuk Buğra Han",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/Satuk_Bu%C4%9Fra_Han"
+  },
+  {
+    "id": "islam_kabul_007",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Türklerin İslamiyet'i Kabulü",
+    "kategori": {
+      "ana": "Yayılma Süreci",
+      "alt": "Ticaret ve Kültürel Etkileşim"
+    },
+    "konu": "Ticaret Yollarının Rolü",
+    "icerik": "İpek Yolu gibi ticaret yolları, Müslüman tüccarlar ile Türkler arasında yoğun bir etkileşim sağlamıştır. Bu ticari ilişkiler, sadece mal alışverişini değil, aynı zamanda İslam kültürünün ve inancının Türkler arasında tanınmasını ve yayılmasını da kolaylaştırmıştır.",
+    "yil": 800,
+    "anahtar_kelimeler": ["Ticaret Yolları", "İpek Yolu", "Müslüman Tüccarlar", "Kültürel Etkileşim", "İslamiyet'in Yayılması"],
+    "etiketler": ["ticaret tarihi", "kültür tarihi", "din tarihi"],
+    "kaynak": "Vikipedi: İpek Yolu (Genel Bilgi)",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/%C4%B0pek_Yolu"
+  },
+  {
+    "id": "islam_kabul_008",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Türklerin İslamiyet'i Kabulü",
+    "kategori": {
+      "ana": "Yayılma Süreci",
+      "alt": "Tasavvuf ve Dervişler"
+    },
+    "konu": "Sufi Dervişlerin Etkisi",
+    "icerik": "İslamiyet'in Türkler arasında yayılmasında, özellikle Maveraünnehir ve Horasan bölgesinde faaliyet gösteren sufi dervişlerin önemli bir rolü olmuştur. Hoşgörülü yaklaşımları ve halkın anlayacağı bir dil kullanmaları, İslamiyet'in göçebe Türkler arasında benimsenmesini kolaylaştırmıştır.",
+    "yil": 900,
+    "anahtar_kelimeler": ["Sufizm", "Tasavvuf", "Dervişler", "İslamiyet'in Yayılması", "Maveraünnehir", "Horasan"],
+    "etiketler": ["din tarihi", "tasavvuf tarihi", "kültürel etkileşim"],
+    "kaynak": "Genel İslam Tarihi Bilgisi (Derlenmiş)",
+    "kaynak_turu": "Derleme",
+    "referans_link": null
+  },
+  {
+    "id": "islam_kabul_009",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Türklerin İslamiyet'i Kabulü",
+    "kategori": {
+      "ana": "Siyasi İlişkiler",
+      "alt": "Samaniler ve Türkler"
+    },
+    "konu": "Samaniler Devleti'nin Etkisi",
+    "icerik": "Maveraünnehir'de hüküm süren Fars kökenli Samaniler Devleti, sınırlarında yaşayan Türk boylarıyla yoğun ilişkiler kurmuştur. Samanilerin İslam kültürünü temsil etmesi ve Türkleri ordularında görevlendirmesi, Türklerin İslamlaşma sürecini hızlandıran faktörlerdendir.",
+    "yil": 850,
+    "anahtar_kelimeler": ["Samaniler", "Maveraünnehir", "Türkler", "İslamlaşma", "Kültürel Etkileşim", "Askeri İlişkiler"],
+    "etiketler": ["siyasi tarih", "kültür tarihi", "din tarihi"],
+    "kaynak": "Vikipedi: Samanîler",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/Saman%C3%AEler"
+  },
+  {
+    "id": "islam_kabul_010",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Türklerin İslamiyet'i Kabulü",
+    "kategori": {
+      "ana": "İnanç Sistemleri",
+      "alt": "İslamiyet Öncesi İnançların Etkisi"
+    },
+    "konu": "İslamiyet Öncesi İnançların İslam Anlayışına Etkisi",
+    "icerik": "Türklerin İslamiyet'i kabulünden sonra, eski inanç ve geleneklerinden bazı unsurlar İslami anlayış içinde varlığını sürdürmüştür. Özellikle tasavvufi yorumlarda ve halk dindarlığında Şamanizm'den ve diğer eski inançlardan izlere rastlamak mümkündür.",
+    "yil": 1000,
+    "anahtar_kelimeler": ["İslamiyet", "Eski Türk İnançları", "Şamanizm", "Senkretizm", "Tasavvuf", "Halk Dindarlığı"],
+    "etiketler": ["din tarihi", "kültür tarihi", "senkretizm", "inanç"],
+    "kaynak": "Genel Dinler Tarihi Bilgisi (Derlenmiş)",
+    "kaynak_turu": "Derleme",
+    "referans_link": null
+  },
+  {
+    "id": "islam_kabul_011",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Türklerin İslamiyet'i Kabulü",
+    "kategori": {
+      "ana": "Kabul Süreci",
+      "alt": "Zaman Dilimi"
+    },
+    "konu": "İslamlaşma Sürecinin Uzunluğu",
+    "icerik": "Türklerin İslamiyet'i kabulü tek bir olayla değil, yüzyıllara yayılan uzun bir süreçte gerçekleşmiştir. Farklı Türk boyları, farklı zamanlarda ve farklı nedenlerle İslamiyet'i benimsemişlerdir. Kitlesel kabuller 8. yüzyıldan itibaren başlasa da süreç 10. ve 11. yüzyıllarda yoğunlaşmıştır.",
+    "yil": 750,
+    "anahtar_kelimeler": ["İslamlaşma Süreci", "Uzun Süreç", "Kitlesel Kabul", "Türk Boyları", "Zaman Dilimi"],
+    "etiketler": ["din tarihi", "sosyal değişim", "tarihsel süreç"],
+    "kaynak": "Genel Tarih Bilgisi (Derlenmiş)",
+    "kaynak_turu": "Derleme",
+    "referans_link": null
+  },
+  {
+    "id": "islam_kabul_012",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Türklerin İslamiyet'i Kabulü",
+    "kategori": {
+      "ana": "Sonuçlar",
+      "alt": "Türk-İslam Kültürünün Doğuşu"
+    },
+    "konu": "Türk-İslam Sentezinin Oluşumu",
+    "icerik": "Türklerin İslamiyet'i kabulü, eski Türk kültürü ile İslam medeniyetinin kaynaşması sonucu 'Türk-İslam Kültürü' veya 'Türk-İslam Sentezi' olarak adlandırılan yeni bir kültürel yapının doğmasına yol açmıştır. Bu sentez; dil, edebiyat, sanat, devlet yönetimi gibi birçok alanda kendini göstermiştir.",
+    "yil": 1000,
+    "anahtar_kelimeler": ["Türk-İslam Kültürü", "Türk-İslam Sentezi", "Kültürel Kaynaşma", "Medeniyet", "Dil", "Sanat"],
+    "etiketler": ["kültür tarihi", "medeniyet tarihi", "sentez"],
+    "kaynak": "Genel Kültür Tarihi Bilgisi (Derlenmiş)",
+    "kaynak_turu": "Derleme",
+    "referans_link": null
+  },
+  {
+    "id": "islam_kabul_013",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Türklerin İslamiyet'i Kabulü",
+    "kategori": {
+      "ana": "Sonuçlar",
+      "alt": "İslam Dünyasındaki Rol"
+    },
+    "konu": "Türklerin İslam Dünyasındaki Askeri ve Siyasi Rolü",
+    "icerik": "Türklerin İslamiyet'i kabulüyle birlikte, savaşçı yetenekleri sayesinde İslam dünyasının askeri gücü artmıştır. Abbasiler döneminden itibaren orduda önemli görevler üstlenen Türkler, zamanla Selçuklular ve Gazneliler gibi kendi devletlerini kurarak İslam dünyasının siyasi liderliğini de ele geçirmişlerdir.",
+    "yil": 900,
+    "anahtar_kelimeler": ["İslam Dünyası", "Askeri Rol", "Siyasi Rol", "Abbasiler", "Selçuklular", "Gazneliler"],
+    "etiketler": ["askeri tarih", "siyasi tarih", "devlet"],
+    "kaynak": "Genel İslam Tarihi Bilgisi (Derlenmiş)",
+    "kaynak_turu": "Derleme",
+    "referans_link": null
+  },
+  {
+    "id": "islam_kabul_014",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Türklerin İslamiyet'i Kabulü",
+    "kategori": {
+      "ana": "İlk Müslüman Türk Boyları",
+      "alt": "Karahanlılar Öncesi"
+    },
+    "konu": "Yağma ve Çiğil Boylarının İslamlaşması",
+    "icerik": "Karluklarla birlikte Karahanlı Devleti'ni oluşturan ana unsurlardan olan Yağma ve Çiğil boyları da İslamiyet'i erken dönemde benimseyen Türk topluluklarındandır. Bu boyların İslamlaşması, Karahanlı Devleti'nin Türk-İslam kimliğinin temelini atmıştır.",
+    "yil": 900,
+    "anahtar_kelimeler": ["Yağma Boyu", "Çiğil Boyu", "İslamlaşma", "Karahanlı Devleti", "Türk Boyları"],
+    "etiketler": ["etnik grup", "din tarihi", "devlet oluşumu"],
+    "kaynak": "Vikipedi: Karahanlılar",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/Karahanl%C4%B1lar"
+  },
+  {
+    "id": "islam_kabul_015",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Türklerin İslamiyet'i Kabulü",
+    "kategori": {
+      "ana": "Kabul Süreci",
+      "alt": "Gönüllülük Esası"
+    },
+    "konu": "İslamiyet'in Gönüllü Kabulü",
+    "icerik": "Türklerin İslamiyet'i kabulü, genellikle dışarıdan bir askeri zorlama veya fetih yoluyla değil, daha çok gönüllülük esasına dayalı olarak gerçekleşmiştir. Ticari, kültürel ve siyasi etkileşimler sonucunda Türkler, İslamiyet'i kendi tercihleriyle benimsemişlerdir.",
+    "yil": 0,
+    "anahtar_kelimeler": ["İslamiyet'i Kabul", "Gönüllülük", "Zorlama Olmaması", "Kültürel Etkileşim", "Ticaret"],
+    "etiketler": ["din tarihi", "sosyal değişim", "tercih"],
+    "kaynak": "Genel Tarih Yorumu (Derlenmiş)",
+    "kaynak_turu": "Derleme",
+    "referans_link": null
+  },
+  {
+    "id": "islam_kabul_016",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Türklerin İslamiyet'i Kabulü",
+    "kategori": {
+      "ana": "İnanç Sistemleri",
+      "alt": "Ahlaki Değerler"
+    },
+    "konu": "Türk Töre Anlayışı ve İslami Ahlak",
+    "icerik": "Eski Türklerdeki 'töre' anlayışında yer alan adalet, dürüstlük, cesaret, yardımseverlik gibi ahlaki değerler ile İslamiyet'in vurguladığı ahlaki ilkeler arasında paralellikler bulunması, İslamiyet'in kabulünü kolaylaştıran sosyal ve kültürel bir etken olmuştur.",
+    "yil": 0,
+    "anahtar_kelimeler": ["Töre", "İslami Ahlak", "Ahlaki Değerler", "Adalet", "Dürüstlük", "Cesaret", "Paralellikler"],
+    "etiketler": ["ahlak felsefesi", "kültür tarihi", "din", "töre"],
+    "kaynak": "Genel Kültür Tarihi Bilgisi (Derlenmiş)",
+    "kaynak_turu": "Derleme",
+    "referans_link": null
+  },
+  {
+    "id": "islam_kabul_017",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Türklerin İslamiyet'i Kabulü",
+    "kategori": {
+      "ana": "İlk Müslüman Türk Devletleri",
+      "alt": "Orta Asya'da İslamiyet"
+    },
+    "konu": "Satuk Buğra Han Destanı",
+    "icerik": "Satuk Buğra Han'ın İslamiyet'i kabulü, Türk sözlü geleneğinde destansı bir anlatımla yer bulmuştur. Bu destan, Satuk Buğra Han'ın rüyasında İslam peygamberini görmesi veya Müslüman din adamlarıyla karşılaşması gibi motiflerle onun İslamiyet'e geçişini anlatır ve bu olayın önemini vurgular.",
+    "yil": 940,
+    "anahtar_kelimeler": ["Satuk Buğra Han Destanı", "Karahanlılar", "İslamiyet'i Kabul", "Destan", "Sözlü Gelenek", "Mitoloji"],
+    "etiketler": ["edebiyat", "folklor", "din tarihi", "destan"],
+    "kaynak": "Vikipedi: Satuk Buğra Han",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/Satuk_Bu%C4%9Fra_Han"
+  },
+  {
+    "id": "islam_kabul_018",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Türklerin İslamiyet'i Kabulü",
+    "kategori": {
+      "ana": "Sonuçlar",
+      "alt": "İslam Medeniyetine Katkı"
+    },
+    "konu": "Türklerin İslam Medeniyetine Katkıları",
+    "icerik": "İslamiyet'i kabul ettikten sonra Türkler, kurdukları devletler, yetiştirdikleri bilim adamları (Farabi, İbn Sina, Biruni vb.), geliştirdikleri sanat ve mimari anlayışıyla İslam medeniyetine önemli katkılarda bulunmuşlardır. İslam dünyasının korunması ve genişlemesinde de kilit rol oynamışlardır.",
+    "yil": 1000,
+    "anahtar_kelimeler": ["İslam Medeniyeti", "Türk Katkısı", "Bilim", "Sanat", "Mimari", "Devlet Yönetimi"],
+    "etiketler": ["medeniyet tarihi", "bilim tarihi", "sanat tarihi", "kültür tarihi"],
+    "kaynak": "Genel İslam Medeniyeti Tarihi (Derlenmiş)",
+    "kaynak_turu": "Derleme",
+    "referans_link": null
+  },
+  {
+    "id": "islam_kabul_019",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Türklerin İslamiyet'i Kabulü",
+    "kategori": {
+      "ana": "İlk Temaslar",
+      "alt": "Coğrafi Yakınlık"
+    },
+    "konu": "Maveraünnehir'in Rolü",
+    "icerik": "Seyhun ve Ceyhun nehirleri arasında kalan Maveraünnehir bölgesi, Türkler ile Müslüman Araplar arasındaki ilk temasların ve kültürel alışverişin yoğun yaşandığı bir coğrafyaydı. Bu bölgedeki şehirler (Buhara, Semerkant), İslamiyet'in Türkler arasında yayılmasında kilit rol oynamıştır.",
+    "yil": 700,
+    "anahtar_kelimeler": ["Maveraünnehir", "Coğrafi Yakınlık", "İlk Temaslar", "Kültürel Alışveriş", "Buhara", "Semerkant"],
+    "etiketler": ["coğrafya", "tarih", "kültürel etkileşim"],
+    "kaynak": "Genel Tarih Bilgisi (Derlenmiş)",
+    "kaynak_turu": "Derleme",
+    "referans_link": null
+  },
+  {
+    "id": "islam_kabul_020",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Türklerin İslamiyet'i Kabulü",
+    "kategori": {
+      "ana": "İnanç Sistemleri",
+      "alt": "Gaza ve Cihat Anlayışı"
+    },
+    "konu": "Gaza Anlayışının Benimsenmesi",
+    "icerik": "İslamiyet'teki gaza ve cihat anlayışı, Türklerin savaşçı karakteri ve 'alp'lık geleneğiyle uyum göstermiştir. İslamiyet'i yayma ve koruma ideali, Türklerin askeri enerjisini yeni bir hedefe yönlendirmiş ve fetih hareketlerini motive etmiştir.",
+    "yil": 950,
+    "anahtar_kelimeler": ["Gaza", "Cihat", "Alplık Geleneği", "Savaşçı Karakter", "Fetih", "Motivasyon"],
+    "etiketler": ["din", "askeri tarih", "kültürel uyum", "ideoloji"],
+    "kaynak": "Genel İslam Tarihi Bilgisi (Derlenmiş)",
+    "kaynak_turu": "Derleme",
+    "referans_link": null
+  },
+  {
+    "id": "islam_kabul_021",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Türklerin İslamiyet'i Kabulü",
+    "kategori": {
+      "ana": "İlk Müslüman Türk Boyları",
+      "alt": "Oğuzlar (Türkmenler)"
+    },
+    "konu": "Oğuzların İslamlaşması",
+    "icerik": "Selçuklu Devleti'nin kurucu unsuru olan Oğuzlar (Türkmenler), 10. yüzyılın ikinci yarısından itibaren kitleler halinde İslamiyet'i kabul etmeye başlamışlardır. Bu durum, İslam dünyasının siyasi haritasını değiştiren Selçuklu ilerleyişinin de temelini oluşturmuştur.",
+    "yil": 960,
+    "anahtar_kelimeler": ["Oğuzlar", "Türkmenler", "İslamlaşma", "Selçuklular", "Kitlesel Kabul"],
+    "etiketler": ["etnik grup", "din tarihi", "siyasi tarih"],
+    "kaynak": "Vikipedi: Oğuzlar",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/O%C4%9Fuzlar"
+  },
+  {
+    "id": "islam_kabul_022",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Türklerin İslamiyet'i Kabulü",
+    "kategori": {
+      "ana": "Siyasi İlişkiler",
+      "alt": "Abbasi Halifeliği ve Türkler"
+    },
+    "konu": "Türklerin Abbasi Ordusundaki Yükselişi",
+    "icerik": "Abbasiler, özellikle Halife Mutasım döneminden itibaren Türklerden oluşan özel askeri birlikler kurmuşlardır. Savaşçı yetenekleri sayesinde Türkler, orduda ve sarayda hızla yükselerek zamanla halifeler üzerinde dahi etkili olacak bir güce ulaşmışlardır.",
+    "yil": 833,
+    "anahtar_kelimeler": ["Abbasiler", "Türk Askerler", "Halife Mutasım", "Askeri Birlikler", "Siyasi Güç"],
+    "etiketler": ["askeri tarih", "siyasi tarih", "devlet yapısı"],
+    "kaynak": "Genel İslam Tarihi Bilgisi (Derlenmiş)",
+    "kaynak_turu": "Derleme",
+    "referans_link": null
+  },
+  {
+    "id": "islam_kabul_023",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Türklerin İslamiyet'i Kabulü",
+    "kategori": {
+      "ana": "İnanç Sistemleri",
+      "alt": "Karşılaştırmalı İnanç"
+    },
+    "konu": "Kurban Geleneğinin Devamlılığı",
+    "icerik": "İslamiyet öncesi Türk inancında önemli bir yeri olan kurban kesme geleneği, İslamiyet'in kabulünden sonra da İslami kurallar çerçevesinde devam etmiştir. Bu durum, eski geleneklerin yeni din içinde adaptasyonuna bir örnektir.",
+    "yil": 0,
+    "anahtar_kelimeler": ["Kurban", "Gelenek", "Tengricilik", "İslamiyet", "Adaptasyon", "Ritüel"],
+    "etiketler": ["din", "kültürel devamlılık", "ritüel"],
+    "kaynak": "Genel Dinler Tarihi Bilgisi (Derlenmiş)",
+    "kaynak_turu": "Derleme",
+    "referans_link": null
+  },
+  {
+    "id": "islam_kabul_024",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Türklerin İslamiyet'i Kabulü",
+    "kategori": {
+      "ana": "Yayılma Süreci",
+      "alt": "Ribâtlar ve Tekkeler"
+    },
+    "konu": "Ribâtların İslamlaşmadaki Rolü",
+    "icerik": "Sınır bölgelerinde kurulan ve hem askeri karakol hem de dini merkez işlevi gören 'ribât'lar, İslamiyet'in Türkler arasında yayılmasında etkili olmuştur. Gaziler ve dervişler, bu ribâtlarda bir araya gelerek hem sınırları korumuş hem de İslam'ı tebliğ etmişlerdir.",
+    "yil": 800,
+    "anahtar_kelimeler": ["Ribât", "Sınır Karakolu", "Dini Merkez", "İslamlaşma", "Gaziler", "Dervişler"],
+    "etiketler": ["kurumsal tarih", "din tarihi", "askeri tarih"],
+    "kaynak": "Genel İslam Tarihi Bilgisi (Derlenmiş)",
+    "kaynak_turu": "Derleme",
+    "referans_link": null
+  },
+  {
+    "id": "islam_kabul_025",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Türklerin İslamiyet'i Kabulü",
+    "kategori": {
+      "ana": "İlk Müslüman Türk Devletleri",
+      "alt": "İslamiyet'in Yayılması"
+    },
+    "konu": "Gazneliler ve İslamiyet'in Hindistan'a Yayılması",
+    "icerik": "Müslüman bir Türk devleti olan Gazneliler, özellikle Sultan Mahmud döneminde Hindistan'a düzenledikleri seferlerle İslamiyet'in bu coğrafyada yayılmasında önemli bir rol oynamışlardır. Bu seferler, Hindistan'da Türk-İslam hakimiyetinin başlangıcını oluşturmuştur.",
+    "yil": 1001,
+    "anahtar_kelimeler": ["Gazneliler", "Gazneli Mahmud", "Hindistan Seferleri", "İslamiyet'in Yayılması", "Fetih"],
+    "etiketler": ["siyasi tarih", "askeri tarih", "din tarihi", "hindistan tarihi"],
+    "kaynak": "Vikipedi: Gazneli Mahmud",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/Gazneli_Mahmud"
+  },
+  {
+    "id": "islam_kabul_026",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Türklerin İslamiyet'i Kabulü",
+    "kategori": {
+      "ana": "Sonuçlar",
+      "alt": "Dil ve Edebiyat"
+    },
+    "konu": "İslamiyet'in Türk Diline Etkisi",
+    "icerik": "Türklerin İslamiyet'i kabulüyle birlikte Arapça ve Farsçadan Türkçeye çok sayıda kelime ve dini terim girmiştir. Karahanlılar döneminde yazılan Kutadgu Bilig ve Divânu Lügâti't-Türk gibi eserler, bu yeni Türk-İslam dilinin ilk önemli örnekleridir.",
+    "yil": 1070,
+    "anahtar_kelimeler": ["Türk Dili", "Arapça", "Farsça", "Kelime Alıntısı", "Kutadgu Bilig", "Divânu Lügâti't-Türk"],
+    "etiketler": ["dilbilim", "edebiyat tarihi", "kültürel etkileşim"],
+    "kaynak": "Vikipedi: Türkçe",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/T%C3%BCrk%C3%A7e"
+  },
+  {
+    "id": "islam_kabul_027",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Türklerin İslamiyet'i Kabulü",
+    "kategori": {
+      "ana": "Kabul Süreci",
+      "alt": "Motivasyonlar"
+    },
+    "konu": "Siyasi ve Ekonomik Motivasyonlar",
+    "icerik": "İslamiyet'in kabulünde dini ve kültürel yakınlıkların yanı sıra siyasi ve ekonomik motivasyonlar da rol oynamış olabilir. İslam dünyasıyla bütünleşmek, ticari ilişkileri geliştirmek ve Abbasi halifeliği gibi büyük bir güçle iyi ilişkiler kurmak, bazı Türk liderleri için cazip gelmiş olabilir.",
+    "yil": 0,
+    "anahtar_kelimeler": ["İslamiyet'i Kabul", "Siyasi Motivasyon", "Ekonomik Motivasyon", "Ticaret", "Abbasiler"],
+    "etiketler": ["siyasi tarih", "ekonomi tarihi", "motivasyon"],
+    "kaynak": "Genel Tarih Yorumu (Derlenmiş)",
+    "kaynak_turu": "Derleme",
+    "referans_link": null
+  },
+  {
+    "id": "islam_kabul_028",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Türklerin İslamiyet'i Kabulü",
+    "kategori": {
+      "ana": "İnanç Sistemleri",
+      "alt": "Mezhepler"
+    },
+    "konu": "Türklerin Sünni İslam'ı Benimsemesi",
+    "icerik": "Türkler, İslamiyet'i genellikle Sünni (özellikle Hanefi mezhebi) yorumuyla benimsemişlerdir. Bu durum, Abbasi Halifeliği ve Samaniler gibi Sünni devletlerle olan yakın ilişkiler ve bölgede etkili olan Hanefi alimlerinin faaliyetleriyle açıklanabilir.",
+    "yil": 950,
+    "anahtar_kelimeler": ["Sünnilik", "Hanefi Mezhebi", "Mezhep", "Abbasiler", "Samaniler"],
+    "etiketler": ["din tarihi", "mezhepler tarihi", "islam"],
+    "kaynak": "Genel İslam Tarihi Bilgisi (Derlenmiş)",
+    "kaynak_turu": "Derleme",
+    "referans_link": null
+  },
+  {
+    "id": "islam_kabul_029",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Türklerin İslamiyet'i Kabulü",
+    "kategori": {
+      "ana": "İlk Temaslar",
+      "alt": "Askeri ve Siyasi Olaylar"
+    },
+    "konu": "Emeviler Dönemi ve Mücadeleler",
+    "icerik": "Türklerle Müslüman Araplar arasındaki ilk temaslar Emeviler döneminde başlamış, ancak bu dönem genellikle çatışmalarla geçmiştir. Emevilerin sert fetih politikaları ve Arap milliyetçiliği (mevali politikası), Türklerin İslamiyet'e karşı başlangıçta mesafeli durmasına neden olmuştur.",
+    "yil": 700,
+    "anahtar_kelimeler": ["Emeviler", "İlk Temaslar", "Çatışma", "Fetih Politikası", "Mevali"],
+    "etiketler": ["siyasi tarih", "askeri tarih", "uluslararası ilişkiler"],
+    "kaynak": "Genel İslam Tarihi Bilgisi (Derlenmiş)",
+    "kaynak_turu": "Derleme",
+    "referans_link": null
+  },
+  {
+    "id": "islam_kabul_030",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Türklerin İslamiyet'i Kabulü",
+    "kategori": {
+      "ana": "Yayılma Süreci",
+      "alt": "Şehirlerin Rolü"
+    },
+    "konu": "Buhara ve Semerkant'ın İslamlaşmadaki Rolü",
+    "icerik": "Maveraünnehir'in önemli şehirleri olan Buhara ve Semerkant, İslam alimlerinin yetiştiği, medreselerin kurulduğu ve İslam kültürünün geliştiği merkezlerdi. Bu şehirler, çevrelerindeki Türk boylarının İslamlaşmasında entelektüel ve dini bir çekim merkezi işlevi görmüştür.",
+    "yil": 800,
+    "anahtar_kelimeler": ["Buhara", "Semerkant", "Maveraünnehir", "İslamlaşma", "Medrese", "Kültür Merkezi"],
+    "etiketler": ["şehir tarihi", "kültür tarihi", "din tarihi"],
+    "kaynak": "Genel İslam Tarihi Bilgisi (Derlenmiş)",
+    "kaynak_turu": "Derleme",
+    "referans_link": null
+  },
+  {
+    "id": "islam_kabul_031",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Türklerin İslamiyet'i Kabulü",
+    "kategori": {
+      "ana": "İnanç Sistemleri",
+      "alt": "İslamiyet Öncesi İnançların Zayıflaması"
+    },
+    "konu": "Maniheizm ve Budizm'in Zayıflaması",
+    "icerik": "Uygurlar gibi bazı Türk toplulukları İslamiyet öncesinde Maniheizm veya Budizm'i benimsemişti. Ancak bu dinler, Türklerin savaşçı karakteriyle veya bozkır yaşam tarzıyla tam olarak uyum sağlayamadığı için zamanla zayıflamış ve İslamiyet'in yayılmasına zemin hazırlamıştır.",
+    "yil": 840,
+    "anahtar_kelimeler": ["Maniheizm", "Budizm", "Uygurlar", "İnanç Değişimi", "Zayıflama", "İslamiyet"],
+    "etiketler": ["din tarihi", "kültürel değişim", "inanç"],
+    "kaynak": "Genel Dinler Tarihi Bilgisi (Derlenmiş)",
+    "kaynak_turu": "Derleme",
+    "referans_link": null
+  },
+  {
+    "id": "islam_kabul_032",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Türklerin İslamiyet'i Kabulü",
+    "kategori": {
+      "ana": "Sonuçlar",
+      "alt": "Devlet Yapısına Etki"
+    },
+    "konu": "İslamiyet'in Devlet Yönetimine Etkisi",
+    "icerik": "İslamiyet'in kabulüyle birlikte Türk devlet yönetimi anlayışında bazı değişiklikler olmuştur. Hükümdarlar halife adına hutbe okutmaya ve para bastırmaya başlamış, İslami hukuk (şeriat) töre ile birlikte hukuk sisteminde yerini almış, divan teşkilatı gibi İslami kurumlar benimsenmiştir.",
+    "yil": 1000,
+    "anahtar_kelimeler": ["Devlet Yönetimi", "İslamiyet Etkisi", "Halife", "Hutbe", "Şeriat", "Divan Teşkilatı"],
+    "etiketler": ["devlet yapısı", "hukuk tarihi", "siyasi tarih", "kurumsal tarih"],
+    "kaynak": "Genel Tarih Bilgisi (Derlenmiş)",
+    "kaynak_turu": "Derleme",
+    "referans_link": null
+  },
+  {
+    "id": "islam_kabul_033",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Türklerin İslamiyet'i Kabulü",
+    "kategori": {
+      "ana": "Kabul Süreci",
+      "alt": "Coğrafi Farklılıklar"
+    },
+    "konu": "İslamlaşma Sürecindeki Coğrafi Farklılıklar",
+    "icerik": "Türklerin İslamlaşma süreci coğrafi olarak farklılıklar göstermiştir. Maveraünnehir gibi Arap fetihlerine yakın bölgelerdeki Türkler daha erken İslamlaşırken, İtil Bulgarları gibi daha kuzeydeki veya Doğu Avrupa'daki Türk grupları farklı zamanlarda ve yollarla İslamiyet'i benimsemiştir.",
+    "yil": 0,
+    "anahtar_kelimeler": ["İslamlaşma Süreci", "Coğrafi Farklılıklar", "Maveraünnehir", "İtil Bulgarları", "Doğu Avrupa"],
+    "etiketler": ["din tarihi", "coğrafya", "tarihsel süreç"],
+    "kaynak": "Genel Tarih Bilgisi (Derlenmiş)",
+    "kaynak_turu": "Derleme",
+    "referans_link": null
+  },
+  {
+    "id": "islam_kabul_034",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Türklerin İslamiyet'i Kabulü",
+    "kategori": {
+      "ana": "Sonuçlar",
+      "alt": "Mimari ve Sanat"
+    },
+    "konu": "Türk-İslam Mimarisi ve Sanatının Doğuşu",
+    "icerik": "İslamiyet'in kabulüyle Türk sanatında ve mimarisinde yeni formlar ortaya çıkmıştır. Cami, medrese, kervansaray, türbe gibi İslami yapılar inşa edilmeye başlanmış; hat sanatı, tezhip, minyatür gibi İslami sanat dalları Türk sanatçıları tarafından benimsenip geliştirilmiştir.",
+    "yil": 1000,
+    "anahtar_kelimeler": ["Türk-İslam Mimarisi", "Türk-İslam Sanatı", "Cami", "Medrese", "Kervansaray", "Hat Sanatı"],
+    "etiketler": ["sanat tarihi", "mimarlık tarihi", "kültür tarihi"],
+    "kaynak": "Genel Sanat Tarihi Bilgisi (Derlenmiş)",
+    "kaynak_turu": "Derleme",
+    "referans_link": null
+  },
+  {
+    "id": "islam_kabul_035",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Türklerin İslamiyet'i Kabulü",
+    "kategori": {
+      "ana": "Yayılma Süreci",
+      "alt": "Tasavvuf ve Dervişler"
+    },
+    "konu": "Ahmet Yesevi ve Türkistan'da İslamiyet",
+    "icerik": "Hoca Ahmet Yesevi (12. yy), Türkistan coğrafyasında İslamiyet'in yayılmasında ve Türkler arasında tasavvufi anlayışın yerleşmesinde çok önemli bir rol oynamıştır. Hikmet adı verilen şiirleriyle sade bir dille İslam'ı anlatması, geniş kitleler tarafından benimsenmesini sağlamıştır.",
+    "yil": 1150,
+    "anahtar_kelimeler": ["Ahmet Yesevi", "Tasavvuf", "Türkistan", "İslamiyet'in Yayılması", "Hikmet", "Yesevilik"],
+    "etiketler": ["din tarihi", "tasavvuf tarihi", "edebiyat tarihi"],
+    "kaynak": "Vikipedi: Ahmed Yesevi",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/Ahmed_Yesevi"
+  },
+  {
+    "id": "islam_kabul_036",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Türklerin İslamiyet'i Kabulü",
+    "kategori": {
+      "ana": "İlk Müslüman Türk Devletleri",
+      "alt": "Devlet Dini Olarak İslamiyet"
+    },
+    "konu": "Devlet Desteği ve İslamlaşma",
+    "icerik": "İtil Bulgar Hanlığı ve Karahanlılar gibi devletlerde hükümdarın İslamiyet'i kabul etmesi, İslamlaşma sürecini hızlandırmıştır. Devlet desteğiyle camiler, medreseler inşa edilmiş, din alimleri desteklenmiş ve İslam hukuku uygulanmaya başlanmıştır.",
+    "yil": 950,
+    "anahtar_kelimeler": ["Devlet Desteği", "İslamlaşma", "Hükümdar", "Cami", "Medrese", "Din Alimleri"],
+    "etiketler": ["din tarihi", "siyasi tarih", "kurumsallaşma"],
+    "kaynak": "Genel Tarih Bilgisi (Derlenmiş)",
+    "kaynak_turu": "Derleme",
+    "referans_link": null
+  },
+  {
+    "id": "islam_kabul_037",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Türklerin İslamiyet'i Kabulü",
+    "kategori": {
+      "ana": "Sonuçlar",
+      "alt": "Kimlik Değişimi"
+    },
+    "konu": "İslamiyet ve Türk Kimliği",
+    "icerik": "İslamiyet'in kabulü, Türk kimliğinde önemli bir dönüşüme yol açmıştır. Dini kimlik, etnik kimlikle birlikte var olmuş ve Türkler kendilerini İslam ümmetinin bir parçası olarak görmeye başlamışlardır. Ancak eski Türk gelenekleri ve dil de büyük ölçüde korunmuştur.",
+    "yil": 1000,
+    "anahtar_kelimeler": ["Türk Kimliği", "İslam Kimliği", "Kimlik Dönüşümü", "Ümmet", "Geleneklerin Korunması"],
+    "etiketler": ["kimlik", "sosyoloji", "kültür tarihi"],
+    "kaynak": "Genel Kültür Tarihi Bilgisi (Derlenmiş)",
+    "kaynak_turu": "Derleme",
+    "referans_link": null
+  },
+  {
+    "id": "islam_kabul_038",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Türklerin İslamiyet'i Kabulü",
+    "kategori": {
+      "ana": "İlk Temaslar",
+      "alt": "Askeri ve Siyasi Olaylar"
+    },
+    "konu": "Talas Savaşı'nın Teknolojik Sonucu",
+    "icerik": "Talas Savaşı'nın önemli sonuçlarından biri de, Çinli esirler aracılığıyla kağıt üretim tekniğinin Semerkant'a ve oradan da İslam dünyasına aktarılmasıdır. Bu durum, İslam medeniyetindeki bilimsel ve kültürel gelişmeler için bir zemin hazırlamıştır.",
+    "yil": 751,
+    "anahtar_kelimeler": ["Talas Savaşı", "Kağıt Üretimi", "Teknoloji Transferi", "Çin", "Semerkant", "İslam Medeniyeti"],
+    "etiketler": ["teknoloji tarihi", "kültür tarihi", "savaş sonuçları"],
+    "kaynak": "Vikipedi: Talas Muharebesi",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/Talas_Muharebesi"
+  },
+  {
+    "id": "islam_kabul_039",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Türklerin İslamiyet'i Kabulü",
+    "kategori": {
+      "ana": "Yayılma Süreci",
+      "alt": "Evlilikler Yoluyla Etkileşim"
+    },
+    "konu": "Evliliklerin İslamlaşmadaki Rolü",
+    "icerik": "Müslüman tüccarların, alimlerin veya askerlerin Türk toplulukları içinden evlenmeleri de İslamiyet'in yayılmasında rol oynamıştır. Bu evlilikler yoluyla kurulan aile bağları, kültürel ve dini yakınlaşmayı artırmıştır.",
+    "yil": 800,
+    "anahtar_kelimeler": ["Evlilik", "İslamlaşma", "Kültürel Etkileşim", "Aile Bağları", "Sosyal İlişkiler"],
+    "etiketler": ["sosyal tarih", "aile tarihi", "din tarihi"],
+    "kaynak": "Genel Sosyal Tarih Bilgisi (Derlenmiş)",
+    "kaynak_turu": "Derleme",
+    "referans_link": null
+  },
+  {
+    "id": "islam_kabul_040",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Türklerin İslamiyet'i Kabulü",
+    "kategori": {
+      "ana": "Sonuçlar",
+      "alt": "Dünya Tarihindeki Etki"
+    },
+    "konu": "Türklerin İslamlaşmasının Dünya Tarihindeki Yeri",
+    "icerik": "Türklerin İslamiyet'i kabulü, dünya tarihinde önemli sonuçlar doğurmuştur. İslam dünyasının askeri ve siyasi gücünü artırmış, İslamiyet'in Anadolu, Balkanlar ve Hindistan gibi geniş coğrafyalara yayılmasını sağlamış ve yeni bir Türk-İslam medeniyetinin doğuşuna yol açmıştır.",
+    "yil": 1000,
+    "anahtar_kelimeler": ["Türklerin İslamlaşması", "Dünya Tarihi", "İslam'ın Yayılması", "Askeri Güç", "Siyasi Güç", "Türk-İslam Medeniyeti"],
+    "etiketler": ["dünya tarihi", "medeniyet tarihi", "din tarihi", "siyasi tarih"],
+    "kaynak": "Genel Tarih Yorumu (Derlenmiş)",
+    "kaynak_turu": "Derleme",
+    "referans_link": null
+  },
+  {
+    "id": "teskilat_001",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Devlet Teşkilatı",
+    "kategori": {
+      "ana": "Devlet Yönetimi",
+      "alt": "Merkezi Yönetim"
+    },
+    "konu": "Karahanlılarda Hükümdarlık Anlayışı",
+    "icerik": "Karahanlılar, eski Türk devlet geleneğini büyük ölçüde sürdürmüşlerdir. Hükümdarlar 'Han', 'Hakan', 'İlig' gibi Türkçe unvanlar kullanmış, ancak İslamiyet'in etkisiyle 'Sultan' gibi unvanları da benimsemişlerdir. Ülke, hanedanın ortak malı sayılmış ve ikili teşkilat uygulanmıştır.",
+    "yil": 950,
+    "anahtar_kelimeler": ["Karahanlılar", "Devlet Yönetimi", "Hükümdarlık", "Unvanlar", "İkili Teşkilat", "Hanedan"],
+    "etiketler": ["devlet yapısı", "siyasi tarih", "gelenek", "islam etkisi"],
+    "kaynak": "Vikipedi: Karahanlılar",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/Karahanl%C4%B1lar"
+  },
+  {
+    "id": "teskilat_002",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Devlet Teşkilatı",
+    "kategori": {
+      "ana": "Devlet Yönetimi",
+      "alt": "Merkezi Yönetim"
+    },
+    "konu": "Gaznelilerde Hükümdarlık Anlayışı",
+    "icerik": "Gaznelilerde hükümdarlık, Samanilerden ve Abbasilerden etkilenen daha merkeziyetçi bir yapıya sahipti. Hükümdarlar 'Sultan' unvanını kullanmışlardır (İlk kullanan Gazneli Mahmud). Saray teşkilatı ve bürokrasi, Fars devlet geleneğinin etkilerini taşır.",
+    "yil": 980,
+    "anahtar_kelimeler": ["Gazneliler", "Devlet Yönetimi", "Hükümdarlık", "Sultan", "Merkeziyetçilik", "Saray Teşkilatı"],
+    "etiketler": ["devlet yapısı", "siyasi tarih", "fars etkisi"],
+    "kaynak": "Vikipedi: Gazneliler",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/Gazneliler"
+  },
+  {
+    "id": "teskilat_003",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Devlet Teşkilatı",
+    "kategori": {
+      "ana": "Devlet Yönetimi",
+      "alt": "Merkezi Yönetim"
+    },
+    "konu": "Büyük Selçuklularda Hükümdarlık Anlayışı",
+    "icerik": "Büyük Selçuklularda hükümdarlık, Türk ve İslam geleneklerinin bir senteziydi. Hükümdarlar 'Sultan' unvanını kullanmışlar ve Abbasi Halifesi tarafından tanınarak meşruiyetlerini güçlendirmişlerdir. Ülke hanedanın ortak malı sayılsa da merkezi otorite güçlü tutulmaya çalışılmıştır.",
+    "yil": 1040,
+    "anahtar_kelimeler": ["Büyük Selçuklular", "Devlet Yönetimi", "Hükümdarlık", "Sultan", "Abbasi Halifesi", "Meşruiyet"],
+    "etiketler": ["devlet yapısı", "siyasi tarih", "türk-islam sentezi"],
+    "kaynak": "Vikipedi: Büyük Selçuklu İmparatorluğu",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/B%C3%BCy%C3%BCk_Sel%C3%A7uklu_%C4%B0mparatorlu%C4%9Fu"
+  },
+  {
+    "id": "teskilat_004",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Devlet Teşkilatı",
+    "kategori": {
+      "ana": "Devlet Yönetimi",
+      "alt": "Bürokrasi"
+    },
+    "konu": "Divan Teşkilatı: Genel Yapı",
+    "icerik": "Türk-İslam devletlerinde devlet işlerinin yürütüldüğü merkezi organ 'Divan' olarak adlandırılırdı. Büyük Divan (Divan-ı Saltanat veya Divan-ı Âlî), devletin en önemli işlerinin görüşüldüğü yerdi ve başında genellikle Vezir bulunurdu. Farklı işlerden sorumlu alt divanlar da mevcuttu.",
+    "yil": 900,
+    "anahtar_kelimeler": ["Divan Teşkilatı", "Merkezi Yönetim", "Bürokrasi", "Vezir", "Divan-ı Saltanat"],
+    "etiketler": ["devlet yapısı", "kurumsal tarih", "bürokrasi"],
+    "kaynak": "Vikipedi: Divan",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/Divan"
+  },
+  {
+    "id": "teskilat_005",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Devlet Teşkilatı",
+    "kategori": {
+      "ana": "Devlet Yönetimi",
+      "alt": "Bürokrasi"
+    },
+    "konu": "Büyük Selçuklularda Divanlar: Divan-ı İstifa",
+    "icerik": "Büyük Selçuklularda mali işlerden sorumlu olan divana Divan-ı İstifa denirdi. Başında 'Müstevfi' adı verilen görevli bulunurdu. Devletin gelir ve giderlerini hesaplamak, bütçeyi hazırlamak ve mali kayıtları tutmak bu divanın göreviydi.",
+    "yil": 1050,
+    "anahtar_kelimeler": ["Divan-ı İstifa", "Büyük Selçuklular", "Mali İşler", "Müstevfi", "Bütçe", "Devlet Maliyesi"],
+    "etiketler": ["kurumsal tarih", "devlet maliyesi", "bürokrasi"],
+    "kaynak": "Vikipedi: Büyük Selçuklu İmparatorluğu Devlet Teşkilatı",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/B%C3%BCy%C3%BCk_Sel%C3%A7uklu_%C4%B0mparatorlu%C4%9Fu_Devlet_Te%C5%9Fkilat%C4%B1"
+  },
+  {
+    "id": "teskilat_006",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Devlet Teşkilatı",
+    "kategori": {
+      "ana": "Devlet Yönetimi",
+      "alt": "Bürokrasi"
+    },
+    "konu": "Büyük Selçuklularda Divanlar: Divan-ı Arz",
+    "icerik": "Divan-ı Arz (Arzü'l-Ceyş), Büyük Selçuklu Devleti'nde askeri işlerden sorumlu divandı. Başındaki görevliye 'Arız' veya 'Emir-i Arz' denirdi. Ordunun maaşları, teçhizatı, asker alımı ve kayıtları gibi konularla ilgilenirdi.",
+    "yil": 1050,
+    "anahtar_kelimeler": ["Divan-ı Arz", "Büyük Selçuklular", "Askeri İşler", "Arız", "Ordu Yönetimi", "Maaş"],
+    "etiketler": ["kurumsal tarih", "askeri tarih", "bürokrasi"],
+    "kaynak": "Vikipedi: Büyük Selçuklu İmparatorluğu Devlet Teşkilatı",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/B%C3%BCy%C3%BCk_Sel%C3%A7uklu_%C4%B0mparatorlu%C4%9Fu_Devlet_Te%C5%9Fkilat%C4%B1"
+  },
+  {
+    "id": "teskilat_007",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Devlet Teşkilatı",
+    "kategori": {
+      "ana": "Devlet Yönetimi",
+      "alt": "Bürokrasi"
+    },
+    "konu": "Büyük Selçuklularda Divanlar: Divan-ı Tuğra (İnşa)",
+    "icerik": "Devletin iç ve dış yazışmalarından sorumlu olan divana Divan-ı Tuğra veya Divan-ı İnşa adı verilirdi. Başındaki görevliye 'Tuğrai' veya 'Münşi' denirdi. Hükümdarın fermanlarına tuğra çekmek ve resmi belgeleri hazırlamak bu divanın göreviydi.",
+    "yil": 1050,
+    "anahtar_kelimeler": ["Divan-ı Tuğra", "Divan-ı İnşa", "Büyük Selçuklular", "Yazışmalar", "Tuğrai", "Münşi", "Resmi Belge"],
+    "etiketler": ["kurumsal tarih", "bürokrasi", "diplomasi"],
+    "kaynak": "Vikipedi: Büyük Selçuklu İmparatorluğu Devlet Teşkilatı",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/B%C3%BCy%C3%BCk_Sel%C3%A7uklu_%C4%B0mparatorlu%C4%9Fu_Devlet_Te%C5%9Fkilat%C4%B1"
+  },
+  {
+    "id": "teskilat_008",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Devlet Teşkilatı",
+    "kategori": {
+      "ana": "Devlet Yönetimi",
+      "alt": "Bürokrasi"
+    },
+    "konu": "Büyük Selçuklularda Divanlar: Divan-ı İşraf",
+    "icerik": "Divan-ı İşraf, Büyük Selçuklu Devleti'nde mali ve idari işleri denetleyen teftiş kuruluydu. Başındaki görevliye 'Müşrif' denirdi. Devletin kurumlarını ve görevlilerini denetleyerek yolsuzlukları önlemek ve işleyişi kontrol etmekle yükümlüydü.",
+    "yil": 1050,
+    "anahtar_kelimeler": ["Divan-ı İşraf", "Büyük Selçuklular", "Denetim", "Teftiş", "Müşrif", "İdari Denetim"],
+    "etiketler": ["kurumsal tarih", "devlet yönetimi", "bürokrasi", "denetim"],
+    "kaynak": "Vikipedi: Büyük Selçuklu İmparatorluğu Devlet Teşkilatı",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/B%C3%BCy%C3%BCk_Sel%C3%A7uklu_%C4%B0mparatorlu%C4%9Fu_Devlet_Te%C5%9Fkilat%C4%B1"
+  },
+  {
+    "id": "teskilat_009",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Devlet Teşkilatı",
+    "kategori": {
+      "ana": "Toprak Yönetimi",
+      "alt": "İkta Sistemi"
+    },
+    "konu": "İkta Sistemi'nin Tanımı ve Amacı",
+    "icerik": "İkta, belirli bir toprak parçasının vergi gelirlerinin, askeri veya idari hizmet karşılığında devlet görevlilerine (mukta) verilmesi sistemidir. Temel amaçları; devlet hazinesine yük olmadan asker beslemek, üretimi sürekli kılmak, vergileri düzenli toplamak ve taşrada devlet otoritesini sağlamaktı.",
+    "yil": 900,
+    "anahtar_kelimeler": ["İkta Sistemi", "Toprak Yönetimi", "Vergi Geliri", "Asker Besleme", "Üretim", "Devlet Otoritesi"],
+    "etiketler": ["ekonomi tarihi", "devlet yönetimi", "askeri tarih", "toprak hukuku"],
+    "kaynak": "Vikipedi: İkta",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/%C4%B0kta"
+  },
+  {
+    "id": "teskilat_010",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Devlet Teşkilatı",
+    "kategori": {
+      "ana": "Toprak Yönetimi",
+      "alt": "İkta Sistemi"
+    },
+    "konu": "İkta'nın Mülkiyetten Farkı",
+    "icerik": "İkta sisteminde toprakların mülkiyeti devlete aitti. İkta sahibi (mukta), sadece kendisine tahsis edilen bölgenin vergi gelirlerini toplama ve kullanma hakkına sahipti. Görevden alınması veya ölümü durumunda ikta genellikle geri alınır veya başka birine verilirdi.",
+    "yil": 900,
+    "anahtar_kelimeler": ["İkta Sistemi", "Mülkiyet", "Devlet Mülkiyeti", "Vergi Toplama Hakkı", "Mukta"],
+    "etiketler": ["hukuk tarihi", "toprak hukuku", "devlet yönetimi"],
+    "kaynak": "Vikipedi: İkta",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/%C4%B0kta"
+  },
+  {
+    "id": "teskilat_011",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Devlet Teşkilatı",
+    "kategori": {
+      "ana": "Toprak Yönetimi",
+      "alt": "İkta Sistemi"
+    },
+    "konu": "Selçuklularda İkta Sisteminin Yaygınlaşması",
+    "icerik": "İkta sistemi daha önceki İslam devletlerinde de görülmekle birlikte, Büyük Selçuklu Devleti döneminde Vezir Nizamülmülk tarafından sistemli hale getirilmiş ve yaygınlaştırılmıştır. Bu sistem, Selçuklu askeri ve idari yapısının temel taşlarından biri olmuştur.",
+    "yil": 1070,
+    "anahtar_kelimeler": ["İkta Sistemi", "Büyük Selçuklular", "Nizamülmülk", "Yaygınlaşma", "Sistemleştirme"],
+    "etiketler": ["devlet yönetimi", "kurumsal tarih", "ekonomi tarihi"],
+    "kaynak": "Vikipedi: İkta",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/%C4%B0kta"
+  },
+  {
+    "id": "teskilat_012",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Devlet Teşkilatı",
+    "kategori": {
+      "ana": "Askeri Yapı",
+      "alt": "Ordu Çeşitleri"
+    },
+    "konu": "Gulam Sistemi ve Hassa Ordusu",
+    "icerik": "Türk-İslam devletlerinde ordunun önemli bir bölümünü 'Gulam Sistemi' ile yetiştirilen askerler oluştururdu. Savaş esirleri veya satın alınan kölelerden seçilen gençler, özel bir eğitimle (Gulamhane) yetiştirilir ve doğrudan hükümdara bağlı 'Hassa Ordusu'nu (Saray Ordusu) oluştururlardı.",
+    "yil": 900,
+    "anahtar_kelimeler": ["Gulam Sistemi", "Hassa Ordusu", "Saray Ordusu", "Köle Askerler", "Askeri Eğitim", "Gulamhane"],
+    "etiketler": ["askeri tarih", "ordu yapısı", "kurumsal tarih"],
+    "kaynak": "Vikipedi: Gulam",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/Gulam"
+  },
+  {
+    "id": "teskilat_013",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Devlet Teşkilatı",
+    "kategori": {
+      "ana": "Askeri Yapı",
+      "alt": "Ordu Çeşitleri"
+    },
+    "konu": "İkta Askerleri (Sipahiler)",
+    "icerik": "Ordunun diğer önemli bölümünü İkta sahiplerinin beslemekle yükümlü olduğu atlı askerler yani 'Sipahiler' oluştururdu. Bu askerler, barış zamanında bulundukları bölgenin güvenliğini sağlar, savaş zamanında ise bağlı oldukları ikta sahibiyle birlikte orduya katılırlardı.",
+    "yil": 1050,
+    "anahtar_kelimeler": ["İkta Askerleri", "Sipahi", "Atlı Asker", "İkta Sistemi", "Ordu Yapısı"],
+    "etiketler": ["askeri tarih", "ordu yapısı", "toprak sistemi"],
+    "kaynak": "Vikipedi: İkta",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/%C4%B0kta"
+  },
+  {
+    "id": "teskilat_014",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Devlet Teşkilatı",
+    "kategori": {
+      "ana": "Askeri Yapı",
+      "alt": "Ordu Çeşitleri"
+    },
+    "konu": "Türkmen (Oğuz) Birlikleri",
+    "icerik": "Özellikle Selçuklu ordusunda, devlete bağlı göçebe Türkmen (Oğuz) kuvvetleri de önemli bir yer tutardı. Bu kuvvetler genellikle sınır bölgelerinde yaşar, akınlar düzenler ve savaş zamanlarında orduya katılırlardı. Ancak bazen merkezi otorite için sorun da yaratabilirlerdi.",
+    "yil": 1050,
+    "anahtar_kelimeler": ["Türkmen Birlikleri", "Oğuzlar", "Selçuklu Ordusu", "Göçebe Askerler", "Akıncılar"],
+    "etiketler": ["askeri tarih", "ordu yapısı", "sosyal tarih", "oğuzlar"],
+    "kaynak": "Vikipedi: Büyük Selçuklu İmparatorluğu",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/B%C3%BCy%C3%BCk_Sel%C3%A7uklu_%C4%B0mparatorlu%C4%9Fu"
+  },
+  {
+    "id": "teskilat_015",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Devlet Teşkilatı",
+    "kategori": {
+      "ana": "Askeri Yapı",
+      "alt": "Ordu Çeşitleri"
+    },
+    "konu": "Yardımcı Kuvvetler",
+    "icerik": "Türk-İslam devletlerinin ordularında, devlete bağlı veya vasal olan diğer devletlerden ve topluluklardan gelen yardımcı kuvvetler de bulunabilirdi. Bu kuvvetler, ordunun mevcudunu artırır ve farklı savaş taktiklerinin kullanılmasına olanak tanırdı.",
+    "yil": 0,
+    "anahtar_kelimeler": ["Yardımcı Kuvvetler", "Vasal Devletler", "Ordu Yapısı", "Askeri İttifak"],
+    "etiketler": ["askeri tarih", "ordu yapısı", "uluslararası ilişkiler"],
+    "kaynak": "Genel Askeri Tarih Bilgisi (Derlenmiş)",
+    "kaynak_turu": "Derleme",
+    "referans_link": null
+  },
+  {
+    "id": "teskilat_016",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Devlet Teşkilatı",
+    "kategori": {
+      "ana": "Devlet Yönetimi",
+      "alt": "Bürokrasi"
+    },
+    "konu": "Vezirlik Makamı ve Önemi",
+    "icerik": "Vezir (Sahib-i Divan), Türk-İslam devletlerinde hükümdardan sonra gelen en yetkili kişiydi. Büyük Divan'a başkanlık eder, bürokrasiyi yönetir, hükümdara danışmanlık yapar ve onun adına devleti idare edebilirdi. Nizamülmülk, en ünlü Selçuklu veziridir.",
+    "yil": 900,
+    "anahtar_kelimeler": ["Vezir", "Devlet Yönetimi", "Bürokrasi", "Büyük Divan", "Nizamülmülk"],
+    "etiketler": ["devlet yapısı", "kurumsal tarih", "vezirlik"],
+    "kaynak": "Vikipedi: Vezir",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/Vezir"
+  },
+  {
+    "id": "teskilat_017",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Devlet Teşkilatı",
+    "kategori": {
+      "ana": "Toprak Yönetimi",
+      "alt": "İkta Sistemi"
+    },
+    "konu": "İkta Sisteminin Faydaları",
+    "icerik": "İkta sistemi, devlet hazinesine yük olmadan büyük bir atlı ordu (sipahiler) oluşturulmasını sağladı. Ayrıca, vergilerin düzenli toplanmasını, tarımsal üretimin devamlılığını ve devlet otoritesinin taşraya yayılmasını kolaylaştırdı.",
+    "yil": 900,
+    "anahtar_kelimeler": ["İkta Sistemi", "Faydalar", "Sipahi Ordusu", "Vergi Toplama", "Tarımsal Üretim", "Devlet Otoritesi"],
+    "etiketler": ["ekonomi", "askeri tarih", "devlet yönetimi", "toprak sistemi"],
+    "kaynak": "Vikipedi: İkta",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/%C4%B0kta"
+  },
+  {
+    "id": "teskilat_018",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Devlet Teşkilatı",
+    "kategori": {
+      "ana": "Toprak Yönetimi",
+      "alt": "İkta Sistemi"
+    },
+    "konu": "İkta Sisteminin Sakıncaları",
+    "icerik": "İkta sistemi, zamanla merkezi otoritenin zayıflamasına yol açabilirdi. İkta sahipleri (muktaalar) güçlenerek bölgelerinde bağımsız hareket etme eğilimi gösterebilir, bu da feodal benzeri yapıların ortaya çıkmasına ve devletin parçalanmasına zemin hazırlayabilirdi.",
+    "yil": 1100,
+    "anahtar_kelimeler": ["İkta Sistemi", "Sakıncalar", "Merkezi Otorite Zayıflaması", "Feodalleşme", "Devlet Parçalanması"],
+    "etiketler": ["devlet yönetimi", "siyasi tarih", "toprak sistemi", "feodalizm"],
+    "kaynak": "Vikipedi: İkta",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/%C4%B0kta"
+  },
+  {
+    "id": "teskilat_019",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Devlet Teşkilatı",
+    "kategori": {
+      "ana": "Askeri Yapı",
+      "alt": "Gulam Sistemi"
+    },
+    "konu": "Gulam Sisteminin Amacı",
+    "icerik": "Gulam sisteminin temel amacı, farklı etnik kökenlerden gelen ancak doğrudan hükümdara sadık, profesyonel bir askeri güç oluşturmaktı. Bu sistemle, boy beylerinin veya yerel güç odaklarının etkisinden uzak, merkezi otoriteye bağlı bir ordu (Hassa Ordusu) hedefleniyordu.",
+    "yil": 900,
+    "anahtar_kelimeler": ["Gulam Sistemi", "Amaç", "Sadakat", "Profesyonel Ordu", "Merkezi Otorite", "Hassa Ordusu"],
+    "etiketler": ["askeri tarih", "devlet yapısı", "sadakat"],
+    "kaynak": "Vikipedi: Gulam",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/Gulam"
+  },
+  {
+    "id": "teskilat_020",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Devlet Teşkilatı",
+    "kategori": {
+      "ana": "Devlet Yönetimi",
+      "alt": "Adalet Sistemi"
+    },
+    "konu": "Kadılık Kurumu",
+    "icerik": "Türk-İslam devletlerinde adalet işlerine 'Kadı' adı verilen hakimler bakardı. Kadılar, şeriata (İslam hukuku) ve örfi hukuka (töre ve gelenekler) göre davalara bakar, anlaşmazlıkları çözerlerdi. Kadılar genellikle bağımsız hareket ederlerdi.",
+    "yil": 900,
+    "anahtar_kelimeler": ["Adalet Sistemi", "Kadı", "Hakim", "Şeriat", "Örfi Hukuk", "Yargı Bağımsızlığı"],
+    "etiketler": ["hukuk tarihi", "yargı sistemi", "kurumsal tarih"],
+    "kaynak": "Vikipedi: Kadı",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/Kad%C4%B1"
+  },
+  {
+    "id": "teskilat_021",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Devlet Teşkilatı",
+    "kategori": {
+      "ana": "Devlet Yönetimi",
+      "alt": "Hükümdarlık Alametleri"
+    },
+    "konu": "Hükümdarlık Alametleri (İslami Dönem)",
+    "icerik": "Türk-İslam devletlerinde hükümdarlık alametleri arasında eski Türk geleneklerinden gelen otağ (çadır), nevbet (davul), tuğ gibi unsurların yanı sıra İslami unsurlar da yer alırdı. Bunlar; hutbe okutmak, sikke (para) bastırmak, halifeden menşur (onay) almak ve tiraz (hükümdarın adının yazılı olduğu giysi) idi.",
+    "yil": 950,
+    "anahtar_kelimeler": ["Hükümdarlık Alametleri", "Otağ", "Nevbet", "Tuğ", "Hutbe", "Sikke", "Menşur", "Tiraz"],
+    "etiketler": ["devlet geleneği", "sembolizm", "kültürel sentez"],
+    "kaynak": "Genel Tarih Bilgisi (Derlenmiş)",
+    "kaynak_turu": "Derleme",
+    "referans_link": null
+  },
+  {
+    "id": "teskilat_022",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Devlet Teşkilatı",
+    "kategori": {
+      "ana": "Askeri Yapı",
+      "alt": "Ordu Komutanları"
+    },
+    "konu": "Ordu Komutanları ve Unvanlar",
+    "icerik": "Türk-İslam ordularında çeşitli rütbelerde komutanlar bulunurdu. Ordunun başkomutanı genellikle hükümdar veya onun görevlendirdiği bir 'Emir' veya 'Sipehsalar' olurdu. Hassa ordusunun ve eyalet askerlerinin ayrı komutanları vardı.",
+    "yil": 0,
+    "anahtar_kelimeler": ["Ordu Komutanı", "Emir", "Sipehsalar", "Askeri Rütbeler", "Ordu Yönetimi"],
+    "etiketler": ["askeri tarih", "unvanlar", "ordu yapısı"],
+    "kaynak": "Genel Askeri Tarih Bilgisi (Derlenmiş)",
+    "kaynak_turu": "Derleme",
+    "referans_link": null
+  },
+  {
+    "id": "teskilat_023",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Devlet Teşkilatı",
+    "kategori": {
+      "ana": "Devlet Yönetimi",
+      "alt": "Eyalet Yönetimi"
+    },
+    "konu": "Meliklerin Eyalet Yönetimi (Selçuklular)",
+    "icerik": "Büyük Selçuklularda hanedan üyesi prensler ('Melik') eyaletlere yönetici olarak gönderilirdi. Yanlarına 'Atabey' adı verilen tecrübeli devlet adamları verilir, Melikler Atabeylerin gözetiminde eyalet yönetimi konusunda tecrübe kazanırlardı. Ancak bu durum zamanla Atabeylerin güçlenmesine yol açmıştır.",
+    "yil": 1070,
+    "anahtar_kelimeler": ["Melik", "Atabey", "Eyalet Yönetimi", "Büyük Selçuklular", "Prens", "Merkezi Otorite"],
+    "etiketler": ["devlet yönetimi", "eğitim", "siyasi tarih"],
+    "kaynak": "Vikipedi: Atabey",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/Atabey"
+  },
+  {
+    "id": "teskilat_024",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Devlet Teşkilatı",
+    "kategori": {
+      "ana": "Devlet Yönetimi",
+      "alt": "Posta ve Haberleşme"
+    },
+    "konu": "Berid Teşkilatı (Posta)",
+    "icerik": "Türk-İslam devletleri, merkezi otoriteyi sağlamak ve haberleşmeyi hızlandırmak amacıyla önceki İslam devletlerinden devraldıkları 'Berid' adı verilen posta ve istihbarat teşkilatını kullanmışlardır. Bu teşkilat sayesinde merkez, eyaletlerle hızlı bir iletişim kurabiliyordu.",
+    "yil": 900,
+    "anahtar_kelimeler": ["Berid Teşkilatı", "Posta", "Haberleşme", "İstihbarat", "Merkezi Otorite"],
+    "etiketler": ["kurumsal tarih", "iletişim tarihi", "istihbarat"],
+    "kaynak": "Vikipedi: Berîd",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/Ber%C3%AEd"
+  },
+  {
+    "id": "teskilat_025",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Devlet Teşkilatı",
+    "kategori": {
+      "ana": "Toprak Yönetimi",
+      "alt": "Diğer Toprak Türleri"
+    },
+    "konu": "Mülk ve Vakıf Toprakları",
+    "icerik": "İkta topraklarının yanı sıra, kişilere ait olan 'Mülk' topraklar ve gelirleri dini veya sosyal amaçlara ayrılan 'Vakıf' toprakları da bulunmaktaydı. Vakıf sistemi, cami, medrese, hastane gibi kurumların finansmanında önemli rol oynamıştır.",
+    "yil": 0,
+    "anahtar_kelimeler": ["Mülk Toprak", "Vakıf Toprak", "Toprak Yönetimi", "Vakıf Sistemi", "Sosyal Kurumlar"],
+    "etiketler": ["toprak hukuku", "vakıf tarihi", "sosyal tarih"],
+    "kaynak": "Genel Tarih Bilgisi (Derlenmiş)",
+    "kaynak_turu": "Derleme",
+    "referans_link": null
+  },
+  {
+    "id": "teskilat_026",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Devlet Teşkilatı",
+    "kategori": {
+      "ana": "Askeri Yapı",
+      "alt": "Donanma"
+    },
+    "konu": "Türk-İslam Devletlerinde Donanma",
+    "icerik": "İlk Türk-İslam devletleri genellikle kara ordularına önem vermişlerdir. Ancak Tolunoğulları ve İhşidiler gibi Mısır'da kurulan devletler, Akdeniz'de sınırlı da olsa bir donanmaya sahip olmuşlar ve deniz faaliyetlerinde bulunmuşlardır.",
+    "yil": 900,
+    "anahtar_kelimeler": ["Donanma", "Deniz Gücü", "Tolunoğulları", "İhşidiler", "Mısır", "Akdeniz"],
+    "etiketler": ["askeri tarih", "denizcilik tarihi", "mısır tarihi"],
+    "kaynak": "Genel Tarih Bilgisi (Derlenmiş)",
+    "kaynak_turu": "Derleme",
+    "referans_link": null
+  },
+  {
+    "id": "teskilat_027",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Devlet Teşkilatı",
+    "kategori": {
+      "ana": "Devlet Yönetimi",
+      "alt": "Merkezi Yönetim"
+    },
+    "konu": "Saray Teşkilatı ve Görevliler",
+    "icerik": "Türk-İslam devletlerinde hükümdarın özel hizmetlerini gören ve sarayın işleyişini sağlayan bir saray teşkilatı bulunurdu. Hacib (Perdedar), Kapucubaşı, Silahtar, Alemdar, Çaşnigir gibi çeşitli görevliler sarayda hizmet ederdi.",
+    "yil": 0,
+    "anahtar_kelimeler": ["Saray Teşkilatı", "Saray Görevlileri", "Hacib", "Kapucubaşı", "Silahtar", "Alemdar", "Çaşnigir"],
+    "etiketler": ["kurumsal tarih", "devlet yapısı", "saray hayatı"],
+    "kaynak": "Genel Tarih Bilgisi (Derlenmiş)",
+    "kaynak_turu": "Derleme",
+    "referans_link": null
+  },
+  {
+    "id": "teskilat_028",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Devlet Teşkilatı",
+    "kategori": {
+      "ana": "Askeri Yapı",
+      "alt": "Gulam Sistemi"
+    },
+    "konu": "Gaznelilerde Gulam Sisteminin Önemi",
+    "icerik": "Gazneliler, ordularında Gulam sistemine büyük önem vermişlerdir. Farklı kökenlerden gelen Gulamlar, Gazneli ordusunun en profesyonel ve sadık birliklerini oluşturmuş, özellikle Hindistan seferlerindeki başarılarda önemli rol oynamışlardır.",
+    "yil": 1000,
+    "anahtar_kelimeler": ["Gazneliler", "Gulam Sistemi", "Ordu Yapısı", "Profesyonel Asker", "Sadakat", "Hindistan Seferleri"],
+    "etiketler": ["askeri tarih", "ordu yapısı", "kurumsal tarih"],
+    "kaynak": "Vikipedi: Gazneliler",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/Gazneliler"
+  },
+  {
+    "id": "teskilat_029",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Devlet Teşkilatı",
+    "kategori": {
+      "ana": "Devlet Yönetimi",
+      "alt": "Adalet Sistemi"
+    },
+    "konu": "Divan-ı Mezalim",
+    "icerik": "Türk-İslam devletlerinde, özellikle Selçuklularda, halkın idarecilerden veya devlet görevlilerinden şikayetlerini doğrudan hükümdara iletebildiği yüksek mahkeme niteliğindeki kurula 'Divan-ı Mezalim' denirdi. Hükümdar veya görevlendirdiği vezir bu divana başkanlık ederdi.",
+    "yil": 1050,
+    "anahtar_kelimeler": ["Divan-ı Mezalim", "Adalet Sistemi", "Yüksek Mahkeme", "Şikayet Hakkı", "Hükümdar", "Selçuklular"],
+    "etiketler": ["hukuk tarihi", "kurumsal tarih", "adalet", "devlet yönetimi"],
+    "kaynak": "Vikipedi: Divan-ı Mezalim",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/Divan-%C4%B1_Mezalim"
+  },
+  {
+    "id": "teskilat_030",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Devlet Teşkilatı",
+    "kategori": {
+      "ana": "Toprak Yönetimi",
+      "alt": "İkta Sistemi"
+    },
+    "konu": "Karahanlılarda İkta Benzeri Uygulamalar",
+    "icerik": "Karahanlılarda Selçuklulardaki kadar sistemli olmasa da, askeri hizmet karşılığında belirli bölgelerin gelirlerinin komutanlara veya hanedan üyelerine tahsis edildiği ikta benzeri uygulamalar görülmüştür. Bu durum, merkezi otoritenin zayıflamasına katkıda bulunmuş olabilir.",
+    "yil": 980,
+    "anahtar_kelimeler": ["Karahanlılar", "İkta Sistemi", "Toprak Tahsisi", "Askeri Hizmet", "Merkezi Otorite"],
+    "etiketler": ["ekonomi tarihi", "devlet yönetimi", "askeri tarih"],
+    "kaynak": "Genel Tarih Bilgisi (Derlenmiş)",
+    "kaynak_turu": "Derleme",
+    "referans_link": null
+  },
+  {
+    "id": "teskilat_031",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Devlet Teşkilatı",
+    "kategori": {
+      "ana": "Devlet Yönetimi",
+      "alt": "Bürokrasi"
+    },
+    "konu": "Bürokraside Fars Etkisi",
+    "icerik": "Gazneliler ve özellikle Büyük Selçukluların devlet teşkilatında ve bürokrasisinde Fars (İran) devlet geleneğinin önemli etkileri görülür. Divan teşkilatının yapısı, kullanılan terimler ve vezirlik makamının önemi bu etkinin göstergelerindendir.",
+    "yil": 1000,
+    "anahtar_kelimeler": ["Bürokrasi", "Fars Etkisi", "İran Devlet Geleneği", "Gazneliler", "Büyük Selçuklular", "Divan"],
+    "etiketler": ["kurumsal tarih", "kültürel etkileşim", "devlet yapısı"],
+    "kaynak": "Genel Tarih Bilgisi (Derlenmiş)",
+    "kaynak_turu": "Derleme",
+    "referans_link": null
+  },
+  {
+    "id": "teskilat_032",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Devlet Teşkilatı",
+    "kategori": {
+      "ana": "Askeri Yapı",
+      "alt": "Ordu Donanımı"
+    },
+    "konu": "Ordu Donanımı ve Teçhizat",
+    "icerik": "Türk-İslam ordularında askerlerin teçhizatı arasında zırh (gömlek zırh, levha zırh), miğfer, kalkan gibi koruyucu donanımlar ile kılıç, yay, ok, gürz, kargı gibi saldırı silahları bulunurdu. Atların da özel koruyucu örtüleri olabilirdi.",
+    "yil": 0,
+    "anahtar_kelimeler": ["Ordu Donanımı", "Teçhizat", "Zırh", "Miğfer", "Kalkan", "Silahlar"],
+    "etiketler": ["askeri tarih", "teknoloji tarihi", "ordu"],
+    "kaynak": "Genel Askeri Tarih Bilgisi (Derlenmiş)",
+    "kaynak_turu": "Derleme",
+    "referans_link": null
+  },
+  {
+    "id": "teskilat_033",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Devlet Teşkilatı",
+    "kategori": {
+      "ana": "Devlet Yönetimi",
+      "alt": "Eyalet Yönetimi"
+    },
+    "konu": "Eyalet Yöneticileri: Vali, Şıhne",
+    "icerik": "Türk-İslam devletlerinde eyaletler genellikle merkezden atanan valiler tarafından yönetilirdi. Selçuklularda askeri valilere 'Şıhne' adı da verilirdi. Bu yöneticiler, bölgelerinde asayişi sağlar, vergileri toplar ve merkezi otoriteyi temsil ederlerdi.",
+    "yil": 0,
+    "anahtar_kelimeler": ["Eyalet Yönetimi", "Vali", "Şıhne", "Merkezi Otorite", "Taşra Teşkilatı"],
+    "etiketler": ["devlet yapısı", "yönetim tarihi", "kurumsal tarih"],
+    "kaynak": "Genel Tarih Bilgisi (Derlenmiş)",
+    "kaynak_turu": "Derleme",
+    "referans_link": null
+  },
+  {
+    "id": "teskilat_034",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Devlet Teşkilatı",
+    "kategori": {
+      "ana": "Toprak Yönetimi",
+      "alt": "İkta Sistemi"
+    },
+    "konu": "İkta Sahiplerinin Yükümlülükleri",
+    "icerik": "İkta sahipleri (muktaalar), elde ettikleri vergi gelirleri karşılığında devlete karşı bazı yükümlülükler taşırdı. Bunların başında, belirlenen sayıda atlı asker (sipahi) beslemek ve savaş zamanında bu askerlerle orduya katılmak gelirdi. Ayrıca bölgelerinin güvenliğinden de sorumluydular.",
+    "yil": 900,
+    "anahtar_kelimeler": ["İkta Sistemi", "Muktaa", "Yükümlülükler", "Sipahi Beslemek", "Askeri Sorumluluk", "Güvenlik"],
+    "etiketler": ["devlet yönetimi", "askeri tarih", "toprak hukuku"],
+    "kaynak": "Vikipedi: İkta",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/%C4%B0kta"
+  },
+  {
+    "id": "teskilat_035",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Devlet Teşkilatı",
+    "kategori": {
+      "ana": "Askeri Yapı",
+      "alt": "Gulam Sistemi"
+    },
+    "konu": "Gulamların Devlet Yönetimindeki Yeri",
+    "icerik": "Gulam sisteminden yetişenler sadece orduda değil, zamanla devlet yönetiminde de önemli görevlere gelebilmişlerdir. Sadakatleri ve yetenekleri sayesinde komutanlık, valilik ve hatta vezirlik gibi makamlara yükselen Gulam kökenli devlet adamları olmuştur.",
+    "yil": 950,
+    "anahtar_kelimeler": ["Gulam Sistemi", "Devlet Yönetimi", "Bürokrasi", "Vali", "Vezir", "Sosyal Hareketlilik"],
+    "etiketler": ["kurumsal tarih", "sosyal tarih", "devlet yapısı"],
+    "kaynak": "Vikipedi: Gulam",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/Gulam"
+  },
+  {
+    "id": "teskilat_036",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Devlet Teşkilatı",
+    "kategori": {
+      "ana": "Devlet Yönetimi",
+      "alt": "Adalet Sistemi"
+    },
+    "konu": "Örfi Hukuk ve Şer'i Hukuk Ayrımı",
+    "icerik": "Türk-İslam devletlerinde hukuk sistemi genellikle ikili bir yapı gösterirdi. Şer'i hukuk (İslam hukuku) daha çok evlenme, boşanma, miras gibi özel hukuk alanlarında ve bazı cezalarda uygulanırken, örfi hukuk (töre, gelenekler, kağan buyrukları) devlet yönetimi, askeri ve mali konularda geçerliydi. Örfi davalara bakan mahkemeler de vardı.",
+    "yil": 900,
+    "anahtar_kelimeler": ["Hukuk Sistemi", "Şer'i Hukuk", "Örfi Hukuk", "Töre", "Kadı", "Yargı Ayrımı"],
+    "etiketler": ["hukuk tarihi", "devlet yapısı", "kültürel sentez"],
+    "kaynak": "Genel Hukuk Tarihi Bilgisi (Derlenmiş)",
+    "kaynak_turu": "Derleme",
+    "referans_link": null
+  },
+  {
+    "id": "teskilat_037",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Devlet Teşkilatı",
+    "kategori": {
+      "ana": "Askeri Yapı",
+      "alt": "Ordu Çeşitleri"
+    },
+    "konu": "Tolunoğulları ve İhşidiler Ordusunda Türklerin Ağırlığı",
+    "icerik": "Mısır'da kurulan Tolunoğulları ve İhşidiler devletlerinin ordularında Türk kökenli askerler (özellikle Orta Asya'dan getirilenler) önemli bir ağırlığa sahipti. Bu durum, devletin kurucu ve yönetici unsurunun Türk olmasının bir yansımasıydı ve Mısır'da Türk askeri varlığını güçlendirmiştir.",
+    "yil": 900,
+    "anahtar_kelimeler": ["Tolunoğulları", "İhşidiler", "Ordu Yapısı", "Türk Askerler", "Mısır"],
+    "etiketler": ["askeri tarih", "mısır tarihi", "etnik yapı"],
+    "kaynak": "Vikipedi: Tolunoğulları; Vikipedi: İhşîdîler",
+    "kaynak_turu": "Wiki; Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/Toluno%C4%9Fullar%C4%B1; https://tr.wikipedia.org/wiki/%C4%B0h%C5%9F%C3%AEd%C3%AEler"
+  },
+  {
+    "id": "teskilat_038",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Devlet Teşkilatı",
+    "kategori": {
+      "ana": "Devlet Yönetimi",
+      "alt": "Bürokrasi"
+    },
+    "konu": "Resmi Dil: Karahanlılar ve Diğerleri",
+    "icerik": "Karahanlılar, Türkçeyi (Hakaniye Lehçesi) resmi dil ve edebiyat dili olarak kullanarak milli kimliklerini korumaya önem vermişlerdir. Gazneliler ve Selçuklular ise sarayda ve orduda Türkçe konuşulmakla birlikte, resmi yazışmalarda ve edebiyatta Farsçayı, bilim dilinde ise Arapçayı daha yaygın kullanmışlardır.",
+    "yil": 1000,
+    "anahtar_kelimeler": ["Resmi Dil", "Karahanlılar", "Türkçe", "Hakaniye Lehçesi", "Gazneliler", "Selçuklular", "Farsça", "Arapça"],
+    "etiketler": ["dil tarihi", "kültür tarihi", "devlet politikası"],
+    "kaynak": "Vikipedi: Karahanlılar; Vikipedi: Gazneliler; Vikipedi: Büyük Selçuklu İmparatorluğu",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/Karahanl%C4%B1lar; https://tr.wikipedia.org/wiki/Gazneliler; https://tr.wikipedia.org/wiki/B%C3%BCy%C3%BCk_Sel%C3%A7uklu_%C4%B0mparatorlu%C4%9Fu"
+  },
+  {
+    "id": "teskilat_039",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Devlet Teşkilatı",
+    "kategori": {
+      "ana": "Askeri Yapı",
+      "alt": "Askeri Teknoloji"
+    },
+    "konu": "Askeri Teknolojide Gelişmeler",
+    "icerik": "Türk-İslam devletleri, savaşlarda etkili olan hafif süvari taktiklerini sürdürmekle birlikte, yerleşik medeniyetlerle temas sonucu kuşatma teknikleri (mancınık vb.) ve daha ağır zırhlı birlikler gibi askeri teknolojileri de benimsemiş ve geliştirmişlerdir.",
+    "yil": 1000,
+    "anahtar_kelimeler": ["Askeri Teknoloji", "Süvari", "Kuşatma Teknikleri", "Mancınık", "Zırhlı Birlikler", "Teknolojik Gelişme"],
+    "etiketler": ["askeri tarih", "teknoloji tarihi", "kültürel etkileşim"],
+    "kaynak": "Genel Askeri Tarih Bilgisi (Derlenmiş)",
+    "kaynak_turu": "Derleme",
+    "referans_link": null
+  },
+  {
+    "id": "teskilat_040",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Devlet Teşkilatı",
+    "kategori": {
+      "ana": "Devlet Yönetimi",
+      "alt": "Genel Değerlendirme"
+    },
+    "konu": "Türk-İslam Devlet Teşkilatının Sentez Niteliği",
+    "icerik": "İlk Türk-İslam devletlerinin teşkilat yapısı, eski Türk devlet geleneği (kut, ikili teşkilat, kurultay, ordu yapısı vb.), İslam devlet anlayışı (halifelikle ilişkiler, şeriat, divanlar vb.) ve Fars devlet geleneği (bürokrasi, vezirlik vb.) unsurlarının bir sentezini yansıtmaktadır. Bu sentez, sonraki Türk devletlerine de model olmuştur.",
+    "yil": 1000,
+    "anahtar_kelimeler": ["Devlet Teşkilatı", "Sentez", "Türk Geleneği", "İslam Geleneği", "Fars Geleneği", "Model"],
+    "etiketler": ["devlet yapısı", "kurumsal tarih", "kültürel sentez", "tarihsel devamlılık"],
+    "kaynak": "Genel Tarih Yorumu (Derlenmiş)",
+    "kaynak_turu": "Derleme",
+    "referans_link": null
+  },
+  {
+    "id": "kultur_bilim_001",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Kültür ve Bilim",
+    "kategori": {
+      "ana": "Bilim İnsanları",
+      "alt": "Filozoflar"
+    },
+    "konu": "Farabi (Al-Farabius): 'Muallim-i Sani'",
+    "icerik": "Farabi (yak. 872-950), İslam felsefesinin kurucularından kabul edilen büyük bir Türk filozofudur. Aristo'nun eserlerini şerh etmesi ve İslam düşüncesiyle uyumlu hale getirmesi nedeniyle Aristo'dan sonra 'İkinci Öğretmen' (Muallim-i Sani) olarak anılmıştır.",
+    "yil": 900,
+    "anahtar_kelimeler": ["Farabi", "Filozof", "Muallim-i Sani", "Aristo", "İslam Felsefesi"],
+    "etiketler": ["felsefe", "bilim insanı", "islam altın çağı"],
+    "kaynak": "Vikipedi: Fârâbî",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/F%C3%A2r%C3%A2b%C3%AE"
+  },
+  {
+    "id": "kultur_bilim_002",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Kültür ve Bilim",
+    "kategori": {
+      "ana": "Bilim İnsanları",
+      "alt": "Ansiklopedistler"
+    },
+    "konu": "Biruni: Çok Yönlü Bilim İnsanı",
+    "icerik": "Biruni (973-1048), Gazneliler döneminde yaşamış, astronomi, matematik, doğa bilimleri, coğrafya, tarih ve eczacılık gibi pek çok alanda eserler vermiş evrensel bir dehadır. Gözlemleri, deneyleri ve objektif yaklaşımıyla modern bilimin öncüleri arasında sayılır.",
+    "yil": 1000,
+    "anahtar_kelimeler": ["Biruni", "Bilim İnsanı", "Astronomi", "Matematik", "Coğrafya", "Gazneliler"],
+    "etiketler": ["bilim tarihi", "ansiklopedist", "islam altın çağı"],
+    "kaynak": "Vikipedi: Bîrûnî",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/B%C3%AEr%C3%BBn%C3®"
+  },
+  {
+    "id": "kultur_bilim_003",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Kültür ve Bilim",
+    "kategori": {
+      "ana": "Düşünürler",
+      "alt": "Kelamcılar ve Mutasavvıflar"
+    },
+    "konu": "Gazali: İslam Düşüncesinin Önemli İsmi",
+    "icerik": "İmam Gazali (1058-1111), Büyük Selçuklular döneminde yaşamış, Eş'ari kelamcısı, fıkıh alimi ve mutasavvıftır. Felsefeye yönelik eleştirileri ve tasavvufu Sünni düşünceyle bütünleştirme çabalarıyla İslam düşünce tarihinde derin izler bırakmıştır.",
+    "yil": 1100,
+    "anahtar_kelimeler": ["Gazali", "Kelam", "Tasavvuf", "Fıkıh", "Selçuklular", "Nizamiye Medresesi"],
+    "etiketler": ["islam düşüncesi", "kelam", "tasavvuf", "filozof"],
+    "kaynak": "Vikipedi: Gazzâlî",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/Gazz%C3%A2l%C3®"
+  },
+  {
+    "id": "kultur_bilim_004",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Kültür ve Bilim",
+    "kategori": {
+      "ana": "Edebi Eserler",
+      "alt": "Siyasetnameler"
+    },
+    "konu": "Yusuf Has Hacip ve Kutadgu Bilig",
+    "icerik": "Yusuf Has Hacip (yak. 1017-1077), Karahanlılar döneminde yaşamış bir devlet adamı ve şairdir. Türk-İslam edebiyatının ilk büyük eseri kabul edilen Kutadgu Bilig'i (Mutluluk Veren Bilgi) yazarak Karahanlı hükümdarına sunmuştur.",
+    "yil": 1070,
+    "anahtar_kelimeler": ["Yusuf Has Hacip", "Kutadgu Bilig", "Karahanlılar", "Türk Edebiyatı", "Siyasetname"],
+    "etiketler": ["edebiyat tarihi", "şair", "devlet adamı"],
+    "kaynak": "Vikipedi: Yusuf Has Hacip",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/Yusuf_Has_Hacip"
+  },
+  {
+    "id": "kultur_bilim_005",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Kültür ve Bilim",
+    "kategori": {
+      "ana": "Felsefe",
+      "alt": "Siyaset Felsefesi"
+    },
+    "konu": "Farabi'nin 'El-Medinetü'l-Fazıla' Eseri",
+    "icerik": "Farabi'nin 'El-Medinetü'l-Fazıla' (Erdemli Şehir) adlı eseri, İslam dünyasındaki siyaset felsefesinin temel metinlerinden biridir. Eserde ideal bir toplumun ve devletin nasıl olması gerektiği, yöneticinin vasıfları ve mutluluğa ulaşma yolları felsefi bir bakış açısıyla ele alınır.",
+    "yil": 940,
+    "anahtar_kelimeler": ["Farabi", "El-Medinetü'l-Fazıla", "Erdemli Şehir", "Siyaset Felsefesi", "İdeal Devlet"],
+    "etiketler": ["felsefe", "siyaset bilimi", "eser"],
+    "kaynak": "Vikipedi: Fârâbî",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/F%C3%A2r%C3%A2b%C3%AE"
+  },
+  {
+    "id": "kultur_bilim_006",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Kültür ve Bilim",
+    "kategori": {
+      "ana": "Bilim",
+      "alt": "Astronomi ve Matematik"
+    },
+    "konu": "Biruni'nin Astronomi Çalışmaları ve 'Kanûn-ı Mes'ûdî'",
+    "icerik": "Biruni, astronomi alanında yaptığı gözlemler ve hesaplamalarla çığır açmıştır. En önemli eserlerinden 'Kanûn-ı Mes'ûdî', dönemin en kapsamlı astronomi ansiklopedisi niteliğindedir ve Dünya'nın çevresini hassas bir şekilde hesaplaması gibi önemli bilgiler içerir.",
+    "yil": 1030,
+    "anahtar_kelimeler": ["Biruni", "Astronomi", "Kanûn-ı Mes'ûdî", "Dünya'nın Çevresi", "Gözlem", "Hesaplama"],
+    "etiketler": ["bilim tarihi", "astronomi", "matematik", "eser"],
+    "kaynak": "Vikipedi: Bîrûnî",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/B%C3%AEr%C3%BBn%C3®"
+  },
+  {
+    "id": "kultur_bilim_007",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Kültür ve Bilim",
+    "kategori": {
+      "ana": "Felsefe",
+      "alt": "Felsefe Eleştirisi"
+    },
+    "konu": "Gazali'nin 'Tehâfütü'l-Felâsife' Eseri",
+    "icerik": "Gazali'nin 'Tehâfütü'l-Felâsife' (Filozofların Tutarsızlığı) adlı eseri, başta İbn Sina ve Farabi olmak üzere Meşşâî filozofların görüşlerine yönelik sert eleştiriler içerir. Bu eser, İslam dünyasında felsefenin etkisinin azalmasında önemli bir rol oynamıştır.",
+    "yil": 1095,
+    "anahtar_kelimeler": ["Gazali", "Tehâfütü'l-Felâsife", "Felsefe Eleştirisi", "İbn Sina", "Farabi", "Meşşâîlik"],
+    "etiketler": ["felsefe", "islam düşüncesi", "eser", "eleştiri"],
+    "kaynak": "Vikipedi: Gazzâlî",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/Gazz%C3%A2l%C3®"
+  },
+  {
+    "id": "kultur_bilim_008",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Kültür ve Bilim",
+    "kategori": {
+      "ana": "Edebi Eserler",
+      "alt": "Siyasetnameler"
+    },
+    "konu": "Kutadgu Bilig'in İçeriği ve Önemi",
+    "icerik": "Alegorik bir mesnevi tarzında yazılan Kutadgu Bilig, dört sembolik karakter (Kün Togdı-Adalet, Ay Toldı-Mutluluk, Ögdülmiş-Akıl, Odgurmış-Akıbet) aracılığıyla ideal bir toplum ve devlet düzenini anlatır. Hem edebi hem de siyasi düşünce tarihi açısından Türk kültürünün temel taşlarındandır.",
+    "yil": 1070,
+    "anahtar_kelimeler": ["Kutadgu Bilig", "İçerik", "Alegori", "Mesnevi", "Adalet", "Mutluluk", "Akıl", "Siyasetname"],
+    "etiketler": ["edebiyat tarihi", "siyaset felsefesi", "eser", "kültür"],
+    "kaynak": "Vikipedi: Kutadgu Bilig",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/Kutadgu_Bilig"
+  },
+  {
+    "id": "kultur_bilim_009",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Kültür ve Bilim",
+    "kategori": {
+      "ana": "Bilim",
+      "alt": "Müzik Teorisi"
+    },
+    "konu": "Farabi'nin Müzik Teorisine Katkıları",
+    "icerik": "Farabi, felsefenin yanı sıra müzik teorisi alanında da önemli çalışmalar yapmıştır. 'Kitâbü'l-Mûsîka'l-Kebîr' (Büyük Musiki Kitabı) adlı eseri, Orta Çağ İslam dünyasında müzik teorisi üzerine yazılmış en kapsamlı ve etkili çalışmalardan biridir. Ses fiziği ve enstrümanlar üzerine incelemeler içerir.",
+    "yil": 920,
+    "anahtar_kelimeler": ["Farabi", "Müzik Teorisi", "Kitâbü'l-Mûsîka'l-Kebîr", "Musiki", "Ses Fiziği", "Enstrümanlar"],
+    "etiketler": ["müzik tarihi", "bilim tarihi", "eser"],
+    "kaynak": "Vikipedi: Fârâbî",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/F%C3%A2r%C3%A2b%C3%AE"
+  },
+  {
+    "id": "kultur_bilim_010",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Kültür ve Bilim",
+    "kategori": {
+      "ana": "Bilim",
+      "alt": "Karşılaştırmalı Dinler ve Kültürler"
+    },
+    "konu": "Biruni'nin Hindistan Çalışmaları: 'Kitabü't-Tahkik'",
+    "icerik": "Biruni'nin Gazneli Mahmud'un Hindistan seferleri sırasında yaptığı gözlemlere dayanarak yazdığı 'Kitabü't-Tahkik Mâ li'l-Hind' (Hindistan'ın Gerçeği) adlı eseri, Hint kültürü, inançları, bilimi ve sosyal yapısı üzerine yazılmış objektif ve ansiklopedik bir çalışmadır. Karşılaştırmalı dinler ve kültürler tarihinin öncü eserlerindendir.",
+    "yil": 1030,
+    "anahtar_kelimeler": ["Biruni", "Kitabü't-Tahkik", "Hindistan", "Hint Kültürü", "Karşılaştırmalı Dinler", "Antropoloji"],
+    "etiketler": ["bilim tarihi", "kültür tarihi", "din tarihi", "antropoloji", "eser"],
+    "kaynak": "Vikipedi: Bîrûnî",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/B%C3%AEr%C3%BCn%C3®"
+  },
+  {
+    "id": "kultur_bilim_011",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Kültür ve Bilim",
+    "kategori": {
+      "ana": "Tasavvuf",
+      "alt": "Önemli Eserler"
+    },
+    "konu": "Gazali'nin 'İhyâü Ulûmi'd-dîn' Eseri",
+    "icerik": "'İhyâü Ulûmi'd-dîn' (Dini İlimlerin İhyası), Gazali'nin en hacimli ve etkili eseridir. Bu eserde fıkıh, kelam, ahlak ve tasavvufu birleştirerek İslam'ı bütüncül bir yaşam biçimi olarak sunmayı amaçlamış, Sünni tasavvuf anlayışının temelini atmıştır.",
+    "yil": 1100,
+    "anahtar_kelimeler": ["Gazali", "İhyâü Ulûmi'd-dîn", "Tasavvuf", "Fıkıh", "Kelam", "Ahlak", "Sünni Tasavvuf"],
+    "etiketler": ["tasavvuf tarihi", "islam düşüncesi", "eser", "ahlak"],
+    "kaynak": "Vikipedi: İhya-u Ulumi'd-din",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/%C4%B0hya-u_Ulumi%27d-din"
+  },
+  {
+    "id": "kultur_bilim_012",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Kültür ve Bilim",
+    "kategori": {
+      "ana": "Edebi Eserler",
+      "alt": "Dil ve Üslup"
+    },
+    "konu": "Kutadgu Bilig'in Dili: Hakaniye Türkçesi",
+    "icerik": "Kutadgu Bilig, Karahanlılar döneminde kullanılan ve Eski Türkçenin İslami etkilerle gelişen bir kolu olan Hakaniye Türkçesi (Karahanlı Türkçesi) ile yazılmıştır. Bu eser, Hakaniye Türkçesinin en önemli edebi anıtıdır ve dönemin dil özelliklerini yansıtır.",
+    "yil": 1070,
+    "anahtar_kelimeler": ["Kutadgu Bilig", "Hakaniye Türkçesi", "Karahanlı Türkçesi", "Eski Türkçe", "Dil Tarihi"],
+    "etiketler": ["dilbilim", "edebiyat tarihi", "türk dili"],
+    "kaynak": "Vikipedi: Kutadgu Bilig",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/Kutadgu_Bilig"
+  },
+  {
+    "id": "kultur_bilim_013",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Kültür ve Bilim",
+    "kategori": {
+      "ana": "Felsefe",
+      "alt": "Mantık"
+    },
+    "konu": "Farabi'nin Mantık Çalışmaları",
+    "icerik": "Farabi, Aristo mantığını İslam dünyasına tanıtan ve geliştiren en önemli filozoftur. Mantık üzerine yazdığı eserler ve yaptığı sınıflandırmalar, kendisinden sonraki İslam filozoflarını (İbn Sina gibi) derinden etkilemiştir. Mantığı, felsefenin temeli olarak görmüştür.",
+    "yil": 910,
+    "anahtar_kelimeler": ["Farabi", "Mantık", "Aristo Mantığı", "İslam Felsefesi", "Sınıflandırma"],
+    "etiketler": ["felsefe", "mantık tarihi", "bilim tarihi"],
+    "kaynak": "Vikipedi: Fârâbî",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/F%C3%A2r%C3%A2b%C3%AE"
+  },
+  {
+    "id": "kultur_bilim_014",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Kültür ve Bilim",
+    "kategori": {
+      "ana": "Bilim",
+      "alt": "Matematik ve Geometri"
+    },
+    "konu": "Biruni'nin Matematik ve Geometriye Katkıları",
+    "icerik": "Biruni, matematik ve trigonometri alanlarında da önemli çalışmalar yapmıştır. Özellikle trigonometrik fonksiyonların hesaplanması, küresel trigonometri ve Hint matematiği üzerine yaptığı çalışmalar dikkat çekicidir. Pi sayısının değerini hassas bir şekilde hesaplamıştır.",
+    "yil": 1020,
+    "anahtar_kelimeler": ["Biruni", "Matematik", "Trigonometri", "Geometri", "Hint Matematiği", "Pi Sayısı"],
+    "etiketler": ["bilim tarihi", "matematik tarihi", "geometri"],
+    "kaynak": "Vikipedi: Bîrûnî",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/B%C3%AEr%C3%BCn%C3®"
+  },
+  {
+    "id": "kultur_bilim_015",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Kültür ve Bilim",
+    "kategori": {
+      "ana": "Eğitim",
+      "alt": "Eğitim Kurumları"
+    },
+    "konu": "Gazali ve Nizamiye Medresesi",
+    "icerik": "Gazali, Büyük Selçuklu Veziri Nizamülmülk tarafından Bağdat'ta kurulan Nizamiye Medresesi'nin en ünlü müderrislerinden (profesör) biridir. Burada verdiği dersler ve yazdığı eserlerle Sünni düşüncenin yayılmasında ve kurumsallaşmasında önemli rol oynamıştır.",
+    "yil": 1091,
+    "anahtar_kelimeler": ["Gazali", "Nizamiye Medresesi", "Bağdat", "Müderris", "Eğitim", "Sünnilik"],
+    "etiketler": ["eğitim tarihi", "islam düşüncesi", "kurumsal tarih"],
+    "kaynak": "Vikipedi: Gazzâlî",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/Gazz%C3%A2l%C3®"
+  },
+  {
+    "id": "kultur_bilim_016",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Kültür ve Bilim",
+    "kategori": {
+      "ana": "Kültür",
+      "alt": "Dil ve Kültür Çalışmaları"
+    },
+    "konu": "Kaşgarlı Mahmud ve Türk Kültürü",
+    "icerik": "Kaşgarlı Mahmud, Divânu Lügati't-Türk eserinde sadece kelimelerin anlamlarını vermekle kalmamış, aynı zamanda Türk boyları, coğrafyası, gelenekleri, atasözleri ve şiirleri hakkında da zengin bilgiler sunmuştur. Eser, 11. yüzyıl Türk kültürünün bir ansiklopedisi niteliğindedir.",
+    "yil": 1074,
+    "anahtar_kelimeler": ["Kaşgarlı Mahmud", "Divânu Lügati't-Türk", "Türk Kültürü", "Gelenekler", "Atasözleri", "Şiir"],
+    "etiketler": ["kültür tarihi", "dilbilim", "etnografi", "folklor"],
+    "kaynak": "Vikipedi: Dîvânu Lugâti't-Türk",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/D%C3%AEv%C3%A2nu_Lug%C3%A2ti%27t-T%C3%BCrk"
+  },
+  {
+    "id": "kultur_bilim_017",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Kültür ve Bilim",
+    "kategori": {
+      "ana": "Felsefe",
+      "alt": "Metafizik"
+    },
+    "konu": "Farabi'nin Varlık Felsefesi (Sudur Teorisi)",
+    "icerik": "Farabi, varlık felsefesinde Yeni-Platonculuk'tan etkilenen 'Sudur (Taşma) Teorisi'ni geliştirmiştir. Bu teoriye göre, tüm varlıklar ilk ve zorunlu varlık olan Tanrı'dan (Bir'den) bir taşma yoluyla hiyerarşik bir düzen içinde meydana gelmiştir. Akıllar, nefisler ve maddi alem bu taşmanın ürünleridir.",
+    "yil": 930,
+    "anahtar_kelimeler": ["Farabi", "Varlık Felsefesi", "Metafizik", "Sudur Teorisi", "Yeni-Platonculuk", "Tanrı"],
+    "etiketler": ["felsefe", "metafizik", "islam felsefesi"],
+    "kaynak": "Vikipedi: Fârâbî",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/F%C3%A2r%C3%A2b%C3%AE"
+  },
+  {
+    "id": "kultur_bilim_018",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Kültür ve Bilim",
+    "kategori": {
+      "ana": "Bilim",
+      "alt": "Doğa Bilimleri ve Eczacılık"
+    },
+    "konu": "Biruni'nin Farmakoloji Çalışmaları: 'Kitâbü's-Saydele'",
+    "icerik": "Biruni'nin yaşlılık döneminde yazdığı 'Kitâbü's-Saydele fi't-Tıb' (Tıpta Eczacılık Kitabı), farmakoloji alanındaki önemli eserlerindendir. Eserde çok sayıda bitkisel, hayvansal ve madensel ilacın adı, özellikleri ve kullanımları hakkında bilgi verilir.",
+    "yil": 1045,
+    "anahtar_kelimeler": ["Biruni", "Farmakoloji", "Eczacılık", "Kitâbü's-Saydele", "İlaçlar", "Bitkisel Tedavi"],
+    "etiketler": ["bilim tarihi", "tıp tarihi", "eczacılık", "eser"],
+    "kaynak": "Vikipedi: Bîrûnî",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/B%C3%AEr%C3%BCn%C3®"
+  },
+  {
+    "id": "kultur_bilim_019",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Kültür ve Bilim",
+    "kategori": {
+      "ana": "Tasavvuf",
+      "alt": "Tasavvufi Düşünce"
+    },
+    "konu": "Gazali'nin Tasavvufa Yönelişi",
+    "icerik": "Gazali, yaşadığı şüpheci dönemden sonra hakikate ancak akıl ve felsefe yoluyla değil, kalbi tecrübe ve sezgi (tasavvuf) yoluyla ulaşılabileceği kanaatine varmıştır. Nizamiye Medresesi'ndeki görevini bırakarak uzun bir süre uzlete çekilmiş ve tasavvufi bir yaşam sürmüştür.",
+    "yil": 1095,
+    "anahtar_kelimeler": ["Gazali", "Tasavvuf", "Sezgi", "Kalbi Tecrübe", "Şüphecilik", "Uzlet"],
+    "etiketler": ["tasavvuf tarihi", "islam düşüncesi", "biyografi"],
+    "kaynak": "Vikipedi: Gazzâlî",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/Gazz%C3%A2l%C3®"
+  },
+  {
+    "id": "kultur_bilim_020",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Kültür ve Bilim",
+    "kategori": {
+      "ana": "Edebi Eserler",
+      "alt": "Siyasetnameler"
+    },
+    "konu": "Kutadgu Bilig'in Yazılış Amacı",
+    "icerik": "Yusuf Has Hacip, Kutadgu Bilig'i yazarken hem Karahanlı hükümdarına devlet yönetimi konusunda yol göstermeyi hem de Türk dilinin edebi bir dil olarak yetkinliğini kanıtlamayı amaçlamıştır. Eser, Türk devlet geleneği ile İslami değerleri birleştiren bir anlayışı yansıtır.",
+    "yil": 1070,
+    "anahtar_kelimeler": ["Kutadgu Bilig", "Yusuf Has Hacip", "Amaç", "Devlet Yönetimi", "Türk Dili", "Türk-İslam Sentezi"],
+    "etiketler": ["edebiyat tarihi", "siyaset felsefesi", "kültür tarihi"],
+    "kaynak": "Vikipedi: Kutadgu Bilig",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/Kutadgu_Bilig"
+  },
+  {
+    "id": "kultur_bilim_021",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Kültür ve Bilim",
+    "kategori": {
+      "ana": "Bilim",
+      "alt": "Bilim Merkezleri"
+    },
+    "konu": "Bağdat: Abbasi Bilim Merkezi",
+    "icerik": "İlk Türk-İslam devletleri döneminde, Abbasi Halifeliği'nin başkenti Bağdat, İslam dünyasının en önemli bilim ve kültür merkeziydi. Beyt'ül Hikme gibi kurumlar, çeviri faaliyetleri ve farklı coğrafyalardan gelen alimler sayesinde Bağdat, bilimsel gelişmelerin merkezi olmuştur. Türk alimler de bu merkezden etkilenmiştir.",
+    "yil": 850,
+    "anahtar_kelimeler": ["Bağdat", "Abbasiler", "Bilim Merkezi", "Beyt'ül Hikme", "Çeviri Faaliyetleri", "İslam Altın Çağı"],
+    "etiketler": ["bilim tarihi", "kültür tarihi", "şehir tarihi"],
+    "kaynak": "Vikipedi: Beyt'ül Hikme",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/Beyt%27%C3%BCl_Hikme"
+  },
+  {
+    "id": "kultur_bilim_022",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Kültür ve Bilim",
+    "kategori": {
+      "ana": "Bilim",
+      "alt": "Bilimsel Yöntem"
+    },
+    "konu": "Biruni'nin Bilimsel Metodolojisi",
+    "icerik": "Biruni, çalışmalarında gözlem, deney, karşılaştırma ve eleştirel düşünceye dayanan modern bilimsel yönteme yakın bir metodoloji kullanmıştır. Farklı kaynakları karşılaştırmış, duyduklarına şüpheyle yaklaşmış ve matematiksel hesaplamalara büyük önem vermiştir.",
+    "yil": 1020,
+    "anahtar_kelimeler": ["Biruni", "Bilimsel Yöntem", "Gözlem", "Deney", "Eleştirel Düşünce", "Objektivite"],
+    "etiketler": ["bilim tarihi", "bilim felsefesi", "metodoloji"],
+    "kaynak": "Vikipedi: Bîrûnî",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/B%C3%AEr%C3%BCn%C3®"
+  },
+  {
+    "id": "kultur_bilim_023",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Kültür ve Bilim",
+    "kategori": {
+      "ana": "Düşünürler",
+      "alt": "Etki ve Miras"
+    },
+    "konu": "Gazali'nin Batı Düşüncesine Etkisi",
+    "icerik": "Gazali'nin eserleri Latince'ye çevrilerek Orta Çağ Avrupa düşüncesini de etkilemiştir. Özellikle şüpheciliği ve nedensellik üzerine yaptığı tartışmalar, David Hume gibi Batılı filozoflar üzerinde dolaylı da olsa bir etki bırakmıştır.",
+    "yil": 1150,
+    "anahtar_kelimeler": ["Gazali", "Batı Felsefesi", "Latince Çeviriler", "Şüphecilik", "Nedensellik", "David Hume"],
+    "etiketler": ["felsefe tarihi", "kültürlerarası etkileşim", "etki"],
+    "kaynak": "Vikipedi: Gazzâlî",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/Gazz%C3%A2l%C3®"
+  },
+  {
+    "id": "kultur_bilim_024",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Kültür ve Bilim",
+    "kategori": {
+      "ana": "Kültür",
+      "alt": "Dil ve Kültür Çalışmaları"
+    },
+    "konu": "Divânu Lügati't-Türk'teki Harita",
+    "icerik": "Divânu Lügati't-Türk'ün sonunda yer alan harita, bilinen en eski Türk dünya haritasıdır. Kaşgarlı Mahmud tarafından çizilen bu harita, 11. yüzyılda Türklerin yaşadığı coğrafyayı ve komşu halkları göstermesi açısından büyük bir tarihi değere sahiptir.",
+    "yil": 1074,
+    "anahtar_kelimeler": ["Divânu Lügati't-Türk", "Kaşgarlı Mahmud", "Harita", "Türk Dünya Haritası", "Kartografya"],
+    "etiketler": ["kartografya tarihi", "coğrafya tarihi", "kültür tarihi", "ilkler"],
+    "kaynak": "Vikipedi: Dîvânu Lugâti't-Türk",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/D%C3%AEv%C3%A2nu_Lug%C3%A2ti%27t-T%C3%BCrk"
+  },
+  {
+    "id": "kultur_bilim_025",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Kültür ve Bilim",
+    "kategori": {
+      "ana": "Felsefe",
+      "alt": "Bilgi Felsefesi"
+    },
+    "konu": "Farabi'nin Bilgi Kaynakları",
+    "icerik": "Farabi'ye göre bilginin kaynakları duyular, akıl ve sezgidir. Duyular dış dünya hakkında veri sağlarken, akıl bu verileri işleyerek soyut kavramlara ve tümel bilgilere ulaşır. En yüksek bilgi ise ilahi bir aydınlanma ile elde edilen sezgisel bilgidir.",
+    "yil": 920,
+    "anahtar_kelimeler": ["Farabi", "Bilgi Felsefesi", "Epistemoloji", "Duyular", "Akıl", "Sezgi"],
+    "etiketler": ["felsefe", "epistemoloji", "islam felsefesi"],
+    "kaynak": "Vikipedi: Fârâbî",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/F%C3%A2r%C3%A2b%C3%AE"
+  },
+  {
+    "id": "kultur_bilim_026",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Kültür ve Bilim",
+    "kategori": {
+      "ana": "Bilim",
+      "alt": "Coğrafya"
+    },
+    "konu": "Biruni ve Jeodezi",
+    "icerik": "Biruni, jeodezi (yer ölçümü) alanında da önemli çalışmalar yapmıştır. Matematiksel yöntemler kullanarak dağların yüksekliğini ölçmek için yeni metotlar geliştirmiş ve Dünya'nın yarıçapını oldukça hassas bir şekilde hesaplamayı başarmıştır.",
+    "yil": 1025,
+    "anahtar_kelimeler": ["Biruni", "Jeodezi", "Yer Ölçümü", "Dağ Yüksekliği", "Dünya'nın Yarıçapı", "Matematiksel Coğrafya"],
+    "etiketler": ["bilim tarihi", "coğrafya tarihi", "matematik"],
+    "kaynak": "Vikipedi: Bîrûnî",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/B%C3%AEr%C3%BCn%C3®"
+  },
+  {
+    "id": "kultur_bilim_027",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Kültür ve Bilim",
+    "kategori": {
+      "ana": "Tasavvuf",
+      "alt": "Tasavvufi Düşünce"
+    },
+    "konu": "Gazali'nin Akıl ve Sezgi Ayrımı",
+    "icerik": "Gazali, aklın sınırları olduğunu ve dini hakikatlerin tam olarak kavranmasında yetersiz kalabileceğini savunmuştur. Ona göre kesin bilgiye ve Tanrı'yı tanımaya ulaşmanın yolu, akıldan ziyade tasavvufi tecrübe ve kalbi sezgiden geçer.",
+    "yil": 1100,
+    "anahtar_kelimeler": ["Gazali", "Akıl", "Sezgi", "Tasavvuf", "Bilgi Felsefesi", "Dini Tecrübe"],
+    "etiketler": ["islam düşüncesi", "tasavvuf", "felsefe", "epistemoloji"],
+    "kaynak": "Vikipedi: Gazzâlî",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/Gazz%C3%A2l%C3®"
+  },
+  {
+    "id": "kultur_bilim_028",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Kültür ve Bilim",
+    "kategori": {
+      "ana": "Edebi Eserler",
+      "alt": "Siyasetnameler"
+    },
+    "konu": "Kutadgu Bilig ve Türk Devlet Geleneği",
+    "icerik": "Kutadgu Bilig, İslamiyet sonrası dönemde yazılmış olsa da, içerdiği devlet anlayışı ve öğütlerde eski Türk devlet geleneğinin (kut, töre, adalet vb.) izlerini taşır. Eser, bu geleneği İslami değerlerle harmanlayarak sunar.",
+    "yil": 1070,
+    "anahtar_kelimeler": ["Kutadgu Bilig", "Türk Devlet Geleneği", "Kut", "Töre", "Adalet", "Türk-İslam Sentezi"],
+    "etiketler": ["siyaset felsefesi", "edebiyat tarihi", "kültürel devamlılık"],
+    "kaynak": "Vikipedi: Kutadgu Bilig",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/Kutadgu_Bilig"
+  },
+  {
+    "id": "kultur_bilim_029",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Kültür ve Bilim",
+    "kategori": {
+      "ana": "Bilim İnsanları",
+      "alt": "Etki ve Miras"
+    },
+    "konu": "Farabi'nin İbn Sina Üzerindeki Etkisi",
+    "icerik": "Daha sonraki büyük İslam filozofu İbn Sina, Farabi'nin eserlerinden derinden etkilenmiştir. Özellikle Aristo'nun Metafizik'ini anlamakta zorlandığında Farabi'nin bu konudaki şerhinin kendisine yol gösterdiğini belirtmiştir. Farabi, Meşşâî felsefenin İbn Sina'ya aktarılmasında köprü görevi görmüştür.",
+    "yil": 980,
+    "anahtar_kelimeler": ["Farabi", "İbn Sina", "Etki", "Meşşâî Felsefe", "Aristo", "Metafizik"],
+    "etiketler": ["felsefe tarihi", "etki", "islam felsefesi"],
+    "kaynak": "Vikipedi: Fârâbî",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/F%C3%A2r%C3%A2b%C3%AE"
+  },
+  {
+    "id": "kultur_bilim_030",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Kültür ve Bilim",
+    "kategori": {
+      "ana": "Bilim",
+      "alt": "Bilimsel Yöntem"
+    },
+    "konu": "Biruni ve Deneycilik",
+    "icerik": "Biruni, doğa bilimleri alanındaki çalışmalarında deney yapmaya önem vermiştir. Örneğin, farklı madenlerin ve değerli taşların özgül ağırlıklarını hassas deneylerle ölçmüş ve bu konuda özgün yöntemler geliştirmiştir. Bu yaklaşımı, onu modern bilimin öncülerinden biri yapar.",
+    "yil": 1030,
+    "anahtar_kelimeler": ["Biruni", "Deneycilik", "Bilimsel Yöntem", "Özgül Ağırlık", "Doğa Bilimleri"],
+    "etiketler": ["bilim tarihi", "fizik tarihi", "metodoloji"],
+    "kaynak": "Vikipedi: Bîrûnî",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/B%C3%AEr%C3%BCn%C3®"
+  },
+  {
+    "id": "kultur_bilim_031",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Kültür ve Bilim",
+    "kategori": {
+      "ana": "Düşünürler",
+      "alt": "Etki ve Miras"
+    },
+    "konu": "Gazali'nin Sünni Dünyadaki Etkisi ('Hüccetü'l-İslam')",
+    "icerik": "Gazali, Sünni İslam düşüncesini derinden etkilemiş ve 'Hüccetü'l-İslam' (İslam'ın Delili) lakabıyla anılmıştır. Kelam, fıkıh ve tasavvufu uzlaştıran yaklaşımı, sonraki yüzyıllarda Sünni alimler için önemli bir referans kaynağı olmuştur.",
+    "yil": 1111,
+    "anahtar_kelimeler": ["Gazali", "Sünnilik", "Hüccetü'l-İslam", "Etki", "İslam Düşüncesi", "Referans Kaynağı"],
+    "etiketler": ["islam tarihi", "din tarihi", "etki", "unvanlar"],
+    "kaynak": "Vikipedi: Gazzâlî",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/Gazz%C3%A2l%C3®"
+  },
+  {
+    "id": "kultur_bilim_032",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Kültür ve Bilim",
+    "kategori": {
+      "ana": "Edebi Eserler",
+      "alt": "Eserlerin Nüshaları"
+    },
+    "konu": "Kutadgu Bilig'in Bilinen Nüshaları",
+    "icerik": "Yusuf Has Hacip tarafından yazılan Kutadgu Bilig'in günümüze ulaşan üç önemli el yazması nüshası bulunmaktadır: Viyana (Herat) nüshası (Uygur harfli), Kahire nüshası (Arap harfli) ve Fergana nüshası (Arap harfli). Bu nüshalar, eserin ve dönemin dilinin incelenmesi açısından değerlidir.",
+    "yil": 1070,
+    "anahtar_kelimeler": ["Kutadgu Bilig", "El Yazması", "Nüsha", "Viyana Nüshası", "Kahire Nüshası", "Fergana Nüshası", "Uygur Alfabesi"],
+    "etiketler": ["edebiyat tarihi", "paleografi", "metin incelemesi"],
+    "kaynak": "Vikipedi: Kutadgu Bilig",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/Kutadgu_Bilig"
+  },
+  {
+    "id": "kultur_bilim_033",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Kültür ve Bilim",
+    "kategori": {
+      "ana": "Bilim İnsanları",
+      "alt": "Filozoflar"
+    },
+    "konu": "Farabi ve İlimlerin Sınıflandırılması",
+    "icerik": "Farabi, 'İhsâü'l-Ulûm' (İlimlerin Sayımı) adlı eserinde kendi dönemindeki bilimleri sınıflandırmıştır. Bu sınıflandırma; dil, mantık, matematik, fizik, metafizik, siyaset ve din gibi alanları kapsar ve İslam dünyasındaki bilim anlayışının gelişimini gösterir.",
+    "yil": 930,
+    "anahtar_kelimeler": ["Farabi", "İhsâü'l-Ulûm", "İlimlerin Sınıflandırılması", "Bilim Felsefesi", "Epistemoloji"],
+    "etiketler": ["bilim tarihi", "felsefe", "sınıflandırma", "eser"],
+    "kaynak": "Vikipedi: Fârâbî",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/F%C3%A2r%C3%A2b%C3%AE"
+  },
+  {
+    "id": "kultur_bilim_034",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Kültür ve Bilim",
+    "kategori": {
+      "ana": "Bilim İnsanları",
+      "alt": "Etki ve Miras"
+    },
+    "konu": "Biruni'nin Batı Bilimine Etkisi",
+    "icerik": "Biruni'nin eserlerinden bazıları Latince'ye çevrilerek Rönesans döneminde Avrupa'daki bilimsel gelişmeleri etkilemiştir. Özellikle astronomi, matematik ve coğrafya alanındaki çalışmaları Batılı bilim insanları tarafından referans alınmıştır.",
+    "yil": 1100,
+    "anahtar_kelimeler": ["Biruni", "Batı Bilimi", "Latince Çeviriler", "Rönesans", "Etki", "Bilimsel Gelişme"],
+    "etiketler": ["bilim tarihi", "kültürlerarası etkileşim", "etki"],
+    "kaynak": "Vikipedi: Bîrûnî",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/B%C3%AEr%C3%BCn%C3®"
+  },
+  {
+    "id": "kultur_bilim_035",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Kültür ve Bilim",
+    "kategori": {
+      "ana": "Tasavvuf",
+      "alt": "Tasavvufi Düşünce"
+    },
+    "konu": "Gazali ve Nedensellik Eleştirisi",
+    "icerik": "Gazali, filozofların savunduğu zorunlu nedensellik ilkesini eleştirmiştir. Ona göre, olaylar arasındaki ilişki zorunlu bir neden-sonuç ilişkisi değil, Allah'ın sürekli yaratmasıyla (adetullah) gerçekleşen bir ardışıklıktır. Bu eleştiri, İslam düşüncesinde önemli tartışmalara yol açmıştır.",
+    "yil": 1095,
+    "anahtar_kelimeler": ["Gazali", "Nedensellik", "Felsefe Eleştirisi", "Adetullah", "Yaratma", "Kelam"],
+    "etiketler": ["felsefe", "kelam", "metafizik", "islam düşüncesi"],
+    "kaynak": "Vikipedi: Gazzâlî",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/Gazz%C3%A2l%C3®"
+  },
+  {
+    "id": "kultur_bilim_036",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Kültür ve Bilim",
+    "kategori": {
+      "ana": "Edebi Eserler",
+      "alt": "Dil ve Kültür Çalışmaları"
+    },
+    "konu": "Divânu Lügati't-Türk'ün Yazılış Amacı",
+    "icerik": "Kaşgarlı Mahmud, eserini yazarken temel amacının Araplara Türkçe öğretmek ve Türk dilinin Arapça kadar zengin ve önemli bir dil olduğunu kanıtlamak olduğunu belirtir. Bu eser, aynı zamanda Türk milli bilincinin erken dönemdeki önemli bir yansımasıdır.",
+    "yil": 1072,
+    "anahtar_kelimeler": ["Divânu Lügati't-Türk", "Kaşgarlı Mahmud", "Amaç", "Türkçe Öğretimi", "Dil Zenginliği", "Milli Bilinç"],
+    "etiketler": ["dilbilim", "kültür tarihi", "milliyetçilik"],
+    "kaynak": "Vikipedi: Dîvânu Lugâti't-Türk",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/D%C3%AEv%C3%A2nu_Lug%C3%A2ti%27t-T%C3%BCrk"
+  },
+  {
+    "id": "kultur_bilim_037",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Kültür ve Bilim",
+    "kategori": {
+      "ana": "Felsefe",
+      "alt": "Siyaset Felsefesi"
+    },
+    "konu": "Farabi'de Erdemli Yönetici (Filozof-Kral)",
+    "icerik": "Farabi, ideal devletin başında 'Erdemli Yönetici'nin bulunması gerektiğini savunur. Bu yönetici, Platon'un 'Filozof-Kral' idealine benzer şekilde, hem felsefi bilgiye ve bilgeliğe hem de pratik yönetim becerilerine sahip olmalıdır. Amacı toplumu mutluluğa ulaştırmaktır.",
+    "yil": 940,
+    "anahtar_kelimeler": ["Farabi", "Erdemli Yönetici", "Filozof-Kral", "İdeal Devlet", "Siyaset Felsefesi", "Platon"],
+    "etiketler": ["felsefe", "siyaset bilimi", "liderlik"],
+    "kaynak": "Vikipedi: Fârâbî",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/F%C3%A2r%C3%A2b%C3%AE"
+  },
+  {
+    "id": "kultur_bilim_038",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Kültür ve Bilim",
+    "kategori": {
+      "ana": "Bilim",
+      "alt": "Astronomi"
+    },
+    "konu": "Biruni ve Dünya'nın Dönmesi Fikri",
+    "icerik": "Biruni, Kopernik'ten yüzyıllar önce Dünya'nın kendi ekseni etrafında dönüyor olabileceği fikrini tartışmış ve bu konuda matematiksel hesaplamalar yapmıştır. Kesin bir sonuca varmasa da, bu konudaki sorgulayıcı yaklaşımı bilim tarihi açısından önemlidir.",
+    "yil": 1030,
+    "anahtar_kelimeler": ["Biruni", "Astronomi", "Dünya'nın Dönmesi", "Heliocentrism", "Kopernik", "Bilimsel Sorgulama"],
+    "etiketler": ["bilim tarihi", "astronomi tarihi", "bilimsel devrim"],
+    "kaynak": "Vikipedi: Bîrûnî",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/B%C3%AEr%C3%BCn%C3®"
+  },
+  {
+    "id": "kultur_bilim_039",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Kültür ve Bilim",
+    "kategori": {
+      "ana": "Düşünürler",
+      "alt": "Etki ve Miras"
+    },
+    "konu": "Gazali Sonrası İslam Düşüncesi",
+    "icerik": "Gazali'nin felsefeye yönelik eleştirileri, İslam dünyasında felsefi düşüncenin bir süre gerilemesine neden olduğu şeklinde yorumlansa da, onun tasavvufu Sünni düşünceye entegre etmesi İslam düşüncesinin sonraki seyrini derinden etkilemiştir. Kelam ve tasavvuf onunla yeni bir dengeye ulaşmıştır.",
+    "yil": 1111,
+    "anahtar_kelimeler": ["Gazali", "Etki", "İslam Düşüncesi", "Felsefe", "Tasavvuf", "Kelam"],
+    "etiketler": ["islam tarihi", "felsefe tarihi", "tasavvuf tarihi", "etki"],
+    "kaynak": "Vikipedi: Gazzâlî",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/Gazz%C3%A2l%C3®"
+  },
+  {
+    "id": "kultur_bilim_040",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Kültür ve Bilim",
+    "kategori": {
+      "ana": "Kültür",
+      "alt": "Bilim ve Sanat Hamiliği"
+    },
+    "konu": "Türk-İslam Devletlerinde Bilim ve Sanat Hamiliği",
+    "icerik": "Karahanlı, Gazneli ve Selçuklu hükümdarları, genellikle bilim insanlarını, şairleri ve sanatkarları saraylarında himaye etmişlerdir. Bu himaye (patronaj), bilimsel ve kültürel eserlerin üretilmesini teşvik etmiş, kütüphanelerin kurulmasını ve medreselerin gelişmesini sağlamıştır.",
+    "yil": 1000,
+    "anahtar_kelimeler": ["Bilim Hamiliği", "Sanat Hamiliği", "Patronaj", "Karahanlılar", "Gazneliler", "Selçuklular", "Saray"],
+    "etiketler": ["kültür tarihi", "bilim tarihi", "sanat tarihi", "devlet politikası"],
+    "kaynak": "Genel Kültür Tarihi Bilgisi (Derlenmiş)",
+    "kaynak_turu": "Derleme",
+    "referans_link": null
+  },
+  {
+    "id": "mimari_sanat_001",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Mimari ve Sanat",
+    "kategori": {
+      "ana": "Mimari Yapı Türleri",
+      "alt": "Ticari Yapılar"
+    },
+    "konu": "Kervansarayların (Ribatların) İşlevi",
+    "icerik": "Kervansaraylar veya Ribatlar, ilk Türk-İslam devletlerinde ticaret yolları üzerinde kurulan önemli konaklama ve güvenlik yapılarındandır. Tüccarların ve yolcuların güvenli bir şekilde konaklamasını, mallarını depolamasını sağlamanın yanı sıra, askeri karakol ve bazen de dini yayılma merkezi işlevi görmüşlerdir.",
+    "yil": 900,
+    "anahtar_kelimeler": ["Kervansaray", "Ribat", "Ticaret Yolları", "Konaklama", "Güvenlik", "Mimari"],
+    "etiketler": ["mimarlık tarihi", "ticaret tarihi", "sosyal kurumlar"],
+    "kaynak": "Vikipedi: Kervansaray",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/Kervansaray"
+  },
+  {
+    "id": "mimari_sanat_002",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Mimari ve Sanat",
+    "kategori": {
+      "ana": "Mimari Yapı Türleri",
+      "alt": "Eğitim Yapıları"
+    },
+    "konu": "Medreselerin Ortaya Çıkışı ve İşlevi",
+    "icerik": "Medreseler, Türk-İslam devletlerinde İslami ilimlerin okutulduğu, yükseköğretim kurumlarıdır. İlk örnekleri Karahanlılar ve Gazneliler döneminde görülse de, Büyük Selçuklular döneminde Nizamiye Medreseleri ile sistemli ve yaygın hale gelmiştir. Medreseler, din adamı ve devlet görevlisi yetiştirmede önemli rol oynamıştır.",
+    "yil": 1000,
+    "anahtar_kelimeler": ["Medrese", "Eğitim Kurumu", "İslami İlimler", "Nizamiye Medreseleri", "Büyük Selçuklular"],
+    "etiketler": ["eğitim tarihi", "mimarlık tarihi", "kurumsal tarih"],
+    "kaynak": "Vikipedi: Medrese",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/Medrese"
+  },
+  {
+    "id": "mimari_sanat_003",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Mimari ve Sanat",
+    "kategori": {
+      "ana": "Devletlere Göre Mimari",
+      "alt": "Karahanlılar"
+    },
+    "konu": "Karahanlı Mimarisi: Ribat-ı Melik",
+    "icerik": "Karahanlılar dönemine ait önemli kervansaraylardan biri Ribat-ı Melik'tir (Özbekistan). Anıtsal portalı (giriş kapısı) ve tuğla işçiliğiyle dikkat çeken bu yapı, Karahanlı mimarisinin gücünü ve estetiğini yansıtır. Hem ticari hem de askeri amaçlara hizmet etmiştir.",
+    "yil": 1078,
+    "anahtar_kelimeler": ["Karahanlılar", "Ribat-ı Melik", "Kervansaray", "Mimari", "Tuğla İşçiliği", "Portal"],
+    "etiketler": ["mimarlık tarihi", "karahanlı mimarisi", "ticari yapılar"],
+    "kaynak": "Vikipedi: Ribât-ı Melik",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/Rib%C3%A2t-%C4%B1_Melik"
+  },
+  {
+    "id": "mimari_sanat_004",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Mimari ve Sanat",
+    "kategori": {
+      "ana": "Devletlere Göre Mimari",
+      "alt": "Karahanlılar"
+    },
+    "konu": "Karahanlı Türbe Mimarisi: Ayşe Bibi Türbesi",
+    "icerik": "Karahanlı türbe mimarisinin en güzel örneklerinden biri Talas yakınlarındaki Ayşe Bibi Türbesi'dir (12. yy). Dış cephesindeki pişmiş toprak (terrakotta) süslemelerdeki zengin geometrik ve bitkisel desenler, Karahanlı sanatının ulaştığı yüksek seviyeyi gösterir.",
+    "yil": 1150,
+    "anahtar_kelimeler": ["Karahanlılar", "Ayşe Bibi Türbesi", "Türbe", "Mimari", "Terrakotta", "Süsleme"],
+    "etiketler": ["mimarlık tarihi", "sanat tarihi", "karahanlı mimarisi", "türbe"],
+    "kaynak": "Vikipedi: Ayşe Bibi Türbesi",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/Ay%C5%9Fe_Bibi_T%C3%BCrbesi"
+  },
+  {
+    "id": "mimari_sanat_005",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Mimari ve Sanat",
+    "kategori": {
+      "ana": "Devletlere Göre Mimari",
+      "alt": "Gazneliler"
+    },
+    "konu": "Gazneli Mimarisi: Leşker-i Bazar Sarayı",
+    "icerik": "Afganistan'daki Leşker-i Bazar Sarayı, Gazneli saray mimarisinin önemli bir örneğidir. Geniş bir alana yayılan saray kompleksi, divanhanesi, camisi, kışlaları ve zengin stuko (alçı) süslemeleriyle dikkat çeker. Hint ve İran etkileri görülebilir.",
+    "yil": 1050,
+    "anahtar_kelimeler": ["Gazneliler", "Leşker-i Bazar", "Saray Mimarisi", "Stuko Süsleme", "Afganistan"],
+    "etiketler": ["mimarlık tarihi", "sanat tarihi", "gazneli mimarisi", "saray"],
+    "kaynak": "Vikipedi: Leşker-i Bazar",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/Le%C5%9Fker-i_Bazar"
+  },
+  {
+    "id": "mimari_sanat_006",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Mimari ve Sanat",
+    "kategori": {
+      "ana": "Devletlere Göre Mimari",
+      "alt": "Gazneliler"
+    },
+    "konu": "Gazne Kuleleri (Minareler)",
+    "icerik": "Gazne şehrinde bulunan ve Gazneliler dönemine tarihlenen zafer kuleleri veya minareler, tuğla işçiliği ve geometrik süslemeleriyle öne çıkar. Sultan III. Mesud ve Behramşah tarafından yaptırıldığı düşünülen bu kuleler, Gazneli gücünün sembollerindendir.",
+    "yil": 1100,
+    "anahtar_kelimeler": ["Gazneliler", "Gazne Kuleleri", "Minare", "Zafer Kulesi", "Tuğla İşçiliği", "Geometrik Süsleme"],
+    "etiketler": ["mimarlık tarihi", "sanat tarihi", "gazneli mimarisi", "kule"],
+    "kaynak": "Vikipedi: Gazne Minareleri",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/Gazne_Minareleri"
+  },
+  {
+    "id": "mimari_sanat_007",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Mimari ve Sanat",
+    "kategori": {
+      "ana": "Devletlere Göre Mimari",
+      "alt": "Büyük Selçuklular"
+    },
+    "konu": "Büyük Selçuklu Cami Mimarisi: İsfahan Cuma Camii",
+    "icerik": "İran'daki İsfahan Cuma Camii, Büyük Selçuklu cami mimarisinin en önemli anıtlarından biridir. Dört eyvanlı avlulu plan şemasının klasikleştiği bu yapı, anıtsal kubbeleri, tuğla işçiliği ve çini süslemeleriyle Selçuklu mimarisinin zirvelerindendir.",
+    "yil": 1080,
+    "anahtar_kelimeler": ["Büyük Selçuklular", "İsfahan Cuma Camii", "Cami Mimarisi", "Dört Eyvanlı Plan", "Kubbe", "Çini"],
+    "etiketler": ["mimarlık tarihi", "sanat tarihi", "selçuklu mimarisi", "cami"],
+    "kaynak": "Vikipedi: İsfahan Cuma Camii",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/%C4%B0sfahan_Cuma_Camii"
+  },
+  {
+    "id": "mimari_sanat_008",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Mimari ve Sanat",
+    "kategori": {
+      "ana": "Devletlere Göre Mimari",
+      "alt": "Büyük Selçuklular"
+    },
+    "konu": "Selçuklu Türbe Mimarisi: Kümbetler",
+    "icerik": "Büyük Selçuklular döneminde 'Kümbet' adı verilen anıt mezar mimarisi gelişmiştir. Genellikle silindirik veya çokgen gövdeli, konik veya piramidal çatılı olan bu yapılar, önemli devlet adamları veya din alimleri için inşa edilmiştir. Sultan Sencer Türbesi önemli bir örnektir.",
+    "yil": 1100,
+    "anahtar_kelimeler": ["Büyük Selçuklular", "Kümbet", "Türbe Mimarisi", "Anıt Mezar", "Sultan Sencer Türbesi"],
+    "etiketler": ["mimarlık tarihi", "sanat tarihi", "selçuklu mimarisi", "türbe"],
+    "kaynak": "Vikipedi: Kümbet",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/K%C3%BCmbet"
+  },
+  {
+    "id": "mimari_sanat_009",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Mimari ve Sanat",
+    "kategori": {
+      "ana": "Devletlere Göre Mimari",
+      "alt": "Büyük Selçuklular"
+    },
+    "konu": "Nizamiye Medreselerinin Mimari Özellikleri",
+    "icerik": "Nizamiye Medreseleri, genellikle avlulu ve eyvanlı bir plan şemasına sahipti. Derslerin yapıldığı odalar, mescit, kütüphane gibi bölümler avlu etrafında sıralanırdı. Bu plan tipi, sonraki medrese mimarisi için model oluşturmuştur.",
+    "yil": 1070,
+    "anahtar_kelimeler": ["Nizamiye Medreseleri", "Medrese Mimarisi", "Avlulu Plan", "Eyvan", "Büyük Selçuklular"],
+    "etiketler": ["mimarlık tarihi", "eğitim tarihi", "selçuklu mimarisi"],
+    "kaynak": "Vikipedi: Nizamiye Medreseleri",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/Nizamiye_Medreseleri"
+  },
+  {
+    "id": "mimari_sanat_010",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Mimari ve Sanat",
+    "kategori": {
+      "ana": "Devletlere Göre Mimari",
+      "alt": "Tolunoğulları"
+    },
+    "konu": "Tolunoğlu Camii'nin Mimari Özellikleri",
+    "icerik": "Kahire'deki Tolunoğlu Camii, Abbasi başkenti Samarra'daki Ulu Cami'den etkilenen bir plana sahiptir. Geniş dikdörtgen avlusu, revakları, sivri kemerleri ve özellikle spiral (helezonik) formdaki dıştan merdivenli minaresi en belirgin özellikleridir.",
+    "yil": 879,
+    "anahtar_kelimeler": ["Tolunoğlu Camii", "Mimari Özellikler", "Samarra Etkisi", "Sivri Kemer", "Spiral Minare", "Avlulu Plan"],
+    "etiketler": ["mimarlık tarihi", "islam mimarisi", "mısır"],
+    "kaynak": "Vikipedi: Tolunoğlu Camii",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/Toluno%C4%9Flu_Camii"
+  },
+  {
+    "id": "mimari_sanat_011",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Mimari ve Sanat",
+    "kategori": {
+      "ana": "Sanat",
+      "alt": "Süsleme Sanatları"
+    },
+    "konu": "Stuko (Alçı) Süsleme Sanatı",
+    "icerik": "İlk Türk-İslam devletleri mimarisinde stuko (alçı) süsleme yaygın olarak kullanılmıştır. Özellikle Gazneliler (Leşker-i Bazar) ve Tolunoğulları (Tolunoğlu Camii) yapılarında geometrik desenler, bitkisel motifler (rumi) ve yazı kuşaklarından oluşan zengin alçı süslemeler görülür.",
+    "yil": 900,
+    "anahtar_kelimeler": ["Stuko", "Alçı Süsleme", "Gazneliler", "Tolunoğulları", "Geometrik Desen", "Bitkisel Motif"],
+    "etiketler": ["sanat tarihi", "süsleme sanatı", "mimari"],
+    "kaynak": "Vikipedi: Leşker-i Bazar; Vikipedi: Tolunoğlu Camii",
+    "kaynak_turu": "Wiki; Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/Le%C5%9Fker-i_Bazar; https://tr.wikipedia.org/wiki/Toluno%C4%9Flu_Camii"
+  },
+  {
+    "id": "mimari_sanat_012",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Mimari ve Sanat",
+    "kategori": {
+      "ana": "Sanat",
+      "alt": "Süsleme Sanatları"
+    },
+    "konu": "Tuğla İşçiliği ve Süsleme",
+    "icerik": "Karahanlı ve Selçuklu mimarisinde tuğla, hem taşıyıcı malzeme hem de önemli bir süsleme unsuru olarak kullanılmıştır. Tuğlaların farklı şekillerde dizilmesiyle oluşturulan geometrik desenler, yazı kuşakları ve kabartmalar, cephelere ve iç mekanlara hareketlilik katmıştır.",
+    "yil": 1000,
+    "anahtar_kelimeler": ["Tuğla İşçiliği", "Süsleme", "Karahanlı Mimarisi", "Selçuklu Mimarisi", "Geometrik Desen"],
+    "etiketler": ["sanat tarihi", "mimarlık tarihi", "malzeme"],
+    "kaynak": "Vikipedi: Ribât-ı Melik; Vikipedi: Gazne Minareleri",
+    "kaynak_turu": "Wiki; Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/Rib%C3%A2t-%C4%B1_Melik; https://tr.wikipedia.org/wiki/Gazne_Minareleri"
+  },
+  {
+    "id": "mimari_sanat_013",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Mimari ve Sanat",
+    "kategori": {
+      "ana": "Sanat",
+      "alt": "Süsleme Sanatları"
+    },
+    "konu": "Çini Sanatının Erken Örnekleri (Selçuklular)",
+    "icerik": "Büyük Selçuklular döneminde çini sanatı da gelişmeye başlamıştır. Başlangıçta daha çok tek renkli (turkuaz, lacivert) sırlı tuğlalar veya basit mozaik çiniler kullanılırken, zamanla daha karmaşık desenler ve teknikler ortaya çıkmıştır. İsfahan Cuma Camii'nde erken örnekleri görülebilir.",
+    "yil": 1100,
+    "anahtar_kelimeler": ["Çini Sanatı", "Büyük Selçuklular", "Sırlı Tuğla", "Mozaik Çini", "Süsleme", "İsfahan Cuma Camii"],
+    "etiketler": ["sanat tarihi", "çini", "süsleme sanatı", "selçuklu sanatı"],
+    "kaynak": "Vikipedi: İsfahan Cuma Camii",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/%C4%B0sfahan_Cuma_Camii"
+  },
+  {
+    "id": "mimari_sanat_014",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Mimari ve Sanat",
+    "kategori": {
+      "ana": "Mimari Yapı Türleri",
+      "alt": "Ticari Yapılar"
+    },
+    "konu": "Kervansarayların Mimari Planı",
+    "icerik": "Tipik bir kervansaray genellikle kare veya dikdörtgen planlı, etrafı yüksek ve korunaklı duvarlarla çevrili bir yapıdır. Ortada geniş bir avlu bulunur ve avlu etrafında yolcuların ve hayvanların barınması için odalar, depolar, mescit, hamam gibi bölümler yer alırdı.",
+    "yil": 900,
+    "anahtar_kelimeler": ["Kervansaray", "Ribat", "Mimari Plan", "Avlu", "Korunaklı Duvar", "Oda"],
+    "etiketler": ["mimarlık tarihi", "yapı tipleri", "ticari yapılar"],
+    "kaynak": "Vikipedi: Kervansaray",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/Kervansaray"
+  },
+  {
+    "id": "mimari_sanat_015",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Mimari ve Sanat",
+    "kategori": {
+      "ana": "Mimari Yapı Türleri",
+      "alt": "Eğitim Yapıları"
+    },
+    "konu": "Medreselerin Finansmanı: Vakıflar",
+    "icerik": "Medreselerin inşası ve giderleri (hocaların maaşları, öğrencilerin iaşesi vb.) genellikle vakıflar aracılığıyla karşılanırdı. Hükümdarlar, devlet adamları veya zengin kişiler, gelir getiren mülkleri (arazi, dükkan vb.) vakfederek medreselerin devamlılığını sağlarlardı.",
+    "yil": 1000,
+    "anahtar_kelimeler": ["Medrese", "Vakıf", "Finansman", "Eğitim", "Sosyal Kurum"],
+    "etiketler": ["eğitim tarihi", "vakıf tarihi", "ekonomi tarihi"],
+    "kaynak": "Vikipedi: Medrese",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/Medrese"
+  },
+  {
+    "id": "mimari_sanat_016",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Mimari ve Sanat",
+    "kategori": {
+      "ana": "Sanat",
+      "alt": "Hat Sanatı"
+    },
+    "konu": "Hat Sanatının Gelişimi",
+    "icerik": "İslamiyet'in kabulüyle birlikte Arap harfleriyle güzel yazı yazma sanatı olan hat, Türkler arasında da gelişmeye başlamıştır. Mimari eserlerdeki kitabelerde, kitap süslemelerinde ve Kur'an yazımında Kûfi ve Nesih gibi hat türleri kullanılmıştır.",
+    "yil": 900,
+    "anahtar_kelimeler": ["Hat Sanatı", "Kaligrafi", "Arap Harfleri", "Kûfi", "Nesih", "İslam Sanatı"],
+    "etiketler": ["sanat tarihi", "islam sanatı", "yazı sanatı"],
+    "kaynak": "Genel Sanat Tarihi Bilgisi (Derlenmiş)",
+    "kaynak_turu": "Derleme",
+    "referans_link": null
+  },
+  {
+    "id": "mimari_sanat_017",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Mimari ve Sanat",
+    "kategori": {
+      "ana": "Mimari Öğeler",
+      "alt": "Eyvan"
+    },
+    "konu": "Eyvan Mimarisi",
+    "icerik": "Eyvan, üç tarafı kapalı, bir tarafı avluya veya dış mekana açılan, üzeri genellikle tonozla örtülü mimari bir öğedir. İran mimarisinden alınan eyvan, Selçuklular döneminde cami, medrese ve saray mimarisinde yaygın olarak kullanılmış ve dört eyvanlı plan şeması geliştirilmiştir.",
+    "yil": 1050,
+    "anahtar_kelimeler": ["Eyvan", "Mimari Öğe", "Selçuklu Mimarisi", "İran Mimarisi", "Dört Eyvanlı Plan"],
+    "etiketler": ["mimarlık tarihi", "mimari terimler", "plan tipi"],
+    "kaynak": "Vikipedi: Eyvan",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/Eyvan"
+  },
+  {
+    "id": "mimari_sanat_018",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Mimari ve Sanat",
+    "kategori": {
+      "ana": "Sanat",
+      "alt": "Metal Sanatı"
+    },
+    "konu": "Selçuklu Metal Sanatı",
+    "icerik": "Büyük Selçuklular dönemi, metal sanatında önemli gelişmelerin yaşandığı bir çağdır. Özellikle Horasan'da üretilen tunç veya pirinçten yapılmış havanlar, şamdanlar, buhurdanlıklar ve aynalar üzerindeki kakma, kazıma ve kabartma teknikleriyle yapılan süslemeler dikkat çekicidir.",
+    "yil": 1100,
+    "anahtar_kelimeler": ["Selçuklu Metal Sanatı", "Metal İşçiliği", "Horasan", "Tunç", "Pirinç", "Kakma", "Süsleme"],
+    "etiketler": ["sanat tarihi", "zanaat", "metal sanatı", "selçuklu sanatı"],
+    "kaynak": "Genel Sanat Tarihi Bilgisi (Derlenmiş)",
+    "kaynak_turu": "Derleme",
+    "referans_link": null
+  },
+  {
+    "id": "mimari_sanat_019",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Mimari ve Sanat",
+    "kategori": {
+      "ana": "Mimari Yapı Türleri",
+      "alt": "Sağlık Yapıları"
+    },
+    "konu": "Darüşşifalar (Hastaneler)",
+    "icerik": "Türk-İslam devletlerinde hastaların tedavi edildiği ve tıp eğitiminin verildiği kurumlara Darüşşifa (Bimaristan) adı verilirdi. Selçuklular döneminde önemli şehirlerde darüşşifalar inşa edilmiştir. Bu yapılar, vakıflar aracılığıyla finanse edilirdi.",
+    "yil": 1100,
+    "anahtar_kelimeler": ["Darüşşifa", "Bimaristan", "Hastane", "Tıp Eğitimi", "Selçuklular", "Vakıf"],
+    "etiketler": ["tıp tarihi", "mimarlık tarihi", "kurumsal tarih", "sağlık"],
+    "kaynak": "Vikipedi: Darüşşifa",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/Dar%C3%BC%C5%9F%C5%9Fifa"
+  },
+  {
+    "id": "mimari_sanat_020",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Mimari ve Sanat",
+    "kategori": {
+      "ana": "Mimari Öğeler",
+      "alt": "Kubbe"
+    },
+    "konu": "Türk Üçgeni ve Kubbeye Geçiş",
+    "icerik": "Kare planlı bir mekandan dairesel kubbeye geçişi sağlayan mimari öğelerden biri 'Türk Üçgeni'dir. Köşelere yerleştirilen üçgen şeklindeki bu tonoz bingiler, özellikle Karahanlı ve Selçuklu mimarisinde kubbe yapımında sıklıkla kullanılmıştır.",
+    "yil": 1000,
+    "anahtar_kelimeler": ["Türk Üçgeni", "Kubbe", "Mimari Öğe", "Tonoz", "Bingi", "Karahanlı Mimarisi", "Selçuklu Mimarisi"],
+    "etiketler": ["mimarlık tarihi", "mimari terimler", "yapısal eleman"],
+    "kaynak": "Vikipedi: Türk üçgeni",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/T%C3%BCrk_%C3%BC%C3%A7geni"
+  },
+  {
+    "id": "mimari_sanat_021",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Mimari ve Sanat",
+    "kategori": {
+      "ana": "Devletlere Göre Mimari",
+      "alt": "Karahanlılar"
+    },
+    "konu": "Degaron Camii",
+    "icerik": "Özbekistan'daki Degaron Camii, Karahanlı dönemine (veya daha öncesine) tarihlenen, Orta Asya'nın en eski camilerinden biridir. Dört paye üzerine oturan merkezi kubbesi ve köşe kubbeleriyle farklı bir plan tipine sahiptir.",
+    "yil": 900,
+    "anahtar_kelimeler": ["Degaron Camii", "Karahanlılar", "Cami Mimarisi", "Orta Asya Mimarisi", "Kubbe"],
+    "etiketler": ["mimarlık tarihi", "cami", "erken islam mimarisi"],
+    "kaynak": "Vikipedi: Degaron Camii",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/Degaron_Camii"
+  },
+  {
+    "id": "mimari_sanat_022",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Mimari ve Sanat",
+    "kategori": {
+      "ana": "Sanat",
+      "alt": "Süsleme Sanatları"
+    },
+    "konu": "Geometrik Desenlerin Kullanımı",
+    "icerik": "Türk-İslam sanatında geometrik desenler önemli bir yer tutar. Özellikle tuğla işçiliğinde, çinide, ahşap ve metal işlemeciliğinde yıldız geçmeler, çokgenler ve örgü motiflerinden oluşan karmaşık geometrik kompozisyonlar sıklıkla kullanılmıştır.",
+    "yil": 1000,
+    "anahtar_kelimeler": ["Geometrik Desen", "Türk-İslam Sanatı", "Süsleme", "Yıldız Geçme", "Örgü Motifi"],
+    "etiketler": ["sanat tarihi", "süsleme sanatı", "geometri", "islam sanatı"],
+    "kaynak": "Genel Sanat Tarihi Bilgisi (Derlenmiş)",
+    "kaynak_turu": "Derleme",
+    "referans_link": null
+  },
+  {
+    "id": "mimari_sanat_023",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Mimari ve Sanat",
+    "kategori": {
+      "ana": "Mimari Yapı Türleri",
+      "alt": "Ticari Yapılar"
+    },
+    "konu": "Kervansarayların Sosyal İşlevi",
+    "icerik": "Kervansaraylar sadece ticari ve askeri yapılar değil, aynı zamanda sosyal merkezlerdi. Farklı kültürlerden ve coğrafyalardan gelen insanların buluştuğu, haberlerin ve fikirlerin paylaşıldığı mekanlardı. Bu yönüyle kültürel etkileşime de katkı sağlamışlardır.",
+    "yil": 900,
+    "anahtar_kelimeler": ["Kervansaray", "Sosyal İşlev", "Kültürel Etkileşim", "Buluşma Noktası", "Haberleşme"],
+    "etiketler": ["sosyal tarih", "kültür tarihi", "ticaret tarihi"],
+    "kaynak": "Vikipedi: Kervansaray",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/Kervansaray"
+  },
+  {
+    "id": "mimari_sanat_024",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Mimari ve Sanat",
+    "kategori": {
+      "ana": "Mimari Yapı Türleri",
+      "alt": "Eğitim Yapıları"
+    },
+    "konu": "İlk Medreseler: Karahanlı ve Gazneli Örnekleri",
+    "icerik": "Sistemli medrese eğitiminin Selçuklularla başladığı kabul edilse de, Karahanlılar (Semerkant, Buhara) ve Gazneliler (Gazne, Nişabur) dönemlerinde de medreselerin var olduğu bilinmektedir. Ancak bu erken dönem medreselerinden günümüze ulaşan mimari örnekler çok azdır.",
+    "yil": 980,
+    "anahtar_kelimeler": ["Medrese", "İlk Medreseler", "Karahanlılar", "Gazneliler", "Eğitim Tarihi"],
+    "etiketler": ["eğitim tarihi", "mimarlık tarihi", "kurumsal tarih"],
+    "kaynak": "Vikipedi: Medrese",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/Medrese"
+  },
+  {
+    "id": "mimari_sanat_025",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Mimari ve Sanat",
+    "kategori": {
+      "ana": "Devletlere Göre Mimari",
+      "alt": "Tolunoğulları"
+    },
+    "konu": "Tolunoğulları Sanatında Ahşap İşçiliği",
+    "icerik": "Tolunoğlu Camii'nin günümüze ulaşan bazı ahşap kapı kanatları ve tavan kirişleri, dönemin ahşap işçiliği hakkında fikir vermektedir. Özellikle geometrik ve bitkisel desenlerin oyma tekniğiyle işlendiği görülür.",
+    "yil": 879,
+    "anahtar_kelimeler": ["Tolunoğulları", "Ahşap İşçiliği", "Tolunoğlu Camii", "Oyma Sanatı", "Sanat"],
+    "etiketler": ["sanat tarihi", "zanaat", "ahşap sanatı"],
+    "kaynak": "Vikipedi: Tolunoğlu Camii",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/Toluno%C4%9Flu_Camii"
+  },
+  {
+    "id": "mimari_sanat_026",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Mimari ve Sanat",
+    "kategori": {
+      "ana": "Sanat",
+      "alt": "Tezhip ve Minyatür"
+    },
+    "konu": "Erken Dönem Tezhip ve Minyatür",
+    "icerik": "Türk-İslam devletlerinde kitap süsleme sanatları olan tezhip (yaldızlama) ve minyatür (tasvir) de gelişme göstermiştir. Özellikle Selçuklu dönemine ait el yazmalarında tezhip örnekleri ve az sayıda da olsa minyatürlü eserler bulunmaktadır.",
+    "yil": 1100,
+    "anahtar_kelimeler": ["Tezhip", "Minyatür", "Kitap Süsleme", "Selçuklu Sanatı", "El Yazması"],
+    "etiketler": ["sanat tarihi", "islam sanatı", "kitap sanatı"],
+    "kaynak": "Genel Sanat Tarihi Bilgisi (Derlenmiş)",
+    "kaynak_turu": "Derleme",
+    "referans_link": null
+  },
+  {
+    "id": "mimari_sanat_027",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Mimari ve Sanat",
+    "kategori": {
+      "ana": "Mimari Öğeler",
+      "alt": "Portal (Taçkapı)"
+    },
+    "konu": "Anıtsal Portaller (Taçkapılar)",
+    "icerik": "Türk-İslam mimarisinde yapıların giriş kapıları olan portaller (taçkapılar) özel bir önem taşır ve anıtsal boyutlarda inşa edilirdi. Karahanlı (Ribat-ı Melik) ve Selçuklu mimarisinde, zengin geometrik, bitkisel ve yazı süslemeleriyle bezenmiş görkemli portaller yapılmıştır.",
+    "yil": 1050,
+    "anahtar_kelimeler": ["Portal", "Taçkapı", "Anıtsal Giriş", "Mimari Öğe", "Süsleme", "Karahanlı Mimarisi", "Selçuklu Mimarisi"],
+    "etiketler": ["mimarlık tarihi", "sanat tarihi", "mimari öğeler"],
+    "kaynak": "Vikipedi: Taçkapı",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/Ta%C3%A7kap%C4%B1"
+  },
+  {
+    "id": "mimari_sanat_028",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Mimari ve Sanat",
+    "kategori": {
+      "ana": "Mimari Yapı Türleri",
+      "alt": "Mezar Anıtları"
+    },
+    "konu": "Gazneli Mezar Anıtları",
+    "icerik": "Gazneliler döneminden günümüze kalan mezar anıtları arasında Gazneli Mahmud ve babası Sebük Tigin'e atfedilen türbeler bulunmaktadır. Bu yapılar genellikle kare planlı ve kubbeli olup, süslemelerinde mermer ve alçı kullanılmıştır.",
+    "yil": 1030,
+    "anahtar_kelimeler": ["Gazneliler", "Türbe", "Mezar Anıtı", "Gazneli Mahmud Türbesi", "Sebük Tigin Türbesi"],
+    "etiketler": ["mimarlık tarihi", "gazneli mimarisi", "türbe"],
+    "kaynak": "Vikipedi: Gazneliler",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/Gazneliler"
+  },
+  {
+    "id": "mimari_sanat_029",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Mimari ve Sanat",
+    "kategori": {
+      "ana": "Sanat",
+      "alt": "Seramik Sanatı"
+    },
+    "konu": "Selçuklu Seramik Sanatı",
+    "icerik": "Büyük Selçuklular döneminde seramik sanatı da önemli bir gelişme göstermiştir. Lüster (madeni parıltılı) ve minai (sır altı çok renkli) teknikleriyle yapılan kaseler, tabaklar ve duvar çinileri, dönemin estetik anlayışını yansıtır. Rey ve Keşan önemli üretim merkezlerindendi.",
+    "yil": 1150,
+    "anahtar_kelimeler": ["Selçuklu Seramik Sanatı", "Seramik", "Lüster Tekniği", "Minai Tekniği", "Çini", "Rey", "Keşan"],
+    "etiketler": ["sanat tarihi", "seramik sanatı", "zanaat", "selçuklu sanatı"],
+    "kaynak": "Genel Sanat Tarihi Bilgisi (Derlenmiş)",
+    "kaynak_turu": "Derleme",
+    "referans_link": null
+  },
+  {
+    "id": "mimari_sanat_030",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Mimari ve Sanat",
+    "kategori": {
+      "ana": "Mimari Yapı Türleri",
+      "alt": "Külliyeler"
+    },
+    "konu": "Külliye Anlayışının Başlangıcı",
+    "icerik": "Cami merkezli olmak üzere medrese, kütüphane, darüşşifa, türbe, hamam gibi farklı işlevdeki yapıların bir arada bulunduğu külliye anlayışı, Selçuklular döneminde gelişmeye başlamıştır. Bu yapılar, şehirlerin sosyal ve kültürel merkezlerini oluşturmuştur.",
+    "yil": 1100,
+    "anahtar_kelimeler": ["Külliye", "Cami", "Medrese", "Darüşşifa", "Türbe", "Selçuklu Mimarisi"],
+    "etiketler": ["mimarlık tarihi", "şehir planlama", "sosyal kurumlar"],
+    "kaynak": "Vikipedi: Külliye",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/K%C3%BClliye"
+  },
+  {
+    "id": "mimari_sanat_031",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Mimari ve Sanat",
+    "kategori": {
+      "ana": "Devletlere Göre Mimari",
+      "alt": "Karahanlılar"
+    },
+    "konu": "Özkent Mimari Anıtları",
+    "icerik": "Kırgızistan'daki Özkent şehrinde bulunan Karahanlılar dönemine ait üç türbe (11-12. yy), tuğla işçiliği ve cephe düzenlemeleriyle dikkat çeker. Özellikle geometrik desenler ve kufi yazılı panolar, Karahanlı mimari süslemesinin zenginliğini gösterir.",
+    "yil": 1150,
+    "anahtar_kelimeler": ["Özkent Türbeleri", "Karahanlılar", "Mimari", "Türbe", "Tuğla İşçiliği", "Kırgızistan"],
+    "etiketler": ["mimarlık tarihi", "karahanlı mimarisi", "türbe"],
+    "kaynak": "Vikipedi: Özgön Minarası (ve çevresi)",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/%C3%96zg%C3%B6n_Minaras%C4%B1"
+  },
+  {
+    "id": "mimari_sanat_032",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Mimari ve Sanat",
+    "kategori": {
+      "ana": "Sanat",
+      "alt": "Süsleme Sanatları"
+    },
+    "konu": "Mukarnas Süslemesi",
+    "icerik": "Mukarnas, İslam mimarisinde özellikle portal kavsaraları, kubbeye geçiş bölgeleri ve sütun başlıklarında kullanılan, prizmatik öğelerin kademeli olarak bir araya gelmesiyle oluşan üç boyutlu bir süsleme unsurudur. Selçuklu mimarisinde gelişmiş örnekleri görülür.",
+    "yil": 1100,
+    "anahtar_kelimeler": ["Mukarnas", "Süsleme Sanatı", "Mimari Öğe", "Selçuklu Mimarisi", "İslam Mimarisi"],
+    "etiketler": ["sanat tarihi", "mimarlık tarihi", "süsleme", "mimari terimler"],
+    "kaynak": "Vikipedi: Mukarnas",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/Mukarnas"
+  },
+  {
+    "id": "mimari_sanat_033",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Mimari ve Sanat",
+    "kategori": {
+      "ana": "Mimari Yapı Türleri",
+      "alt": "Ticari Yapılar"
+    },
+    "konu": "Ribatların Savunma Özellikleri",
+    "icerik": "Ticaret yolları üzerindeki Ribatlar (kervansaraylar), genellikle kalın ve yüksek duvarlar, köşe kuleleri ve sağlam giriş kapılarıyla kale benzeri bir savunma yapısına sahipti. Bu özellikler, kervanların ve yolcuların eşkıya saldırılarına karşı korunmasını sağlıyordu.",
+    "yil": 900,
+    "anahtar_kelimeler": ["Ribat", "Kervansaray", "Savunma Mimarisi", "Kale", "Güvenlik", "Ticaret Yolu"],
+    "etiketler": ["mimarlık tarihi", "askeri mimari", "güvenlik"],
+    "kaynak": "Vikipedi: Ribat",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/Ribat"
+  },
+  {
+    "id": "mimari_sanat_034",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Mimari ve Sanat",
+    "kategori": {
+      "ana": "Mimari Yapı Türleri",
+      "alt": "Eğitim Yapıları"
+    },
+    "konu": "Medreselerde Okutulan Dersler",
+    "icerik": "İlk Türk-İslam devletlerindeki medreselerde temel olarak Kur'an, Hadis, Fıkıh, Kelam gibi İslami ilimler okutulurdu. Bunun yanı sıra Arapça, mantık, matematik, astronomi gibi dersler de müfredatta yer alabilirdi.",
+    "yil": 1000,
+    "anahtar_kelimeler": ["Medrese", "Eğitim", "Müfredat", "İslami İlimler", "Fıkıh", "Kelam", "Matematik"],
+    "etiketler": ["eğitim tarihi", "bilim tarihi", "islam tarihi"],
+    "kaynak": "Vikipedi: Medrese",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/Medrese"
+  },
+  {
+    "id": "mimari_sanat_035",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Mimari ve Sanat",
+    "kategori": {
+      "ana": "Devletlere Göre Mimari",
+      "alt": "İhşidiler"
+    },
+    "konu": "İhşidiler Dönemi Mimari Faaliyetleri",
+    "icerik": "İhşidiler döneminden günümüze çok az mimari eser kalmıştır. Kaynaklar, Muhammed bin Toğaç'ın Fustat'ta saraylar ve bahçeler yaptırdığından bahseder. Ayrıca bazı camilerde onarımlar yapıldığı bilinmektedir, ancak özgün büyük anıtsal yapılar konusunda bilgiler sınırlıdır.",
+    "yil": 950,
+    "anahtar_kelimeler": ["İhşidiler", "Mimari", "Fustat", "Saray", "Cami Onarımı"],
+    "etiketler": ["mimarlık tarihi", "mısır tarihi", "sınırlı bilgi"],
+    "kaynak": "Vikipedi: İhşîdîler",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/%C4%B0h%C5%9F%C3%AEd%C3%AEler"
+  },
+  {
+    "id": "mimari_sanat_036",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Mimari ve Sanat",
+    "kategori": {
+      "ana": "Sanat",
+      "alt": "Süsleme Sanatları"
+    },
+    "konu": "Bitkisel Süslemeler (Rumi, Palmet)",
+    "icerik": "Türk-İslam sanatında geometrik desenlerin yanı sıra stilize edilmiş bitkisel süslemeler de yaygın olarak kullanılmıştır. Özellikle Rumi (hayvan figürlerinden stilize edildiği de düşünülür) ve Palmet (hurma yaprağına benzer motif) denilen kıvrımlı dal ve yaprak motifleri, taş, alçı, çini ve ahşap süslemelerde sıkça yer alır.",
+    "yil": 1000,
+    "anahtar_kelimeler": ["Bitkisel Süsleme", "Rumi", "Palmet", "Stilizasyon", "Süsleme Sanatı", "Türk-İslam Sanatı"],
+    "etiketler": ["sanat tarihi", "süsleme sanatı", "motif"],
+    "kaynak": "Vikipedi: Rumi (motif)",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/Rumi_(motif)"
+  },
+  {
+    "id": "mimari_sanat_037",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Mimari ve Sanat",
+    "kategori": {
+      "ana": "Mimari Öğeler",
+      "alt": "Minare"
+    },
+    "konu": "Türk-İslam Minare Mimarisi",
+    "icerik": "İlk Türk-İslam devletlerinde minareler, camilerin önemli bir parçası haline gelmiştir. Karahanlı (Burana Kulesi), Gazneli (Gazne Kuleleri) ve Selçuklu (İsfahan Cuma Camii minareleri) dönemlerinde genellikle tuğladan yapılmış, silindirik veya çokgen gövdeli, şerefeli ve süslemeli anıtsal minareler inşa edilmiştir.",
+    "yil": 1000,
+    "anahtar_kelimeler": ["Minare", "Cami Mimarisi", "Karahanlılar", "Gazneliler", "Selçuklular", "Tuğla Mimari"],
+    "etiketler": ["mimarlık tarihi", "islam mimarisi", "mimari öğeler"],
+    "kaynak": "Vikipedi: Minare",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/Minare"
+  },
+  {
+    "id": "mimari_sanat_038",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Mimari ve Sanat",
+    "kategori": {
+      "ana": "Sanat",
+      "alt": "Malzeme"
+    },
+    "konu": "Mimari Malzeme: Tuğla ve Taş",
+    "icerik": "Orta Asya ve İran coğrafyasında kurulan Karahanlı, Gazneli ve Selçuklu devletlerinin mimarisinde ana yapı malzemesi genellikle tuğla olmuştur. Taş ise daha çok Mısır (Tolunoğulları, İhşidiler) ve daha sonra Anadolu mimarisinde yaygın olarak kullanılmıştır.",
+    "yil": 1000,
+    "anahtar_kelimeler": ["Mimari Malzeme", "Tuğla", "Taş", "Orta Asya Mimarisi", "İran Mimarisi", "Mısır Mimarisi"],
+    "etiketler": ["mimarlık tarihi", "malzeme", "coğrafi etki"],
+    "kaynak": "Genel Mimarlık Tarihi Bilgisi (Derlenmiş)",
+    "kaynak_turu": "Derleme",
+    "referans_link": null
+  },
+  {
+    "id": "mimari_sanat_039",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Mimari ve Sanat",
+    "kategori": {
+      "ana": "Mimari Yapı Türleri",
+      "alt": "Eğitim Yapıları"
+    },
+    "konu": "Medreselerin Yaygınlaşmasının Nedenleri (Selçuklular)",
+    "icerik": "Büyük Selçukluların Nizamiye Medreselerini yaygınlaştırmasının temel nedenleri arasında Sünni İslam anlayışını güçlendirmek, Şii-Batıni propagandasını engellemek, devlete sadık görevliler yetiştirmek ve bilimsel faaliyetleri desteklemek yer alır.",
+    "yil": 1070,
+    "anahtar_kelimeler": ["Medrese", "Nizamiye Medreseleri", "Büyük Selçuklular", "Sünnilik", "Batınilik", "Devlet Adamı Yetiştirme"],
+    "etiketler": ["eğitim tarihi", "siyasi tarih", "din tarihi", "kurumsal tarih"],
+    "kaynak": "Vikipedi: Nizamiye Medreseleri",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/Nizamiye_Medreseleri"
+  },
+  {
+    "id": "mimari_sanat_040",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Mimari ve Sanat",
+    "kategori": {
+      "ana": "Genel Değerlendirme",
+      "alt": "Sentez ve Miras"
+    },
+    "konu": "Türk-İslam Sanat ve Mimarisinin Oluşumu",
+    "icerik": "İlk Türk-İslam devletleri dönemi, Orta Asya Türk sanat gelenekleri ile İslam sanatının (özellikle İran ve Abbasi etkileri) kaynaştığı ve özgün bir Türk-İslam sanat ve mimari üslubunun temellerinin atıldığı bir süreçtir. Kervansaray, medrese, kümbet gibi yapı tipleri bu dönemde şekillenmiş veya yaygınlaşmıştır.",
+    "yil": 1000,
+    "anahtar_kelimeler": ["Türk-İslam Sanatı", "Türk-İslam Mimarisi", "Sentez", "Orta Asya Sanatı", "İslam Sanatı", "Mimari Miras"],
+    "etiketler": ["sanat tarihi", "mimarlık tarihi", "kültürel sentez", "medeniyet tarihi"],
+    "kaynak": "Genel Sanat Tarihi Yorumu (Derlenmiş)",
+    "kaynak_turu": "Derleme",
+    "referans_link": null
+  },
+  {
+    "id": "eko_sosyal_001",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Ekonomik ve Toplumsal Yaşam",
+    "kategori": {
+      "ana": "Ekonomik Faaliyetler",
+      "alt": "Tarım"
+    },
+    "konu": "Tarımın Önemi (Maveraünnehir ve Horasan)",
+    "icerik": "İlk Türk-İslam devletlerinin kurulduğu Maveraünnehir ve Horasan gibi bölgelerde yerleşik nüfusun temel geçim kaynağı tarımdı. Özellikle nehir kenarlarındaki verimli topraklarda buğday, arpa, pamuk, pirinç ve çeşitli meyveler yetiştiriliyordu. Sulama kanalları tarımsal üretim için hayati öneme sahipti.",
+    "yil": 900,
+    "anahtar_kelimeler": ["Tarım", "Maveraünnehir", "Horasan", "Sulama", "Yerleşik Yaşam", "Ekonomi"],
+    "etiketler": ["ekonomi tarihi", "tarım tarihi", "coğrafya"],
+    "kaynak": "Genel Tarih Bilgisi (Derlenmiş)",
+    "kaynak_turu": "Derleme",
+    "referans_link": null
+  },
+  {
+    "id": "eko_sosyal_002",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Ekonomik ve Toplumsal Yaşam",
+    "kategori": {
+      "ana": "Ekonomik Faaliyetler",
+      "alt": "Hayvancılık"
+    },
+    "konu": "Göçebe Ekonomisi ve Hayvancılık",
+    "icerik": "Devletlerin egemenliği altındaki geniş bozkırlarda yaşayan Türk boyları için hayvancılık temel geçim kaynağı olmaya devam etti. At ve koyun yetiştiriciliği hem beslenme, giyim gibi ihtiyaçlar hem de askeri güç ve ticaret açısından önemini koruyordu.",
+    "yil": 1000,
+    "anahtar_kelimeler": ["Hayvancılık", "Göçebe Ekonomi", "Bozkır", "At", "Koyun", "Ekonomi"],
+    "etiketler": ["ekonomi tarihi", "sosyal tarih", "hayvancılık"],
+    "kaynak": "Genel Tarih Bilgisi (Derlenmiş)",
+    "kaynak_turu": "Derleme",
+    "referans_link": null
+  },
+  {
+    "id": "eko_sosyal_003",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Ekonomik ve Toplumsal Yaşam",
+    "kategori": {
+      "ana": "Ticaret",
+      "alt": "Ticaret Yolları"
+    },
+    "konu": "İpek Yolu'nun Canlılığı",
+    "icerik": "Karahanlılar, Gazneliler ve Selçuklular gibi devletler İpek Yolu güzergahının önemli bir bölümüne hakim oldular. Bu durum, yolun güvenliğini artırarak Doğu ile Batı arasındaki kervan ticaretinin bu dönemde de canlı kalmasını sağladı ve devletlere önemli gelir getirdi.",
+    "yil": 1000,
+    "anahtar_kelimeler": ["İpek Yolu", "Ticaret", "Kervan Ticareti", "Karahanlılar", "Gazneliler", "Selçuklular", "Ekonomi"],
+    "etiketler": ["ticaret tarihi", "ekonomi tarihi", "ulaşım"],
+    "kaynak": "Vikipedi: İpek Yolu",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/%C4%B0pek_Yolu"
+  },
+  {
+    "id": "eko_sosyal_004",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Ekonomik ve Toplumsal Yaşam",
+    "kategori": {
+      "ana": "Şehir Hayatı",
+      "alt": "Önemli Şehirler"
+    },
+    "konu": "Önemli Kültür ve Ticaret Merkezleri",
+    "icerik": "Bu dönemde Buhara, Semerkant, Gazne, Rey, Nişabur, Merv, İsfahan gibi şehirler önemli siyasi, kültürel ve ticari merkezler haline geldi. Bu şehirler, medreseler, camiler, kütüphaneler, çarşılar ve kervansaraylarla donatıldı.",
+    "yil": 1050,
+    "anahtar_kelimeler": ["Şehir Hayatı", "Buhara", "Semerkant", "Gazne", "Rey", "Nişabur", "İsfahan", "Ticaret Merkezi"],
+    "etiketler": ["şehir tarihi", "kültür tarihi", "ticaret tarihi"],
+    "kaynak": "Genel Tarih Bilgisi (Derlenmiş)",
+    "kaynak_turu": "Derleme",
+    "referans_link": null
+  },
+  {
+    "id": "eko_sosyal_005",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Ekonomik ve Toplumsal Yaşam",
+    "kategori": {
+      "ana": "Toplumsal Yapı",
+      "alt": "Sosyal Sınıflar"
+    },
+    "konu": "Toplumsal Tabakalaşma",
+    "icerik": "Türk-İslam toplumlarında belirgin bir sosyal tabakalaşma vardı. En üstte hükümdar ve ailesi yer alırken, onları askeri yöneticiler (emirler), sivil bürokratlar (vezirler, katipler), ulema (din alimleri), tüccarlar, zanaatkarlar ve çiftçiler takip ediyordu. Göçebe topluluklar da ayrı bir sosyal grup oluşturuyordu.",
+    "yil": 1000,
+    "anahtar_kelimeler": ["Toplumsal Yapı", "Sosyal Tabakalaşma", "Hiyerarşi", "Yönetici Sınıf", "Ulema", "Tüccar", "Çiftçi"],
+    "etiketler": ["sosyoloji", "sosyal tarih", "toplum yapısı"],
+    "kaynak": "Genel Tarih Bilgisi (Derlenmiş)",
+    "kaynak_turu": "Derleme",
+    "referans_link": null
+  },
+  {
+    "id": "eko_sosyal_006",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Ekonomik ve Toplumsal Yaşam",
+    "kategori": {
+      "ana": "Toplumsal Yapı",
+      "alt": "Etnik Çeşitlilik"
+    },
+    "konu": "Gaznelilerde Etnik ve Kültürel Çeşitlilik",
+    "icerik": "Gazneliler Devleti, Türklerin yanı sıra Farslar, Hintliler, Araplar gibi farklı etnik ve kültürel grupları bünyesinde barındırıyordu. Orduda ve yönetimde Türkler ağırlıklı iken, bürokraside ve kültür hayatında Fars etkisi belirgindi.",
+    "yil": 1000,
+    "anahtar_kelimeler": ["Gazneliler", "Etnik Çeşitlilik", "Kültürel Çeşitlilik", "Türkler", "Farslar", "Hintliler"],
+    "etiketler": ["sosyal tarih", "kültür tarihi", "etnisite"],
+    "kaynak": "Vikipedi: Gazneliler",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/Gazneliler"
+  },
+  {
+    "id": "eko_sosyal_007",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Ekonomik ve Toplumsal Yaşam",
+    "kategori": {
+      "ana": "Toplumsal Yapı",
+      "alt": "Kölelik (Gulam)"
+    },
+    "konu": "Gulamların Toplumdaki Yeri",
+    "icerik": "Gulam sistemiyle yetiştirilen askerler, başlangıçta köle statüsünde olsalar da zamanla orduda ve yönetimde yükselerek özgür insanlar gibi haklara sahip olabiliyorlardı. Hükümdara yakınlıkları nedeniyle toplumda belirli bir saygınlıkları vardı.",
+    "yil": 950,
+    "anahtar_kelimeler": ["Gulam Sistemi", "Kölelik", "Sosyal Hareketlilik", "Askeri Sınıf", "Toplumsal Statü"],
+    "etiketler": ["sosyal tarih", "askeri tarih", "kölelik"],
+    "kaynak": "Vikipedi: Gulam",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/Gulam"
+  },
+  {
+    "id": "eko_sosyal_008",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Ekonomik ve Toplumsal Yaşam",
+    "kategori": {
+      "ana": "Ekonomik Faaliyetler",
+      "alt": "Zanaatlar"
+    },
+    "konu": "Şehirlerde Zanaatkarlık",
+    "icerik": "Buhara, Semerkant, İsfahan gibi büyük şehirlerde dokumacılık, dericilik, maden işçiliği, çömlekçilik, ahşap oymacılığı gibi çeşitli zanaat kolları gelişmişti. Zanaatkarlar genellikle kendi aralarında örgütlenerek (ahi teşkilatının öncüleri) üretim yaparlardı.",
+    "yil": 1000,
+    "anahtar_kelimeler": ["Zanaatlar", "Şehir Ekonomisi", "Dokumacılık", "Dericilik", "Maden İşçiliği", "Ahilik"],
+    "etiketler": ["ekonomi tarihi", "zanaat tarihi", "şehir hayatı"],
+    "kaynak": "Genel Tarih Bilgisi (Derlenmiş)",
+    "kaynak_turu": "Derleme",
+    "referans_link": null
+  },
+  {
+    "id": "eko_sosyal_009",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Ekonomik ve Toplumsal Yaşam",
+    "kategori": {
+      "ana": "Toplumsal Yapı",
+      "alt": "Kadının Yeri"
+    },
+    "konu": "Türk-İslam Toplumunda Kadının Yeri",
+    "icerik": "İslamiyet öncesi Türk toplumundaki kadının görece aktif rolü, İslamiyet sonrası dönemde de kısmen devam etmiştir. Özellikle hükümdar ailesindeki kadınlar (Terken Hatun gibi) siyasi hayatta etkili olabilmişlerdir. Ancak genel olarak İslami kurallar ve yerleşik kültürün etkisiyle kadının sosyal alandaki görünürlüğü azalmıştır.",
+    "yil": 1000,
+    "anahtar_kelimeler": ["Kadının Yeri", "Hatun", "Toplumsal Cinsiyet", "Siyasi Etki", "İslam Etkisi"],
+    "etiketler": ["sosyal tarih", "kadın tarihi", "toplumsal cinsiyet"],
+    "kaynak": "Genel Tarih Bilgisi (Derlenmiş)",
+    "kaynak_turu": "Derleme",
+    "referans_link": null
+  },
+  {
+    "id": "eko_sosyal_010",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Ekonomik ve Toplumsal Yaşam",
+    "kategori": {
+      "ana": "Ekonomik Faaliyetler",
+      "alt": "Vakıflar"
+    },
+    "konu": "Vakıfların Ekonomik ve Sosyal Rolü",
+    "icerik": "Vakıflar, cami, medrese, hastane (darüşşifa), kervansaray, köprü gibi sosyal ve dini kurumların finansmanını sağlayan önemli ekonomik kuruluşlardı. Zenginler veya devlet adamları tarafından kurulan vakıflar, toplumun sosyal ihtiyaçlarının karşılanmasına ve bayındırlık hizmetlerine katkıda bulunurdu.",
+    "yil": 1000,
+    "anahtar_kelimeler": ["Vakıf", "Ekonomik Rol", "Sosyal Rol", "Finansman", "Hayır Kurumu", "Bayındırlık"],
+    "etiketler": ["kurumsal tarih", "ekonomi tarihi", "sosyal tarih", "vakıf"],
+    "kaynak": "Vikipedi: Vakıf (İslam)",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/Vak%C4%B1f_(%C4%B0slam)"
+  },
+  {
+    "id": "eko_sosyal_011",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Ekonomik ve Toplumsal Yaşam",
+    "kategori": {
+      "ana": "Ticaret",
+      "alt": "Pazarlar ve Çarşılar"
+    },
+    "konu": "Şehirlerdeki Çarşılar ve Pazarlar",
+    "icerik": "Türk-İslam şehirlerinin ekonomik kalbi çarşılar ve pazarlardı. Bu mekanlarda yerel ürünlerin yanı sıra İpek Yolu gibi uzak yollardan gelen mallar da alınıp satılırdı. Farklı meslek gruplarına ait dükkanlar genellikle belirli çarşılarda (bedesten vb.) toplanırdı.",
+    "yil": 1000,
+    "anahtar_kelimeler": ["Çarşı", "Pazar", "Ticaret Merkezi", "Şehir Ekonomisi", "Bedesten"],
+    "etiketler": ["ticaret tarihi", "şehir tarihi", "ekonomi"],
+    "kaynak": "Genel Tarih Bilgisi (Derlenmiş)",
+    "kaynak_turu": "Derleme",
+    "referans_link": null
+  },
+  {
+    "id": "eko_sosyal_012",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Ekonomik ve Toplumsal Yaşam",
+    "kategori": {
+      "ana": "Toplumsal Yapı",
+      "alt": "Göçebe ve Yerleşik İlişkisi"
+    },
+    "konu": "Göçebeler ve Yerleşikler Arasındaki İlişki",
+    "icerik": "Türk-İslam devletlerinde göçebe (Türkmen/Oğuz) ve yerleşik (Tacik/Fars vb.) nüfus arasında karmaşık bir ilişki vardı. Ekonomik olarak birbirlerini tamamlarlar (hayvansal ürünlere karşılık tarım ürünleri ve zanaat malları), ancak zaman zaman siyasi ve sosyal gerilimler de yaşanabilirdi.",
+    "yil": 1050,
+    "anahtar_kelimeler": ["Göçebe", "Yerleşik", "Türkmen", "Tacik", "Ekonomik İlişki", "Sosyal Gerilim"],
+    "etiketler": ["sosyal tarih", "ekonomi tarihi", "etnik ilişkiler"],
+    "kaynak": "Genel Tarih Bilgisi (Derlenmiş)",
+    "kaynak_turu": "Derleme",
+    "referans_link": null
+  },
+  {
+    "id": "eko_sosyal_013",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Ekonomik ve Toplumsal Yaşam",
+    "kategori": {
+      "ana": "Ekonomik Faaliyetler",
+      "alt": "Vergiler"
+    },
+    "konu": "Vergi Türleri",
+    "icerik": "Türk-İslam devletlerinde şeriata uygun olarak Müslümanlardan alınan 'Öşür' (tarım ürünleri vergisi) ve 'Zekat', gayrimüslimlerden alınan 'Haraç' (toprak vergisi) ve 'Cizye' (baş vergisi) gibi vergiler vardı. Ayrıca gümrük vergileri ve örfi vergiler de toplanırdı.",
+    "yil": 900,
+    "anahtar_kelimeler": ["Vergi", "Öşür", "Zekat", "Haraç", "Cizye", "Şer'i Vergi", "Örfi Vergi"],
+    "etiketler": ["ekonomi tarihi", "devlet maliyesi", "vergi sistemi", "islam hukuku"],
+    "kaynak": "Genel Tarih Bilgisi (Derlenmiş)",
+    "kaynak_turu": "Derleme",
+    "referans_link": null
+  },
+  {
+    "id": "eko_sosyal_014",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Ekonomik ve Toplumsal Yaşam",
+    "kategori": {
+      "ana": "Şehir Hayatı",
+      "alt": "Sosyal Kurumlar"
+    },
+    "konu": "Şehirlerdeki Sosyal Kurumlar",
+    "icerik": "Büyük şehirlerde camiler ve medreselerin yanı sıra, hamamlar, darüşşifalar (hastaneler), imarethaneler (aşevleri), kütüphaneler gibi çeşitli sosyal kurumlar bulunurdu. Bu kurumlar genellikle vakıflar tarafından desteklenir ve halkın sosyal ihtiyaçlarını karşılardı.",
+    "yil": 1050,
+    "anahtar_kelimeler": ["Sosyal Kurumlar", "Şehir Hayatı", "Hamam", "Darüşşifa", "İmarethane", "Kütüphane", "Vakıf"],
+    "etiketler": ["sosyal tarih", "şehir tarihi", "kurumsal tarih"],
+    "kaynak": "Genel Tarih Bilgisi (Derlenmiş)",
+    "kaynak_turu": "Derleme",
+    "referans_link": null
+  },
+  {
+    "id": "eko_sosyal_015",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Ekonomik ve Toplumsal Yaşam",
+    "kategori": {
+      "ana": "Toplumsal Yapı",
+      "alt": "Ulema Sınıfı"
+    },
+    "konu": "Ulemanın Toplumdaki Yeri",
+    "icerik": "Ulema (din alimleri), Türk-İslam toplumlarında önemli bir nüfuza sahipti. Medreselerde eğitim verir, kadılık gibi görevler üstlenir, halka dini konularda rehberlik eder ve zaman zaman siyasi olaylarda da etkili olabilirlerdi. Devlet tarafından desteklenirlerdi.",
+    "yil": 1000,
+    "anahtar_kelimeler": ["Ulema", "Din Alimleri", "Toplumsal Nüfuz", "Medrese", "Kadı", "Siyasi Etki"],
+    "etiketler": ["sosyal tarih", "din tarihi", "eğitim tarihi", "siyasi tarih"],
+    "kaynak": "Genel İslam Tarihi Bilgisi (Derlenmiş)",
+    "kaynak_turu": "Derleme",
+    "referans_link": null
+  },
+  {
+    "id": "eko_sosyal_016",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Ekonomik ve Toplumsal Yaşam",
+    "kategori": {
+      "ana": "Ekonomik Faaliyetler",
+      "alt": "Para ve Ölçü Birimleri"
+    },
+    "konu": "Para Birimleri ve Standardizasyon",
+    "icerik": "Türk-İslam devletleri kendi adlarına altın (dinar) ve gümüş (dirhem) sikkeler bastırmışlardır. Bu sikkeler hem devletin egemenlik sembolü hem de ticarette kullanılan temel para birimleriydi. Ağırlık ve ayar konusunda belirli standartlar oluşturulmaya çalışılmıştır.",
+    "yil": 950,
+    "anahtar_kelimeler": ["Para", "Sikke", "Dinar", "Dirhem", "Standardizasyon", "Nümismatik", "Ekonomi"],
+    "etiketler": ["ekonomi tarihi", "nümismatik", "devlet"],
+    "kaynak": "Genel Tarih Bilgisi (Derlenmiş)",
+    "kaynak_turu": "Derleme",
+    "referans_link": null
+  },
+  {
+    "id": "eko_sosyal_017",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Ekonomik ve Toplumsal Yaşam",
+    "kategori": {
+      "ana": "Toplumsal Yapı",
+      "alt": "Gayrimüslimler (Zımmiler)"
+    },
+    "konu": "Gayrimüslimlerin Hukuki Statüsü",
+    "icerik": "Türk-İslam devletlerinde yaşayan Hristiyan, Yahudi gibi gayrimüslimler (zımmiler), cizye vergisi ödemeleri karşılığında can ve mal güvenlikleri devletin koruması altındaydı. Kendi inançlarını serbestçe yaşayabilirler, kendi mahkemelerinde yargılanabilirlerdi.",
+    "yil": 1000,
+    "anahtar_kelimeler": ["Gayrimüslimler", "Zımmiler", "Hukuki Statü", "Cizye", "Din Özgürlüğü", "İslam Hukuku"],
+    "etiketler": ["sosyal tarih", "hukuk tarihi", "dinler tarihi"],
+    "kaynak": "Genel İslam Hukuku Bilgisi (Derlenmiş)",
+    "kaynak_turu": "Derleme",
+    "referans_link": null
+  },
+  {
+    "id": "eko_sosyal_018",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Ekonomik ve Toplumsal Yaşam",
+    "kategori": {
+      "ana": "Ekonomik Faaliyetler",
+      "alt": "Tarım"
+    },
+    "konu": "Mısır'da Tarım (Tolunoğulları ve İhşidiler)",
+    "icerik": "Tolunoğulları ve İhşidiler dönemlerinde Mısır ekonomisinin temeli Nil Nehri'ne bağlı tarıma dayanıyordu. Devlet, sulama sistemlerini geliştirerek ve vergileri düzenleyerek tarımsal üretimi artırmaya çalışmış, bu da ekonomik refaha katkıda bulunmuştur.",
+    "yil": 900,
+    "anahtar_kelimeler": ["Mısır", "Tarım", "Nil Nehri", "Sulama", "Tolunoğulları", "İhşidiler", "Ekonomi"],
+    "etiketler": ["ekonomi tarihi", "tarım tarihi", "mısır tarihi"],
+    "kaynak": "Vikipedi: Tolunoğulları",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/Toluno%C4%9Fullar%C4%B1"
+  },
+  {
+    "id": "eko_sosyal_019",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Ekonomik ve Toplumsal Yaşam",
+    "kategori": {
+      "ana": "Ticaret",
+      "alt": "Deniz Ticareti (Mısır)"
+    },
+    "konu": "Mısır'da Deniz Ticareti",
+    "icerik": "Mısır'ın Akdeniz ve Kızıldeniz'e kıyısı olması, Tolunoğulları ve İhşidiler dönemlerinde deniz ticaretinin de önemini korumasını sağlamıştır. Özellikle Akdeniz üzerinden Bizans ve Avrupa ile, Kızıldeniz üzerinden ise Hindistan ve Doğu Afrika ile ticari ilişkiler sürdürülmüştür.",
+    "yil": 900,
+    "anahtar_kelimeler": ["Deniz Ticareti", "Mısır", "Akdeniz", "Kızıldeniz", "Tolunoğulları", "İhşidiler"],
+    "etiketler": ["ticaret tarihi", "ekonomi tarihi", "mısır tarihi"],
+    "kaynak": "Genel Tarih Bilgisi (Derlenmiş)",
+    "kaynak_turu": "Derleme",
+    "referans_link": null
+  },
+  {
+    "id": "eko_sosyal_020",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Ekonomik ve Toplumsal Yaşam",
+    "kategori": {
+      "ana": "Toplumsal Yapı",
+      "alt": "Aile Hayatı"
+    },
+    "konu": "Aile ve Evlilik",
+    "icerik": "Türk-İslam toplumlarında aile, toplumun temel birimiydi. Evlilikler genellikle ailelerin onayıyla yapılır, İslami kurallara (nikah, mehir vb.) uyulurdu. Ataerkil yapı egemen olmakla birlikte, aile içinde kadının da söz hakkı bulunabilirdi.",
+    "yil": 1000,
+    "anahtar_kelimeler": ["Aile", "Evlilik", "Nikah", "Mehir", "Ataerkil Yapı", "Toplumsal Yapı"],
+    "etiketler": ["sosyal tarih", "aile tarihi", "islam hukuku"],
+    "kaynak": "Genel Sosyal Tarih Bilgisi (Derlenmiş)",
+    "kaynak_turu": "Derleme",
+    "referans_link": null
+  },
+  {
+    "id": "eko_sosyal_021",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Ekonomik ve Toplumsal Yaşam",
+    "kategori": {
+      "ana": "Ekonomik Faaliyetler",
+      "alt": "Hayvancılık"
+    },
+    "konu": "Hayvan Ürünlerinin Değeri",
+    "icerik": "Hayvanlardan elde edilen süt, yoğurt, peynir, tereyağı gibi ürünler beslenmede; yün ve deri ise giyim, çadır, ayakkabı gibi ihtiyaçların karşılanmasında temel malzemelerdi. Bu ürünler aynı zamanda önemli ticaret mallarıydı.",
+    "yil": 0,
+    "anahtar_kelimeler": ["Hayvansal Ürünler", "Süt Ürünleri", "Yün", "Deri", "Beslenme", "Giyim", "Ticaret"],
+    "etiketler": ["ekonomi tarihi", "sosyal tarih", "zanaat"],
+    "kaynak": "Genel Kültür Bilgisi (Derlenmiş)",
+    "kaynak_turu": "Derleme",
+    "referans_link": null
+  },
+  {
+    "id": "eko_sosyal_022",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Ekonomik ve Toplumsal Yaşam",
+    "kategori": {
+      "ana": "Şehir Hayatı",
+      "alt": "Şehir Yönetimi"
+    },
+    "konu": "Şehir Yönetimi ve Görevliler",
+    "icerik": "Büyük şehirlerin yönetimi genellikle merkezden atanan valiler (Amil, Şıhne) tarafından yürütülürdü. Şehirlerde asayişi sağlamakla görevli 'Subaşı', belediye işleri ve çarşı denetiminden sorumlu 'Muhtesip' gibi görevliler de bulunurdu.",
+    "yil": 1000,
+    "anahtar_kelimeler": ["Şehir Yönetimi", "Vali", "Amil", "Şıhne", "Subaşı", "Muhtesip"],
+    "etiketler": ["yönetim tarihi", "şehir tarihi", "kurumsal tarih"],
+    "kaynak": "Genel Tarih Bilgisi (Derlenmiş)",
+    "kaynak_turu": "Derleme",
+    "referans_link": null
+  },
+  {
+    "id": "eko_sosyal_023",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Ekonomik ve Toplumsal Yaşam",
+    "kategori": {
+      "ana": "Toplumsal Yapı",
+      "alt": "Sosyal Gruplar"
+    },
+    "konu": "Fütüvvet ve Ahilik Teşkilatının Kökenleri",
+    "icerik": "İslam dünyasında özellikle şehirlerdeki esnaf ve zanaatkarlar arasında yardımlaşma, dayanışma ve mesleki ahlakı esas alan Fütüvvet (gençlik, yiğitlik) anlayışı yaygındı. Bu anlayış, daha sonra Anadolu'da gelişecek olan Ahilik teşkilatının da temellerini atmıştır.",
+    "yil": 1100,
+    "anahtar_kelimeler": ["Fütüvvet", "Ahilik", "Esnaf Teşkilatı", "Yardımlaşma", "Mesleki Ahlak", "Zanaatkarlar"],
+    "etiketler": ["sosyal tarih", "kurumsal tarih", "ekonomi tarihi", "ahlak"],
+    "kaynak": "Vikipedi: Fütüvvet",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/F%C3%BCt%C3%BCvvet"
+  },
+  {
+    "id": "eko_sosyal_024",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Ekonomik ve Toplumsal Yaşam",
+    "kategori": {
+      "ana": "Ekonomik Faaliyetler",
+      "alt": "Madencilik"
+    },
+    "konu": "Madencilik Faaliyetleri",
+    "icerik": "Türk-İslam devletlerinin hüküm sürdüğü coğrafyalarda demir, bakır, gümüş, altın gibi madenler çıkarılıyor ve işleniyordu. Özellikle demir, silah yapımı ve alet üretimi için hayati öneme sahipti. Gümüş ve altın ise sikke basımında kullanılıyordu.",
+    "yil": 1000,
+    "anahtar_kelimeler": ["Madencilik", "Demir", "Bakır", "Gümüş", "Altın", "Ekonomi"],
+    "etiketler": ["ekonomi tarihi", "madencilik tarihi", "zanaat"],
+    "kaynak": "Genel Tarih Bilgisi (Derlenmiş)",
+    "kaynak_turu": "Derleme",
+    "referans_link": null
+  },
+  {
+    "id": "eko_sosyal_025",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Ekonomik ve Toplumsal Yaşam",
+    "kategori": {
+      "ana": "Toplumsal Yapı",
+      "alt": "Eğitim"
+    },
+    "konu": "Eğitimin Yaygınlaşması (Medreseler)",
+    "icerik": "Özellikle Selçuklular döneminde medreselerin yaygınlaşması, eğitimin daha sistematik hale gelmesini ve daha geniş kitlelere ulaşmasını sağladı. Bu durum, okuryazarlığın artmasına ve ilim hayatının canlanmasına katkıda bulundu.",
+    "yil": 1100,
+    "anahtar_kelimeler": ["Eğitim", "Medrese", "Okuryazarlık", "İlim Hayatı", "Selçuklular"],
+    "etiketler": ["eğitim tarihi", "sosyal tarih", "kültür tarihi"],
+    "kaynak": "Vikipedi: Nizamiye Medreseleri",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/Nizamiye_Medreseleri"
+  },
+  {
+    "id": "eko_sosyal_026",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Ekonomik ve Toplumsal Yaşam",
+    "kategori": {
+      "ana": "Ekonomik Faaliyetler",
+      "alt": "Ticaret"
+    },
+    "konu": "Uluslararası Ticaretin Önemi",
+    "icerik": "İlk Türk-İslam devletleri, sadece bölgesel değil, aynı zamanda Çin, Hindistan, Bizans, Mısır ve Avrupa ile yapılan uluslararası ticaretten de önemli gelirler elde etmişlerdir. Bu ticaret, devletlerin zenginleşmesinde ve farklı kültürlerle etkileşiminde kilit rol oynamıştır.",
+    "yil": 1000,
+    "anahtar_kelimeler": ["Uluslararası Ticaret", "Ekonomi", "Çin", "Hindistan", "Bizans", "Avrupa", "Kültürel Etkileşim"],
+    "etiketler": ["ticaret tarihi", "ekonomi tarihi", "uluslararası ilişkiler"],
+    "kaynak": "Genel Tarih Bilgisi (Derlenmiş)",
+    "kaynak_turu": "Derleme",
+    "referans_link": null
+  },
+  {
+    "id": "eko_sosyal_027",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Ekonomik ve Toplumsal Yaşam",
+    "kategori": {
+      "ana": "Toplumsal Yapı",
+      "alt": "Sağlık Hizmetleri"
+    },
+    "konu": "Darüşşifaların İşleyişi",
+    "icerik": "Darüşşifalar (hastaneler), sadece hastaların tedavi edildiği yerler değil, aynı zamanda tıp eğitiminin verildiği ve ilaçların (akrabadin) hazırlandığı merkezlerdi. Genellikle vakıflar tarafından finanse edilir ve halka ücretsiz hizmet verirlerdi.",
+    "yil": 1100,
+    "anahtar_kelimeler": ["Darüşşifa", "Hastane", "Sağlık Hizmetleri", "Tıp Eğitimi", "Vakıf", "Ücretsiz Hizmet"],
+    "etiketler": ["tıp tarihi", "kurumsal tarih", "sosyal tarih", "sağlık"],
+    "kaynak": "Vikipedi: Darüşşifa",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/Dar%C3%BC%C5%9F%C5%9Fifa"
+  },
+  {
+    "id": "eko_sosyal_028",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Ekonomik ve Toplumsal Yaşam",
+    "kategori": {
+      "ana": "Ekonomik Faaliyetler",
+      "alt": "Sulama Sistemleri"
+    },
+    "konu": "Sulama Kanallarının Önemi",
+    "icerik": "Özellikle Maveraünnehir gibi kurak ve yarı kurak bölgelerde tarımsal üretim için sulama kanalları hayati öneme sahipti. Devletler, mevcut kanalların bakımını yapar ve yeni kanallar inşa ederek tarım alanlarını genişletmeye ve üretimi artırmaya çalışırlardı.",
+    "yil": 900,
+    "anahtar_kelimeler": ["Sulama Kanalları", "Tarım", "Maveraünnehir", "Kuraklık", "Üretim Artışı"],
+    "etiketler": ["tarım tarihi", "teknoloji tarihi", "su yönetimi"],
+    "kaynak": "Genel Tarih Bilgisi (Derlenmiş)",
+    "kaynak_turu": "Derleme",
+    "referans_link": null
+  },
+  {
+    "id": "eko_sosyal_029",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Ekonomik ve Toplumsal Yaşam",
+    "kategori": {
+      "ana": "Şehir Hayatı",
+      "alt": "Nüfus Yapısı"
+    },
+    "konu": "Şehirlerin Kozmopolit Yapısı",
+    "icerik": "Önemli ticaret yolları üzerinde bulunan Buhara, Semerkant, İsfahan gibi büyük şehirler, farklı etnik (Türk, Fars, Arap, Soğd vb.) ve dini (Müslüman, Hristiyan, Yahudi, Zerdüşt vb.) grupların bir arada yaşadığı kozmopolit merkezlerdi. Bu durum, kültürel çeşitliliği ve etkileşimi artırmıştır.",
+    "yil": 1050,
+    "anahtar_kelimeler": ["Şehir Hayatı", "Kozmopolit Yapı", "Etnik Çeşitlilik", "Dini Çeşitlilik", "Kültürel Etkileşim"],
+    "etiketler": ["şehir tarihi", "sosyal tarih", "kültür tarihi"],
+    "kaynak": "Genel Tarih Bilgisi (Derlenmiş)",
+    "kaynak_turu": "Derleme",
+    "referans_link": null
+  },
+  {
+    "id": "eko_sosyal_030",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Ekonomik ve Toplumsal Yaşam",
+    "kategori": {
+      "ana": "Toplumsal Yapı",
+      "alt": "Sosyal Hareketlilik"
+    },
+    "konu": "Sosyal Hareketlilik İmkânları",
+    "icerik": "Türk-İslam toplumlarında sosyal tabakalar arasında katı bir geçişsizlik olmamakla birlikte, sosyal hareketlilik sınırlıydı. Askeri alanda (özellikle Gulam sistemi) veya ilim yolunda (medrese eğitimi) başarı gösteren kişiler, sosyal statülerini yükseltme imkanına sahip olabiliyorlardı.",
+    "yil": 1000,
+    "anahtar_kelimeler": ["Sosyal Hareketlilik", "Toplumsal Yapı", "Gulam Sistemi", "Medrese", "Statü Yükselmesi"],
+    "etiketler": ["sosyoloji", "sosyal tarih", "eğitim"],
+    "kaynak": "Genel Sosyal Tarih Bilgisi (Derlenmiş)",
+    "kaynak_turu": "Derleme",
+    "referans_link": null
+  },
+  {
+    "id": "eko_sosyal_031",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Ekonomik ve Toplumsal Yaşam",
+    "kategori": {
+      "ana": "Ekonomik Faaliyetler",
+      "alt": "Ticaret"
+    },
+    "konu": "Kervanların Organizasyonu",
+    "icerik": "Uzun mesafelere yapılan ticaret, genellikle 'kervan' adı verilen organize gruplar halinde yapılırdı. Kervanlar, tüccarların, malların, hayvanların ve koruma görevlilerinin bir araya geldiği, belirli kurallara göre hareket eden topluluklardı. Kervanbaşı tarafından yönetilirlerdi.",
+    "yil": 0,
+    "anahtar_kelimeler": ["Kervan", "Ticaret Organizasyonu", "Kervanbaşı", "Ulaşım", "Güvenlik"],
+    "etiketler": ["ticaret tarihi", "ulaşım tarihi", "organizasyon"],
+    "kaynak": "Vikipedi: Kervan",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/Kervan"
+  },
+  {
+    "id": "eko_sosyal_032",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Ekonomik ve Toplumsal Yaşam",
+    "kategori": {
+      "ana": "Toplumsal Yapı",
+      "alt": "Günlük Yaşam"
+    },
+    "konu": "Günlük Yaşam: Giyim Kuşam",
+    "icerik": "Giyim kuşam, sosyal statüye, etnik kökene ve iklim koşullarına göre değişiklik gösterirdi. Yönetici ve askeri sınıf genellikle daha gösterişli giysiler giyerken, halk daha sade kıyafetler tercih ederdi. Pamuklu, yünlü ve ipekli kumaşlar kullanılırdı.",
+    "yil": 1000,
+    "anahtar_kelimeler": ["Giyim Kuşam", "Günlük Yaşam", "Sosyal Statü", "Kumaş", "Pamuk", "Yün", "İpek"],
+    "etiketler": ["sosyal tarih", "kültür tarihi", "giyim"],
+    "kaynak": "Genel Kültür Tarihi Bilgisi (Derlenmiş)",
+    "kaynak_turu": "Derleme",
+    "referans_link": null
+  },
+  {
+    "id": "eko_sosyal_033",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Ekonomik ve Toplumsal Yaşam",
+    "kategori": {
+      "ana": "Ekonomik Faaliyetler",
+      "alt": "Tarım"
+    },
+    "konu": "İkta Sisteminin Tarıma Etkisi",
+    "icerik": "İkta sistemi, toprakların işlenmesini ve tarımsal üretimin sürekliliğini teşvik etmiştir. İkta sahipleri, kendi bölgelerindeki tarımsal faaliyetlerin düzenli yürümesinden sorumluydular, bu da üretimin artmasına katkı sağlamıştır.",
+    "yil": 1000,
+    "anahtar_kelimeler": ["İkta Sistemi", "Tarım", "Üretim Artışı", "Toprak İşleme", "Ekonomik Etki"],
+    "etiketler": ["ekonomi tarihi", "tarım tarihi", "toprak sistemi"],
+    "kaynak": "Vikipedi: İkta",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/%C4%B0kta"
+  },
+  {
+    "id": "eko_sosyal_034",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Ekonomik ve Toplumsal Yaşam",
+    "kategori": {
+      "ana": "Şehir Hayatı",
+      "alt": "Festivaller ve Eğlenceler"
+    },
+    "konu": "Festivaller ve Sosyal Eğlenceler",
+    "icerik": "Türk-İslam toplumlarında dini bayramlar (Ramazan, Kurban), Nevruz gibi geleneksel kutlamalar ve hükümdarların tahta çıkışı, zaferler gibi olaylar vesilesiyle şenlikler ve festivaller düzenlenirdi. Bu etkinliklerde çeşitli oyunlar, yarışmalar ve ziyafetler yer alırdı.",
+    "yil": 1000,
+    "anahtar_kelimeler": ["Festivaller", "Eğlence", "Dini Bayramlar", "Nevruz", "Şenlik", "Sosyal Hayat"],
+    "etiketler": ["sosyal tarih", "kültür tarihi", "gelenek", "bayram"],
+    "kaynak": "Genel Kültür Tarihi Bilgisi (Derlenmiş)",
+    "kaynak_turu": "Derleme",
+    "referans_link": null
+  },
+  {
+    "id": "eko_sosyal_035",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Ekonomik ve Toplumsal Yaşam",
+    "kategori": {
+      "ana": "Toplumsal Yapı",
+      "alt": "Hukuk ve Adalet"
+    },
+    "konu": "Adaletin Sağlanması ve Önemi",
+    "icerik": "Türk-İslam devlet anlayışında adaletin sağlanması büyük önem taşırdı. Hükümdarların adil olması beklenir, haksızlıkların önlenmesi için kadılık kurumu ve Divan-ı Mezalim gibi mekanizmalar işletilirdi. Adalet, devletin devamlılığının temeli olarak görülürdü.",
+    "yil": 1000,
+    "anahtar_kelimeler": ["Adalet", "Hukuk", "Kadı", "Divan-ı Mezalim", "Devlet Anlayışı"],
+    "etiketler": ["hukuk tarihi", "devlet felsefesi", "adalet"],
+    "kaynak": "Vikipedi: Divan-ı Mezalim",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/Divan-%C4%B1_Mezalim"
+  },
+  {
+    "id": "eko_sosyal_036",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Ekonomik ve Toplumsal Yaşam",
+    "kategori": {
+      "ana": "Ekonomik Faaliyetler",
+      "alt": "Hayvancılık"
+    },
+    "konu": "Atın Ekonomik ve Sosyal Değeri",
+    "icerik": "At, Türk-İslam toplumlarında sadece askeri bir güç unsuru veya binek hayvanı değil, aynı zamanda önemli bir ekonomik değer ve sosyal statü göstergesiydi. İyi cins atlara sahip olmak, zenginlik ve prestij anlamına gelirdi.",
+    "yil": 0,
+    "anahtar_kelimeler": ["At", "Ekonomik Değer", "Sosyal Statü", "Hayvancılık", "Prestij"],
+    "etiketler": ["ekonomi tarihi", "sosyal tarih", "kültür"],
+    "kaynak": "Genel Kültür Tarihi Bilgisi (Derlenmiş)",
+    "kaynak_turu": "Derleme",
+    "referans_link": null
+  },
+  {
+    "id": "eko_sosyal_037",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Ekonomik ve Toplumsal Yaşam",
+    "kategori": {
+      "ana": "Şehir Hayatı",
+      "alt": "Mahalle Yapısı"
+    },
+    "konu": "Şehirlerde Mahalle Teşkilatı",
+    "icerik": "Türk-İslam şehirleri genellikle mahallelere ayrılmıştı. Mahalleler, sakinlerinin etnik kökeni, mesleği veya dini inancına göre şekillenebilirdi. Her mahallenin kendi camisi, mescidi ve bazen de küçük çarşısı olabilirdi. Mahalle yönetimi imam veya kethüda gibi kişilerce sağlanırdı.",
+    "yil": 1000,
+    "anahtar_kelimeler": ["Mahalle", "Şehir Yapısı", "Etnik Gruplar", "Meslek Grupları", "Şehir Yönetimi"],
+    "etiketler": ["şehir tarihi", "sosyal tarih", "yönetim"],
+    "kaynak": "Genel Şehir Tarihi Bilgisi (Derlenmiş)",
+    "kaynak_turu": "Derleme",
+    "referans_link": null
+  },
+  {
+    "id": "eko_sosyal_038",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Ekonomik ve Toplumsal Yaşam",
+    "kategori": {
+      "ana": "Toplumsal Yapı",
+      "alt": "Dil"
+    },
+    "konu": "Çok Dillilik",
+    "icerik": "İlk Türk-İslam devletlerinin hüküm sürdüğü coğrafyalarda genellikle çok dilli bir toplumsal yapı mevcuttu. Türkçe (farklı lehçelerde), Farsça, Arapça ve yerel diller (Soğdca, Hint dilleri vb.) bir arada konuşuluyordu. Bu durum, kültürel etkileşimi zenginleştirmiştir.",
+    "yil": 1000,
+    "anahtar_kelimeler": ["Çok Dillilik", "Türkçe", "Farsça", "Arapça", "Dil Etkileşimi", "Toplumsal Yapı"],
+    "etiketler": ["dil tarihi", "sosyal tarih", "kültürel etkileşim"],
+    "kaynak": "Genel Dil Tarihi Bilgisi (Derlenmiş)",
+    "kaynak_turu": "Derleme",
+    "referans_link": null
+  },
+  {
+    "id": "eko_sosyal_039",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Ekonomik ve Toplumsal Yaşam",
+    "kategori": {
+      "ana": "Ekonomik Faaliyetler",
+      "alt": "Ticaret"
+    },
+    "konu": "Ticarette Kullanılan Ödeme Yöntemleri",
+    "icerik": "Nakit (altın dinar, gümüş dirhem) ve takasın yanı sıra, ticarette çek ve poliçe benzeri ödeme belgelerinin de kullanıldığı bilinmektedir. Özellikle uzun mesafeli ticarette büyük miktarda nakit taşıma riskini azaltmak için bu tür yöntemlere başvurulmuştur.",
+    "yil": 1000,
+    "anahtar_kelimeler": ["Ticaret", "Ödeme Yöntemleri", "Nakit", "Takas", "Çek", "Poliçe"],
+    "etiketler": ["ekonomi tarihi", "ticaret tarihi", "finans tarihi"],
+    "kaynak": "Genel Ekonomi Tarihi Bilgisi (Derlenmiş)",
+    "kaynak_turu": "Derleme",
+    "referans_link": null
+  },
+  {
+    "id": "eko_sosyal_040",
+    "donem": "İlk Türk-İslam Devletleri",
+    "alt_donem": "Ekonomik ve Toplumsal Yaşam",
+    "kategori": {
+      "ana": "Toplumsal Yapı",
+      "alt": "Sosyal Dayanışma"
+    },
+    "konu": "Sosyal Yardımlaşma ve Dayanışma",
+    "icerik": "Türk-İslam toplumlarında zekat, sadaka gibi İslami yükümlülükler ve vakıflar aracılığıyla sosyal yardımlaşma ve dayanışma önemli bir yer tutardı. İmarethanelerde yoksullara yemek dağıtılır, darüşşifalarda ücretsiz tedavi sağlanır, medreselerde öğrencilerin ihtiyaçları karşılanırdı.",
+    "yil": 1000,
+    "anahtar_kelimeler": ["Sosyal Yardımlaşma", "Dayanışma", "Zekat", "Sadaka", "Vakıf", "İmarethane", "Darüşşifa"],
+    "etiketler": ["sosyal tarih", "islam tarihi", "hayırseverlik"],
+    "kaynak": "Vikipedi: Vakıf (İslam)",
+    "kaynak_turu": "Wiki",
+    "referans_link": "https://tr.wikipedia.org/wiki/Vak%C4%B1f_(%C4%B0slam)"
+  }
+]

@@ -1,0 +1,25 @@
+# Temel Kütüphaneler
+python-dotenv==1.0.0
+numpy # Python 3.12 uyumluluğu için versiyon kilidi kaldırıldı
+pandas # Python 3.12 uyumluluğu için versiyon kilidi kaldırıldı
+
+# LangChain ve RAG
+langchain==0.1.0
+langchain-google-genai==0.0.5
+
+# Google Gemini
+google-generativeai==0.3.1
+
+# Embedding ve Vector Database
+sentence-transformers
+faiss-cpu # Python 3.12 uyumluluğu için versiyon kilidi kaldırıldı
+
+# Web Framework
+streamlit==1.29.0
+
+# Doküman İşleme
+# Veri seti formatı json olduğu için json kütüphanesi dahili olarak kullanılabilir
+
+# Yardımcı Kütüphaneler
+tqdm==4.66.1
+requests==2.31.0
