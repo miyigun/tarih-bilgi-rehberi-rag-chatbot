@@ -398,7 +398,7 @@ def main():
         
         with st.expander("📜 İslamiyet Öncesi"):
             questions_1 = [
-                "Göktürk Kağanlığı'nın kuruluşu hakkında bilgi ver",
+                "Göktürk Kağanlığı'nın kuruluşu hakkında bilgi verir misin?",
                 "Orhun Yazıtları'nın Türk tarihi için önemi nedir?",
                 "Uygur Kağanlığı'nın yerleşik hayata geçişi nasıl oldu?"
             ]
@@ -411,7 +411,7 @@ def main():
             questions_2 = [
                 "Karahanlı Devleti'nin İslamiyet'i kabulü nasıl oldu?",
                 "Gazneli Mahmud'un Hindistan seferlerinin amaçları nelerdi?",
-                "Büyük Selçuklu Devleti'nin en parlak dönemi ne zamandı?"
+                "Gök Tanrı inancı ve İslamiyet arasındaki benzerlikler nelerdir?"
             ]
             for q in questions_2:
                 if st.button(q, key=f"q2_{q[:20]}", use_container_width=True):
@@ -420,9 +420,9 @@ def main():
 
         with st.expander("🏰 Anadolu Dönemi"):
             questions_3 = [
-                "Anadolu Selçuklu Devleti'nin başkenti neresiydi?",
+                "Malazgirt Savaşı hakkında bilgi verir misin?",
                 "Kösedağ Savaşı'nın Anadolu'daki siyasi etkileri nelerdir?",
-                "Karamanoğulları Beyliği'nin Türkçeye verdiği önem nedir?"
+                "Moğol İstilası'nın Türkleşmeye etkisi nedir?"
             ]
             for q in questions_3:
                 if st.button(q, key=f"q3_{q[:20]}", use_container_width=True):
@@ -454,7 +454,7 @@ def main():
         with st.expander("🛡️ Cumhuriyet Dönemi"):
             questions_6 = [
                 "Cumhuriyet'in ilanı ne zaman ve nasıl gerçekleşti?",
-                "Harf İnkılabı'nın amacı ve sonuçları nedir?",
+                "Halifeliğin kaldırılması süreci hakkında bilgi verir misin?",
                 "Çok partili hayata geçiş denemeleri nelerdir?"
             ]
             for q in questions_6:
