@@ -225,11 +225,11 @@ def main():
     
     # Test soruları
     test_questions = [
-        "Osmanlı Devleti ne zaman ve kim tarafından kuruldu?",
-        "Milli Mücadele'deki önemli kongreler nelerdir?",
-        "Göktürklerin Türk tarihindeki önemi nedir?",
-        "Atatürk'ün ilkeleri nelerdir?",
-        "Malazgirt Savaşı'ndan sonra kurulan beylikler hangileridir?"           
+        "Göktürk Kağanlığı'nın kuruluşu hakkında bilgi ver",
+        "Karahanlı Devleti'nin İslamiyet'i kabulü nasıl oldu?",
+        "Anadolu Selçuklu Devleti'nin başkenti neresiydi?",
+        "İstanbul'un Fethi'nin dünya tarihi açısından sonuçları nelerdir?",
+        "Amasya Genelgesi'nin Millî Mücadele'deki yeri nedir?"           
     ]
     
     for question in test_questions:
