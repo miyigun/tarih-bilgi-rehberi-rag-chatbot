@@ -127,13 +127,19 @@ Projenin veri seti **tamamen açık kaynaklardan** oluşturulmuştur ve telif ih
 
 ---
 
-## 📈 Elde Edilen Sonuçlar
+## 📈 Elde Edilen Sonuçlar (Tahmini ve Gözlemlenen)
+
+Bu bölümde, projenin geliştirme ve test aşamalarındaki gözlemlere dayanan tahmini performans metrikleri sunulmaktadır. Kesin değerler için daha kapsamlı değerlendirme çalışmaları gereklidir.
 
 ### Performans Metrikleri
-- **Ortalama Yanıt Süresi**: ~2-3 saniye
-- **Retrieval Başarı Oranı**: %89 (relevant document retrieval)
-- **Tarihsel Doğruluk**: %95+ (açık kaynaklı doğrulanmış veriler)
-- **Context Relevance Score**: Ortalama 0.78
+- **Ortalama Yanıt Süresi**: ~2-3 saniye *(Gözlemlenen)*
+    - Gemini Flash ve optimize edilmiş FAISS araması sayesinde hızlı yanıtlar hedeflenmiştir.
+- **Tahmini Retrieval Başarı Oranı**: ~%85-90 civarında *(Tahmini)*
+    - Gelişmiş embedding modeli ve optimize edilmiş chunklama stratejisi ile yüksek oranda ilgili dokümanların bulunması hedeflenmektedir. Kesin oran için formal değerlendirme gereklidir.
+- **Hedeflenen Tarihsel Doğruluk**: Yüksek (%90+) *(Tahmini)*
+    - Yanıtlar, Türk Tarih Kurumu gibi doğrulanmış ve güvenilir kaynaklara dayandığı için, üretilen yanıtların tarihsel doğruluğunun yüksek olması beklenmektedir. Ancak LLM'in yorumlama kapasitesine bağlıdır.
+- **Ortalama Benzerlik Skoru (Context Relevance)**: ~0.75 - 0.80 *(Gözlemlenen)*
+    - Test sorgularında, bulunan en alakalı metin parçalarının sorguyla ortalama Kosinüs Benzerliği bu aralıkta gözlemlenmiştir. Bu, retrieval mekanizmasının anlamsal olarak ilgili bağlamı bulabildiğini göstermektedir.
 
 ### Güçlü Yönler
 ✅ Türkçe dilinde yüksek performans  
@@ -148,13 +154,16 @@ Projenin veri seti **tamamen açık kaynaklardan** oluşturulmuştur ve telif ih
 ⚠️ Tartışmalı tarihi olaylarda çoklu perspektif sunma  
 ⚠️ Görsel içerik desteği (harita, timeline, resim)  
 
-### Örnek Kullanım Senaryoları
-1. "Orhun Yazıtları'nın Türk tarihi için önemi nedir?" → %79 doğruluk
-2. "Karahanlı Devleti'nin İslamiyet'i kabulü nasıl oldu?" → %78 doğruluk
-3. "Kösedağ Savaşı'nın Anadolu'daki siyasi etkileri nelerdir?" → %73 doğruluk
-4. "İstanbul'un Fethi'nin dünya tarihi açısından sonuçları nelerdir?" → %81 doğruluk
-5. "Erzurum Kongresi'nde alınan temel kararlar nelerdir?" → %78 doğruluk
-6. "Cumhuriyet'in ilanı ne zaman ve nasıl gerçekleşti?" → %71 doğruluk
+### Örnek Kullanım Senaryoları ve Benzerlik Skorları
+
+Aşağıda bazı örnek sorular ve RAG sistemimizin bu sorular için bulduğu en alakalı metin parçasıyla arasındaki anlamsal benzerlik skorları (Cosine Similarity) gösterilmiştir:
+
+1.  "Orhun Yazıtları'nın Türk tarihi için önemi nedir?" → En Yüksek Benzerlik: %79
+2.  "Karahanlı Devleti'nin İslamiyet'i kabulü nasıl oldu?" → En Yüksek Benzerlik: %78
+3.  "Kösedağ Savaşı'nın Anadolu'daki siyasi etkileri nelerdir?" → En Yüksek Benzerlik: %73
+4.  "İstanbul'un Fethi'nin dünya tarihi açısından sonuçları nelerdir?" → En Yüksek Benzerlik: %81
+5.  "Erzurum Kongresi'nde alınan temel kararlar nelerdir?" → En Yüksek Benzerlik: %78
+6.  "Cumhuriyet'in ilanı ne zaman ve nasıl gerçekleşti?" → En Yüksek Benzerlik: %71
 
 ---
 
