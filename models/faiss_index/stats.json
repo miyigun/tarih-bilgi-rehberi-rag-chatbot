@@ -1,0 +1,14 @@
+{
+  "total_chunks": 2040,
+  "dimension": 384,
+  "model_name": "models/embeddings/paraphrase-multilingual-MiniLM-L12-v2",
+  "data_source": "Tarih Bilgi Rehberi - Türk Tarihi",
+  "periods": [
+    "Cumhuriyet Dönemi",
+    "Millî Mücadele Dönemi",
+    "Anadolu Beylikleri Dönemi",
+    "İlk Türk-İslam Devletleri",
+    "Osmanlı Devleti",
+    "İslamiyet Öncesi Türk Tarihi"
+  ]
+}

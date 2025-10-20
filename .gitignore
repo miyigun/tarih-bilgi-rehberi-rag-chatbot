@@ -42,7 +42,6 @@ ENV/
 .ipynb_checkpoints
 
 # Models and Data (isteğe bağlı)
-models/faiss_index/
 data/raw/*.pdf
 data/raw/*.docx
 data/processed/
