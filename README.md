@@ -255,12 +255,12 @@ Chatbot'u test etmek için şu soruları deneyebilirsiniz:
 **Türk-İslam Devletleri:**
 - "Karahanlı Devleti'nin İslamiyet'i kabulü nasıl oldu?"
 - "Gazneli Mahmud'un Hindistan seferlerinin amaçları nelerdi?"
-- "Büyük Selçuklu Devleti'nin en parlak dönemi ne zamandı?"
+- "Gök Tanrı inancı ve İslamiyet arasındaki benzerlikler nelerdir?"
 
 **Anadolu Beylikleri:**
-- "Anadolu Selçuklu Devleti'nin başkenti neresiydi?"
+- "Malazgirt Savaşı hakkında bilgi verir misin?"
 - "Kösedağ Savaşı'nın Anadolu'daki siyasi etkileri nelerdir?"
-- "Karamanoğulları Beyliği'nin Türkçeye verdiği önem nedir?"
+- "Moğol İstilası'nın Türkleşmeye etkisi nedir?"
 
 **Osmanlı:**
 - "İstanbul'un Fethi'nin dünya tarihi açısından sonuçları nelerdir?"
@@ -274,7 +274,7 @@ Chatbot'u test etmek için şu soruları deneyebilirsiniz:
 
 **Cumhuriyet:**
 - "Cumhuriyet'in ilanı ne zaman ve nasıl gerçekleşti?"
-- "Harf İnkılabı'nın amacı ve sonuçları nedir?"
+- "Halifeliğin kaldırılması süreci hakkında bilgi verir misin?"
 - "Çok partili hayata geçiş denemeleri nelerdir?"
 
 ---
