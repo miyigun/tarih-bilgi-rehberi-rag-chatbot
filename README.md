@@ -149,10 +149,12 @@ Projenin veri seti **tamamen açık kaynaklardan** oluşturulmuştur ve telif ih
 ⚠️ Görsel içerik desteği (harita, timeline, resim)  
 
 ### Örnek Kullanım Senaryoları
-1. "Malazgirt Savaşı ne zaman oldu ve sonuçları neydi?" → %94 doğruluk
-2. "Osmanlı Devleti'nin yükselme döneminde hangi padişahlar vardı?" → %91 doğruluk
-3. "Türklerin İslamiyet'i kabul süreci nasıl gelişti?" → %88 doğruluk
-4. "Cumhuriyet döneminde yapılan inkılaplar nelerdir?" → %93 doğruluk
+1. "Orhun Yazıtları'nın Türk tarihi için önemi nedir?" → %79 doğruluk
+2. "Karahanlı Devleti'nin İslamiyet'i kabulü nasıl oldu?" → %78 doğruluk
+3. "Kösedağ Savaşı'nın Anadolu'daki siyasi etkileri nelerdir?" → %73 doğruluk
+4. "İstanbul'un Fethi'nin dünya tarihi açısından sonuçları nelerdir?" → %81 doğruluk
+5. "Erzurum Kongresi'nde alınan temel kararlar nelerdir?" → %78 doğruluk
+6. "Cumhuriyet'in ilanı ne zaman ve nasıl gerçekleşti?" → %71 doğruluk
 
 ---
 
