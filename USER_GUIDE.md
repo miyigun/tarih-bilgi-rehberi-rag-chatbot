@@ -5,9 +5,12 @@ Tarih Bilgi Rehberi Chatbot'u nasıl kullanacağınızı öğrenmek için bu kı
 ## 🌐 Web Arayüzüne Erişim
 
 ### Demo Link
-**URL**: [https://tarih-bilgi-rehberi.streamlit.app](https://tarih-bilgi-rehberi.streamlit.app)
 
-*(Not: Gerçek deployment sonrası güncellenecektir)*
+Uygulamanın canlı demosuna aşağıdaki linkten erişebilirsiniz:
+
+**URL**: [https://tarih-bilgi-rehberi-rag-chatbot-eu8pvgcka8w9xkuyx7uhjt.streamlit.app/](https://tarih-bilgi-rehberi-rag-chatbot-eu8pvgcka8w9xkuyx7uhjt.streamlit.app/)
+
+*(Not: Uygulama ücretsiz Streamlit Cloud üzerinde barındırıldığı için ilk açılışta veya yoğunluk durumunda yavaşlık yaşanabilir.)*
 
 ### İlk Giriş
 1. Yukarıdaki linke tıklayın
