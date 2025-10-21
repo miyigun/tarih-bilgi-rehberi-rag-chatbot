@@ -189,7 +189,7 @@ Projenin veri seti **tamamen açık kaynaklardan** oluşturulmuştur ve **telif 
 
 Uygulamaya aşağıdaki link üzerinden erişebilir ve Türk Tarihi ile ilgili sorularınızı sorabilirsiniz:
 
-➡️ **[DEMO LİNKİ](https://tarih-bilgi-rehberi-rag-chatbot-eu8pvgcka8w9xkuyx7uhjt.streamlit.app/)**
+➡️ **[Streamlit Linki](https://tarih-bilgi-rehberi-rag-chatbot-eu8pvgcka8w9xkuyx7uhjt.streamlit.app/)**
 
 > **Not:** Uygulama ücretsiz Streamlit Cloud üzerinde barındırıldığı için ilk açılışta veya yoğunluk durumunda yavaşlık yaşanabilir.
 
