@@ -9,6 +9,15 @@ import streamlit as st
 # st.components.v1.html() zaten çalışır)
 import streamlit.components.v1 as components
 
+def get_similarity_color(similarity):
+    """ Benzerlik skoruna göre bir renk kodu döner. """
+    if similarity > 0.7:
+        return "rgba(0, 255, 100, 0.8)" # Güçlü Yeşil (Çok Alakalı)
+    elif similarity > 0.5:
+        return "rgba(255, 255, 0, 0.8)" # Nötr Sarı (Alakalı)
+    else:
+        return "rgba(255, 100, 100, 0.8)" # Zayıf Kırmızı (Az Alakalı)
+
 # src modülünü import edebilmek için path ekle - KRİTİK!
 sys.path.append(str(Path(__file__).parent / "src"))
 
@@ -99,6 +108,14 @@ st.markdown("""
                     inset 0 0 15px rgba(227, 10, 23, 0.1);
         backdrop-filter: blur(10px);
     }
+
+    /* Chat Mesajlarına Hover Efekti */
+    .stChatMessage:hover {
+        transform: scale(1.01); /* Hafifçe büyüt */
+        border-color: rgba(227, 10, 23, 0.6) !important; /* Çerçeveyi parlat */
+        box-shadow: 0 0 25px rgba(227, 10, 23, 0.4) !important; /* Gölgeyi artır */
+        transition: all 0.2s ease; /* Yumuşak geçiş */
+    }     
     
     /* Kullanıcı Mesajı */
     [data-testid="stChatMessageContent"] {
@@ -304,6 +321,8 @@ def display_message(role, content, sources=None):
                     yil = source.get('yil', '')
                     kaynak = source.get('kaynak', 'Bilinmiyor')
                     similarity = source.get('similarity', 0.0)
+
+                    color = get_similarity_color(similarity)
                     
                     # Başlık oluştur
                     title = f"**{i}. {donem}**"
@@ -311,7 +330,8 @@ def display_message(role, content, sources=None):
                         title += f" (Yıl: {yil})"
                     
                     st.markdown(title)
-                    st.markdown(f"> _{kaynak}_ - (Benzerlik: {similarity:.2f})")
+
+                    st.markdown(f"> _{kaynak}_ - <span style='color: {color}; font-weight: bold;'>Benzerlik: {similarity:.2f}</span>", unsafe_allow_html=True)
                     
                     st.container(border=True).markdown(f"_{source_text}_")
 
@@ -480,9 +500,30 @@ def main():
                     handle_sidebar_click(q)
                     # st.rerun()
 
+        st.markdown("---") # Ayırıcı
+        
+        # Yeni Sohbet Butonu
+        if st.button("🗑️ Yeni Sohbet Başlat", use_container_width=True):
+            # Mesaj listesini boşalt
+            st.session_state.messages = [] 
+            # Scroll bayrağını temizle (boş sayfada kaydırmaya gerek yok)
+            if 'scroll_to_bottom' in st.session_state:
+                st.session_state.scroll_to_bottom = False
+            # Değişikliklerin uygulanması için sayfayı yeniden çalıştır
+            st.rerun()
+
 
     # === ANA CHAT BÖLÜMÜ ===
     st.title("Tarih Bilgi Rehberi Chatbot")
+
+    # --- KARŞILAMA MESAJI ---
+    if not st.session_state.messages:
+        # Eğer sohbet geçmişi boşsa, bir karşılama mesajı ekle
+        st.session_state.messages.append({
+            "role": "assistant",
+            "content": "Merhaba! Ben Tarih Bilgi Rehberi. 📜\n\nTürk tarihi hakkında bana dilediğin soruyu sorabilirsin. Başlamak için yandaki örnek sorulardan birini seçebilir veya kendi sorunu yazabilirsin.",
+            "sources": None
+        })
 
     # Sohbet geçmişini göster
     for message in st.session_state.messages:
