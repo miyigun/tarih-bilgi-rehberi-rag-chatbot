@@ -245,29 +245,21 @@ Uygulamaya aşağıdaki link üzerinden erişebilir ve Türk Tarihi ile ilgili s
 
 Ekran Görüntüleri
 
-Ana Ekran
+- Ana Ekran
+  <img src="screen_1.png" alt="Ana Ekran" width="100%">
 
-Sohbet Arayüzü
+- Sohbet Arayüzü
+  <img src="screen_3.png" alt="Sohbet Arayüzü" width="100%">
+  <img src="screen_4.png" alt="Sohbet Arayüzü" width="100%">
 
-Kaynak Gösterimi
+- Kaynak Gösterimi
+  <img src="screen_6.png" alt="Mobil Görünüm" width="100%">
 
-<img src="screen_1.png" alt="Ana Ekran" width="100%">
+- Örnek Sorular
+  <img src="screen_5.png" alt="Proje Bilgisi" width="100%">
 
-<img src="screen_2.png" alt="Sohbet Arayüzü" width="100%">
-
-<img src="screen_3.png" alt="Kaynak Gösterimi" width="100%">
-
-Örnek Sorular
-
-Proje Bilgisi
-
-Mobil Görünüm
-
-<img src="screen_4.png" alt="Örnek Sorular" width="100%">
-
-<img src="screen_5.png" alt="Proje Bilgisi" width="100%">
-
-<img src="screen_6.png" alt="Mobil Görünüm" width="100%">
+- Proje Bilgisi
+  <img src="screen_2.png" alt="Proje Bilgisi" width="100%">
 
 Arayüzü kullanma kılavuzu için USER_GUIDE.md dosyasına göz atabilirsiniz.
 
