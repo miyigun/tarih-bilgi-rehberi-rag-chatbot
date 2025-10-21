@@ -176,7 +176,7 @@ Projenin veri seti **tamamen açık kaynaklardan** oluşturulmuştur ve **telif 
 
 | Soru | Benzerlik Skoru |
 |------|----------------|
-| "Orhun Yazıtları'nın Türk tarihi için önemi nedir?" | %79 |
+| "Türk adının tarihsel kökenini açıklar mısın?" | %86 |
 | "Karahanlı Devleti'nin İslamiyet'i kabulü nasıl oldu?" | %78 |
 | "Kösedağ Savaşı'nın Anadolu'daki siyasi etkileri nelerdir?" | %73 |
 | "İstanbul'un Fethi'nin dünya tarihi açısından sonuçları nelerdir?" | %81 |
@@ -288,7 +288,7 @@ Chatbot'u test etmek için şu soruları deneyebilirsiniz:
 
 ### 🏛️ İslamiyet Öncesi
 - "Göktürk Kağanlığı'nın kuruluşu hakkında bilgi ver"
-- "Orhun Yazıtları'nın Türk tarihi için önemi nedir?"
+- "Türk adının tarihsel kökenini açıklar mısın?"
 - "Uygur Kağanlığı'nın yerleşik hayata geçişi nasıl oldu?"
 
 ### ☪️ Türk-İslam Devletleri

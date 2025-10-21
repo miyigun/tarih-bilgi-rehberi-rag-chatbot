@@ -414,7 +414,7 @@ def main():
         with st.expander("📜 İslamiyet Öncesi"):
             questions_1 = [
                 "Göktürk Kağanlığı'nın kuruluşu hakkında bilgi verir misin?",
-                "Orhun Yazıtları'nın Türk tarihi için önemi nedir?",
+                "Türk adının tarihsel kökenini açıklar mısın?",
                 "Uygur Kağanlığı'nın yerleşik hayata geçişi nasıl oldu?"
             ]
             for q in questions_1:

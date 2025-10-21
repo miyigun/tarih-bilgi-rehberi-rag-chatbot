@@ -74,22 +74,35 @@ Sol taraftaki kenar çubuğunda:
 ### Örnek Sorular - Dönemlere Göre
 Sidebar'da dönem bazlı örnek sorular bulunur:
 
-#### 📜 İslamiyet Öncesi
-- "Göktürk Devleti'nin kuruluşu nedir?"
-- "Orhun Yazıtları ne anlatır?"
-- "Hunların Avrupa'ya göçü nasıl oldu?"
+### 🏛️ İslamiyet Öncesi
+- "Göktürk Kağanlığı'nın kuruluşu hakkında bilgi verir misin?"
+- "Türk adının tarihsel kökenini açıklar mısın?"
+- "Uygur Kağanlığı'nın yerleşik hayata geçişi nasıl oldu?"
 
-#### 🕌 Türk-İslam Devletleri
-- "Büyük Selçuklu Devleti'nin sınırları nerelereydi?"
-- "İkta sistemi nasıl işlerdi?"
+### ☪️ Türk-İslam Devletleri
+- "Karahanlı Devleti'nin İslamiyet'i kabulü nasıl oldu?"
+- "Gazneli Mahmud'un Hindistan seferlerinin amaçları nelerdi?"
+- "Gök Tanrı inancı ve İslamiyet arasındaki benzerlikler nelerdir?"
 
-#### 🏰 Osmanlı Dönemi
-- "İstanbul'un fethi nasıl gerçekleşti?"
-- "Tanzimat Fermanı'nın önemi nedir?"
+### 🏰 Anadolu Beylikleri
+- "Malazgirt Savaşı hakkında bilgi verir misin?"
+- "Kösedağ Savaşı'nın Anadolu'daki siyasi etkileri nelerdir?"
+- "Moğol İstilası'nın Türkleşmeye etkisi nedir?"
 
-#### 🇹🇷 Millî Mücadele & Cumhuriyet
-- "Lozan Antlaşması'nın önemi nedir?"
-- "Atatürk inkılapları nelerdir?"
+### 🕌 Osmanlı
+- "İstanbul'un Fethi'nin dünya tarihi açısından sonuçları nelerdir?"
+- "Kanuni Sultan Süleyman dönemi neden 'Muhteşem Yüzyıl' olarak adlandırılır?"
+- "Tanzimat Fermanı'nın amacı neydi?"
+
+### 🇹🇷 Millî Mücadele
+- "Amasya Genelgesi'nin Millî Mücadele'deki yeri nedir?"
+- "Erzurum Kongresi'nde alınan temel kararlar nelerdir?"
+- "Sakarya Meydan Muharebesi'nin sonuçları nelerdir?"
+
+### 🎯 Cumhuriyet
+- "Cumhuriyet'in ilanı ne zaman ve nasıl gerçekleşti?"
+- "Halifeliğin kaldırılması süreci hakkında bilgi verir misin?"
+- "Çok partili hayata geçiş denemeleri nelerdir?"
 
 ### Sistem Bilgileri
 - Tarihsel kayıt sayısı
@@ -171,32 +184,34 @@ Sidebar'da dönem bazlı örnek sorular bulunur:
 
 ### Soru Türleri
 
+Chatbot'a farklı türlerde sorular sorabilirsiniz. İşte bazı örnekler:
+
 #### 1. Tarihsel Olay Soruları
-**Örnek**: "Ne zaman oldu?", "Nasıl gerçekleşti?"
+**Örnek**: "Ne zaman oldu?", "Nasıl gerçekleşti?", "Sonuçları ne oldu?"
 ```
-Soru: "Malazgirt Savaşı ne zaman oldu?"
+Soru: "İstanbul'un Fethi'nin dünya tarihi açısından sonuçları nelerdir?" 
 Yanıt: Tarih + Taraflar + Sonuçları + Önemi
 ```
 
 #### 2. Kişi ve Devlet Soruları
-**Örnek**: "Kim?", "Hangi dönem?"
+**Örnek**: "Kim?", "Hangi dönem?", "Nasıl kuruldu?"
 ```
-Soru: "Fatih Sultan Mehmed kimdir?"
-Yanıt: Yaşam + Dönemi + Önemli Olaylar + Mirası
+Soru: "Karahanlı Devleti'nin İslamiyet'i kabulü nasıl oldu?" 
+Yanıt: Devletin Kuruluşu/Kişinin Yaşamı + Dönemi + Önemli Olaylar + Mirası
 ```
 
-#### 3. Kavram Açıklama
-**Örnek**: "Nedir?", "Ne demektir?"
+#### 3. Kavram veya Önemi Açıklama
+**Örnek**: "Nedir?", "Ne demektir?", "Önemi nedir?"
 ```
-Soru: "İkta sistemi nedir?"
-Yanıt: Tanım + Nasıl İşlediği + Önemi
+Soru: "Türk adının tarihsel kökenini açıklar mısın?" 
+Yanıt: Tanım + Nasıl İşlediği/İçeriği + Önemi + Örnekler
 ```
 
 #### 4. Neden-Sonuç İlişkisi
-**Örnek**: "Neden?", "Sonuçları ne oldu?"
+**Örnek**: "Neden?", "Etkileri ne oldu?"
 ```
-Soru: "Osmanlı'nın gerileme sebepleri nelerdi?"
-Yanıt: Nedenler + Süreç + Sonuçlar
+Soru: "Kösedağ Savaşı'nın Anadolu'daki siyasi etkileri nelerdir?" 
+Yanıt: Olayın Nedenleri + Süreç + Doğrudan ve Dolaylı Sonuçları
 ```
 
 ---
@@ -248,10 +263,10 @@ Yanıt: Nedenler + Süreç + Sonuçlar
 **Durum**: YKS/KPSS tarih soruları için çalışıyorsunuz
 
 **Örnek Soru Dizisi**:
-1. "Malazgirt Savaşı'nın sonuçları nelerdi?"
-2. "Anadolu'nun Türkleşmesi nasıl oldu?"
-3. "Osmanlı'nın kuruluş dönemi padişahları kimlerdi?"
-4. "Lozan Antlaşması'nın maddeleri nelerdir?"
+1. "İstanbul'un Fethi'nin dünya tarihi açısından sonuçları nelerdir?" 
+2. "Karahanlı Devleti'nin İslamiyet'i kabulü nasıl oldu?" 
+3. "Türk adının tarihsel kökenini açıklar mısın?"
+4. "Kösedağ Savaşı'nın Anadolu'daki siyasi etkileri nelerdir?"
 
 **Beklenen Sonuç**: Kronolojik, kaynaklı, sınav odaklı bilgi
 
