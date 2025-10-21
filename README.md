@@ -220,15 +220,6 @@ Uygulamaya aşağıdaki link üzerinden erişebilir ve Türk Tarihi ile ilgili s
 ```
 tarih-bilgi-rehberi-chatbot/
 │
-├── data/
-│   └── raw/                            # Ham JSON veri dosyaları
-│       ├── islamiyet_oncesi.json       # İslamiyet Öncesi Türk Tarihi
-│       ├── ilk_turk_islam_devletleri.json
-│       ├── anadolu_beylikleri.json
-│       ├── osmanli_devleti.json
-│       ├── milli_mucadele.json
-│       └── cumhuriyet.json
-│
 ├── models/
 │   ├── embeddings/                     # Embedding model cache
 │   └── faiss_index/                    # FAISS vector database

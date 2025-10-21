@@ -322,16 +322,6 @@ Process:
 ```
 tarih-bilgi-rehberi-chatbot/
 │
-├── data/
-│   ├── raw/                           # JSON veri dosyaları
-│   │   ├── islamiyet_oncesi.json
-│   │   ├── ilk_turk_islam_devletleri.json
-│   │   ├── anadolu_beylikleri.json
-│   │   ├── osmanli_devleti.json
-│   │   ├── milli_mucadele.json
-│   │   └── cumhuriyet.json
-│   └── processed/                     # İşlenmiş veri (opsiyonel)
-│
 ├── models/
 │   ├── embeddings/                    # Embedding model cache
 │   └── faiss_index/                   # FAISS index dosyaları
@@ -347,9 +337,12 @@ tarih-bilgi-rehberi-chatbot/
 │
 ├── app.py                             # Streamlit UI (Tarih temalı)
 ├── requirements.txt
-├── .env                               # API keys
-├── setup.py                           # Kurulum scripti
-└── README.md                          # Proje dokümantasyonu
+├── .env.example                        # API key template
+├── setup.py                            # Kurulum scripti
+├── setup.md                            # Kurulum kılavuzu
+├── USER_GUIDE.md                       # Kullanıcı kılavuzu
+├── ARCHITECTURE.md                     # Proje mimarisi
+└── README.md                           # Proje dokümantasyonu
 ```
 
 ### Veri Akış Diyagramı
