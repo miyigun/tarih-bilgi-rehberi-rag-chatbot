@@ -382,7 +382,7 @@ def main():
         st.markdown("### 📖 Kullanım Kılavuzu")
         st.info(
             """
-            1.  **Soru Sorun**: Alttaki chat kutusuna Türk tarihi ile ilgili sorunuzu yazın.
+            1.  **Soru Sorun**: Sağdaki chat kutusuna Türk tarihi ile ilgili sorunuzu yazın.
             2.  **Yanıt Alın**: Yapay zeka, bilgi bankasındaki kayıtlara göre yanıt üretecektir.
             3.  **Kaynakları İnceleyin**: Yanıtın altındaki "Kullanılan Kaynaklar" bölümünden bilginin hangi dokümandan geldiğini kontrol edebilirsiniz.
             """

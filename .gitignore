@@ -1,5 +1,6 @@
-# Python
-__pycache__/
+Python
+
+pycache/
 *.py[cod]
 *$py.class
 *.so
@@ -20,40 +21,50 @@ wheels/
 .installed.cfg
 *.egg
 
-# Virtual Environment
+Virtual Environment
+
 venv/
 env/
 ENV/
 .venv
 
-# IDE
+IDE / Editor
+
 .vscode/
+.devcontainer/
 .idea/
 *.swp
 *.swo
 *~
 .DS_Store
 
-# Environment Variables
+Environment Variables
+
 .env
 .env.local
 
-# Jupyter Notebook
+Jupyter Notebook
+
 .ipynb_checkpoints
 
-# Models and Data (isteğe bağlı)
-data/raw/*.pdf
-data/raw/*.docx
+Models and Data (isteğe bağlı)
+
+data/raw/.pdf
+data/raw/.docx
 data/processed/
 
-# Streamlit
+Streamlit
+
 .streamlit/
 
-# Logs
+Logs
+
 *.log
 
-# pytest
+pytest
+
 .pytest_cache/
 
-# mypy
+mypy
+
 .mypy_cache/
