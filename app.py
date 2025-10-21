@@ -349,7 +349,6 @@ def main():
                 <p style='color: #e8e8e8; font-size: 14px; margin-top: 10px;'>
                     RAG Tabanlı Türk Tarihi Asistanı
                 </p>
-                <!-- YENİ EKLENEN BÖLÜM -->
                 <div style='margin-top: 15px; padding: 5px; background: rgba(227, 10, 23, 0.1); border-radius: 10px; border: 1px solid rgba(227, 10, 23, 0.3);'>
                     <p style='color: #ffffff; font-size: 16px; font-weight: bold; margin: 0; text-shadow: 0 0 8px rgba(255, 255, 255, 0.7);'>
                         {sohbet_sayisi} Sohbet Kaydı
@@ -424,7 +423,7 @@ def main():
             for q in questions_1:
                 if st.button(q, key=f"q1_{q[:20]}", use_container_width=True):
                     handle_sidebar_click(q)
-                    st.rerun() 
+                    # st.rerun() 
         
         with st.expander("🕌 Türk-İslam Devletleri"):
             questions_2 = [
@@ -435,7 +434,7 @@ def main():
             for q in questions_2:
                 if st.button(q, key=f"q2_{q[:20]}", use_container_width=True):
                     handle_sidebar_click(q)
-                    st.rerun()
+                    # st.rerun()
 
         with st.expander("🏰 Anadolu Dönemi"):
             questions_3 = [
@@ -446,7 +445,7 @@ def main():
             for q in questions_3:
                 if st.button(q, key=f"q3_{q[:20]}", use_container_width=True):
                     handle_sidebar_click(q)
-                    st.rerun()
+                    # st.rerun()
         
         with st.expander("🏰 Osmanlı Dönemi"):
             questions_4 = [
@@ -457,7 +456,7 @@ def main():
             for q in questions_4:
                 if st.button(q, key=f"q4_{q[:20]}", use_container_width=True):
                     handle_sidebar_click(q)
-                    st.rerun()
+                    # st.rerun()
 
         with st.expander("🇹🇷 Millî Mücadele"):
             questions_5 = [
@@ -468,7 +467,7 @@ def main():
             for q in questions_5:
                 if st.button(q, key=f"q5_{q[:20]}", use_container_width=True):
                     handle_sidebar_click(q)
-                    st.rerun()
+                    # st.rerun()
 
         with st.expander("🛡️ Cumhuriyet Dönemi"):
             questions_6 = [
@@ -479,7 +478,7 @@ def main():
             for q in questions_6:
                 if st.button(q, key=f"q6_{q[:20]}", use_container_width=True):
                     handle_sidebar_click(q)
-                    st.rerun()
+                    # st.rerun()
 
 
     # === ANA CHAT BÖLÜMÜ ===
@@ -522,8 +521,6 @@ def main():
         st.session_state.run_query_from_sidebar = False
         if 'current_question' in st.session_state:
             del st.session_state.current_question
-            
-    # --- BİTİŞ ---
 
     # Soruyu işle
     if query_to_run:
@@ -560,11 +557,20 @@ def main():
         components.html(
             """
             <script>
-                // DOM'un güncellenmesi için küçük bir gecikme ekle (200ms)
+                // DOM'un güncellenmesi ve yeni mesajın eklenmesi için 
+                // 300ms'lik bir gecikme ekliyoruz.
                 window.setTimeout(function() {
-                    // Sayfayı en alta kaydır
-                    window.scrollTo(0, document.body.scrollHeight);
-                }, 200);
+                    // Tüm sohbet mesajı elementlerini bul
+                    const messages = window.parent.document.querySelectorAll('.stChatMessage');
+                    
+                    if (messages.length > 0) {
+                        // Son mesaj elementini bul
+                        const lastMessage = messages[messages.length - 1];
+                        
+                        // Son mesajı görüntü alanına kaydır (en alta hizalayarak)
+                        lastMessage.scrollIntoView({ behavior: 'smooth', block: 'end' });
+                    }
+                }, 300);
             </script>
             """,
             height=0,  # HTML bileşeninin yer kaplamaması için
