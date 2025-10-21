@@ -47,11 +47,9 @@ Jupyter Notebook
 
 .ipynb_checkpoints
 
-Models and Data (isteğe bağlı)
+Models and Data
 
-data/raw/.pdf
-data/raw/.docx
-data/processed/
+data/
 
 Streamlit
 

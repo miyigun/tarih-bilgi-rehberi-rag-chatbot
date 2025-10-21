@@ -5,6 +5,10 @@ import sys
 from pathlib import Path
 import streamlit as st
 
+# HTML bileşeni için (gerekli değil ancak iyi pratiktir, 
+# st.components.v1.html() zaten çalışır)
+import streamlit.components.v1 as components
+
 # src modülünü import edebilmek için path ekle - KRİTİK!
 sys.path.append(str(Path(__file__).parent / "src"))
 
@@ -540,12 +544,33 @@ def main():
                     "content": result["response"],
                     "sources": result["sources"]
                 })
+
+                # Bir sonraki render'da en alta scroll yapılması için bayrağı ayarla
+                st.session_state.scroll_to_bottom = True
                 
                 # Ekranı yeniden çiz
                 st.rerun()
 
             except Exception as e:
                 st.error(f"Sorgu işlenirken bir hata oluştu: {str(e)}")
+                
+    # Eğer bir önceki adımda yeni mesaj eklendiyse (bayrak True ise),
+    # sayfanın en altına kaydırmak için JS enjekte et.
+    if st.session_state.get('scroll_to_bottom', False):
+        components.html(
+            """
+            <script>
+                // DOM'un güncellenmesi için küçük bir gecikme ekle (200ms)
+                window.setTimeout(function() {
+                    // Sayfayı en alta kaydır
+                    window.scrollTo(0, document.body.scrollHeight);
+                }, 200);
+            </script>
+            """,
+            height=0,  # HTML bileşeninin yer kaplamaması için
+        )
+        # Bayrağı tekrar False yap (gereksiz kaydırmaları önle)
+        st.session_state.scroll_to_bottom = False
 
 # Uygulamayı çalıştır
 if __name__ == "__main__":
