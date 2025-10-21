@@ -321,9 +321,11 @@ def main():
         st.error("Sistem başlatılamadı. Lütfen hata mesajlarını kontrol edin.")
         return
 
-    # === SIDEBAR ===
+        # === SIDEBAR ===
     with st.sidebar:
         # TÜRK BAYRAĞI BAŞLIK
+        # Sohbet sayısını hesapla (Her sohbet 1 kullanıcı + 1 asistan mesajından oluşur)
+        sohbet_sayisi = len(st.session_state.messages) // 2
         try:
             # flag.jpg dosyasını yükle ve göster
             from PIL import Image
@@ -334,7 +336,8 @@ def main():
             with col2:
                 st.image(flag_image, use_column_width=True)
             
-            st.markdown("""
+            # Başlık ve sohbet sayısını göster
+            st.markdown(f"""
             <div style='text-align: center; margin-top: 10px; margin-bottom: 20px;'>
                 <h1 style='color: #ffffff; font-size: 28px; margin: 0; text-shadow: 0 0 15px rgba(227, 10, 23, 0.8);'>
                     Tarih Bilgi Rehberi
@@ -342,12 +345,18 @@ def main():
                 <p style='color: #e8e8e8; font-size: 14px; margin-top: 10px;'>
                     RAG Tabanlı Türk Tarihi Asistanı
                 </p>
+                <!-- YENİ EKLENEN BÖLÜM -->
+                <div style='margin-top: 15px; padding: 5px; background: rgba(227, 10, 23, 0.1); border-radius: 10px; border: 1px solid rgba(227, 10, 23, 0.3);'>
+                    <p style='color: #ffffff; font-size: 16px; font-weight: bold; margin: 0; text-shadow: 0 0 8px rgba(255, 255, 255, 0.7);'>
+                        {sohbet_sayisi} Sohbet Kaydı
+                    </p>
+                </div>
             </div>
             """, unsafe_allow_html=True)
             
         except FileNotFoundError:
             # Eğer flag.jpg bulunamazsa, emoji kullan
-            st.markdown("""
+            st.markdown(f"""
             <div style='text-align: center; padding: 20px 0; margin-bottom: 20px;'>
                 <div style='font-size: 80px; margin-bottom: 10px; line-height: 1; filter: drop-shadow(0 0 10px rgba(227, 10, 23, 0.8));'>
                     🇹🇷
@@ -358,6 +367,12 @@ def main():
                 <p style='color: #e8e8e8; font-size: 14px; margin-top: 10px;'>
                     RAG Tabanlı Türk Tarihi Asistanı
                 </p>
+                <!-- YENİ EKLENEN BÖLÜM -->
+                <div style='margin-top: 15px; padding: 5px; background: rgba(227, 10, 23, 0.1); border-radius: 10px; border: 1px solid rgba(227, 10, 23, 0.3);'>
+                    <p style='color: #ffffff; font-size: 16px; font-weight: bold; margin: 0; text-shadow: 0 0 8px rgba(255, 255, 255, 0.7);'>
+                        {sohbet_sayisi} Sohbet Kaydı
+                    </p>
+                </div>
             </div>
             """, unsafe_allow_html=True)
             st.warning("⚠️ flag.jpg dosyası bulunamadı. Emoji kullanılıyor.")
