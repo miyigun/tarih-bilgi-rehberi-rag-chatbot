@@ -12,6 +12,7 @@ import numpy as np
 from sentence_transformers import SentenceTransformer
 import google.generativeai as genai
 from dotenv import load_dotenv
+from huggingface_hub import hf_hub_download
 
 # src klasörünü path'e ekle - KRİTİK!
 sys.path.append(str(Path(__file__).parent))
@@ -21,6 +22,43 @@ from retrieval import FAISSRetriever
 # Environment variables yükle
 load_dotenv()
 
+def download_faiss_index_from_hf(repo_id: str, local_dir: Path):
+    """
+    FAISS index dosyalarını Hugging Face Hub'dan indirir.
+    Eğer dosyalar zaten varsa, indirme yapmaz.
+    """
+    index_path = local_dir / "index.faiss"
+    metadata_path = local_dir / "metadata.json"
+
+    if index_path.exists() and metadata_path.exists():
+        print("✅ FAISS index dosyaları zaten mevcut.")
+        return
+
+    print(f"📂 FAISS index dosyaları indiriliyor... (Repo: {repo_id})")
+    local_dir.mkdir(parents=True, exist_ok=True)
+
+    try:
+        # index.faiss dosyasını indir
+        hf_hub_download(
+            repo_id=repo_id,
+            filename="index.faiss",
+            local_dir=local_dir,
+            repo_type="dataset"
+        )
+        # metadata.json dosyasını indir
+        hf_hub_download(
+            repo_id=repo_id,
+            filename="metadata.json",
+            local_dir=local_dir,
+            repo_type="dataset"
+        )
+        print("✅ FAISS index dosyaları başarıyla indirildi.")
+    except Exception as e:
+        print(f"❌ Hata: FAISS index indirilemedi. {e}")
+        # Hata durumunda indirme denemesinden kalan boş klasörü sil
+        if not any(local_dir.iterdir()):
+             local_dir.rmdir()
+        raise
 
 class RAGSystem:
     """Tarih RAG sistemi sınıfı - Retrieval ve Generation işlemleri"""
@@ -32,24 +70,23 @@ class RAGSystem:
         """
         self.index_dir = Path(index_dir)
 
-        # Hugging Face modelinin adı
-        MODEL_NAME = "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
-        
-        # Embedding model yükle
-        print(f"🔄 Embedding modeli yükleniyor... (Hugging Face: {MODEL_NAME})")
-        self.embedding_model = SentenceTransformer(
-            MODEL_NAME
-        )
+        # 1. ADIM: FAISS index dosyalarını Hugging Face'ten indir (eğer yoksa)
+        # Kendi Hugging Face kullanıcı adınızı ve dataset adınızı yazın
+        HF_REPO_ID = "miyigun/tarih-bilgi-rehberi-faiss-index" 
+        download_faiss_index_from_hf(repo_id=HF_REPO_ID, local_dir=self.index_dir)
 
-        # FAISS index yükle
-        print("🔄 FAISSRetriever başlatılıyor ve index yükleniyor...")
+        # 2. ADIM: Embedding modelini Hugging Face'ten yükle
+        MODEL_NAME = "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
+        print(f"🔄 Embedding modeli yükleniyor... (Hugging Face: {MODEL_NAME})")
+        self.embedding_model = SentenceTransformer(MODEL_NAME)
+
+        # 3. ADIM: Yerel FAISS index'ini yükle
+        print("🔄 FAISSRetriever başlatılıyor ve yerel index yükleniyor...")
         self.retriever = FAISSRetriever(index_path=index_dir)
         
         # Metadata yükle
         with open(self.index_dir / "metadata.json", 'r', encoding='utf-8') as f:
-            # metadata.json zaten bir liste, dict değil
-            self.chunks = json.load(f) 
-            self.metadata = self.chunks # veya self.metadata'yı hiç kullanmayın
+            self.chunks = json.load(f)
         
         # Gemini API yapılandır
         api_key = os.getenv("GOOGLE_API_KEY")
@@ -58,14 +95,14 @@ class RAGSystem:
         
         genai.configure(api_key=api_key)
 
-        # Gemini model - önce 2.0 dene, yoksa 2.5'a geç
+        # Gemini model
         try:
             self.model = genai.GenerativeModel('gemini-2.0-flash')
         except Exception:
             self.model = genai.GenerativeModel('gemini-2.5-flash')
         
         print(f"✅ Tarih RAG sistemi hazır (Toplam chunk: {len(self.chunks)})\n")
-    
+
     def retrieve(self, query: str, top_k: int = 5, threshold: float = 0.3) -> List[Dict]:
         """
         Sorgu için en alakalı chunk'ları bulur
