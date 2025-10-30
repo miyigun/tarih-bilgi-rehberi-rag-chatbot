@@ -32,15 +32,15 @@ class RAGSystem:
         """
         self.index_dir = Path(index_dir)
 
-        # Lokal modelin yolu
-        LOCAL_MODEL_PATH = "models/embeddings/paraphrase-multilingual-MiniLM-L12-v2"
+        # Hugging Face modelinin adı
+        MODEL_NAME = "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
         
         # Embedding model yükle
-        print(f"🔄 Embedding model yükleniyor... (Lokal: {LOCAL_MODEL_PATH})")
+        print(f"🔄 Embedding modeli yükleniyor... (Hugging Face: {MODEL_NAME})")
         self.embedding_model = SentenceTransformer(
-            LOCAL_MODEL_PATH
-        )       
-        
+            MODEL_NAME
+        )
+
         # FAISS index yükle
         print("🔄 FAISSRetriever başlatılıyor ve index yükleniyor...")
         self.retriever = FAISSRetriever(index_path=index_dir)

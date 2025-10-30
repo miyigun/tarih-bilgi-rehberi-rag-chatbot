@@ -16,13 +16,14 @@ from utils import clean_text
 class DataProcessor:
     """Tarih verisi işleme ve embedding oluşturma sınıfı"""
     
-    def __init__(self, data_dir: str = "data/raw", model_name: str = "models/embeddings/paraphrase-multilingual-MiniLM-L12-v2"):
+    def __init__(self, data_dir: str = "data/raw", model_name: str = "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"):
         """
         Args:
             data_dir: JSON veri dosyalarının bulunduğu dizin
             model_name: Kullanılacak embedding model(Lokal yoldan)
         """
         self.data_dir = Path(data_dir)
+        print(f"🔄 Embedding model yükleniyor... (Hugging Face: {model_name})")
         self.embedding_model = SentenceTransformer(model_name)
         self.dimension = self.embedding_model.get_sentence_embedding_dimension()
         self.text_splitter = RecursiveCharacterTextSplitter(
